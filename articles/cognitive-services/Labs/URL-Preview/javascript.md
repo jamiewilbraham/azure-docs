@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Project URL Preview, JavaScript"
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Script sample to quickly get started using the Bing URL Preview API with JavaScript.
 services: cognitive-services
 author: mikedodaro

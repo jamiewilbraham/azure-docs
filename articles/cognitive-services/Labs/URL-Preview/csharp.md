@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Project URL Preview, C#"
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Get started using Project URL Preview with C#.
 services: cognitive-services
 author: mikedodaro

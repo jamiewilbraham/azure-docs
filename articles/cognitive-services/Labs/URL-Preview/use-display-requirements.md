@@ -1,6 +1,6 @@
 ---
 title: Use and display requirements - Project URL Preview
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Use and display requirements for the Project URL Preview API endpoint.
 services: cognitive-services
 author: mikedodaro

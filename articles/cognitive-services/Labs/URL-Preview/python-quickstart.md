@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Project URL Preview, Python"
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Script sample to quickly get started using the Project URL Previewwith Python.
 services: cognitive-services
 author: mikedodaro
