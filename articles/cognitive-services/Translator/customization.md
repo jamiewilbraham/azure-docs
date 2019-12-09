@@ -38,7 +38,7 @@ More details about the various levels of customization based on available data c
 ## Microsoft Translator Hub
 
 > [!NOTE]
-> The legacy Microsoft Translator Hub will be retired on May 17, 2019. [View important migration information and dates](https://www.microsoft.com/translator/business/hub/).  
+> The legacy Microsoft Translator Hub was retired on May 17, 2019. [View important migration information and dates](https://www.microsoft.com/translator/business/hub/).  
 
 ## Custom Translator versus Hub
 
