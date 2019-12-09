@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Project Answer Search fact query"
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Queries for facts using Project Answer Search
 services: cognitive-services
 author: mikedodaro

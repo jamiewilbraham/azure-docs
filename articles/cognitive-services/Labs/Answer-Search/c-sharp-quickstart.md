@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Project Answer Search, C#"
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Code sample to get started using the Project Answer Search with C#.
 services: cognitive-services
 author: mikedodaro

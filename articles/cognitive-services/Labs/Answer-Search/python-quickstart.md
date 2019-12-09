@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Project Answer Search, Python"
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Python example get started using Project Answer Search.
 services: cognitive-services
 author: mikedodaro
