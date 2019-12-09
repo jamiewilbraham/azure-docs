@@ -21,7 +21,7 @@ The example code uses Java with minimal external dependencies.  You can also run
 
 ## Prerequisites
 
-Get an access key for the free trial [Cognitive Services Labs](https://labs.cognitive.microsoft.com/en-us/project-answer-search)
+Get an access key for the free trial [Cognitive Research Technologies](https://labs.cognitive.microsoft.com/en-us/project-answer-search)
 
 ## Request 
 
