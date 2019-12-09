@@ -1,7 +1,7 @@
 ---
 title: Interpret method - Academic Knowledge API
-titlesuffix: Azure Cognitive Services
-description: Use the Interpret method to return formatted interpretations of user query strings based on Academic Graph data and the Academic Grammar in Microsoft Cognitive Services.
+titlesuffix: Azure Cognitive Research Technologies
+description: Use the Interpret method to return formatted interpretations of user query strings based on Academic Graph data and the Academic Grammar in Microsoft Cognitive Research Technologies.
 services: cognitive-services
 author: alch-msft
 manager: nitinme
