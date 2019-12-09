@@ -1,6 +1,6 @@
 ---
 title: Structured query expressions - Knowledge Exploration Service API
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Learn how to use structured query expressions in the Knowledge Exploration Service (KES) API.
 services: cognitive-services
 author: bojunehsu
