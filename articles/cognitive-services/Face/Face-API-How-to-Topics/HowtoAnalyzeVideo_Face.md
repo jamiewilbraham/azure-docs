@@ -1,6 +1,6 @@
 ---
 title: "Example: Real-time video analysis - Face API"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use the Face API to perform near-real-time analysis on frames taken from a live video stream.
 services: cognitive-services
 author: SteveMSFT
@@ -189,7 +189,7 @@ namespace VideoFrameConsoleApplication
 
 The second sample app is a bit more interesting, and allows you to choose which API to call on the video frames. On the left-hand side, the app shows a preview of the live video, on the right-hand side it shows the most recent API result overlaid on the corresponding frame.
 
-In most modes, there will be a visible delay between the live video on the left, and the visualized analysis on the right. This delay is the time taken to make the API call. One exception is the "EmotionsWithClientFaceDetect" mode, which performs face detection locally on the client computer using OpenCV, before submitting any images to Cognitive Services. This way, we can visualize the detected face immediately and then update the emotions once the API call returns. This is an example of a "hybrid" approach, where the client can perform some simple processing, and Cognitive Services APIs can augment this with more advanced analysis when necessary.
+In most modes, there will be a visible delay between the live video on the left, and the visualized analysis on the right. This delay is the time taken to make the API call. One exception is the "EmotionsWithClientFaceDetect" mode, which performs face detection locally on the client computer using OpenCV, before submitting any images to Cognitive Research Technologies. This way, we can visualize the detected face immediately and then update the emotions once the API call returns. This is an example of a "hybrid" approach, where the client can perform some simple processing, and Cognitive Research Technologies APIs can augment this with more advanced analysis when necessary.
 
 ![HowToAnalyzeVideo](../../Video/Images/FramebyFrame.jpg)
 
@@ -213,7 +213,7 @@ When you're ready to integrate, **reference the VideoFrameAnalyzer library from 
 
 ## Summary
 
-In this guide, you learned how to run near-real-time analysis on live video streams using the Face, Computer Vision, and Emotion APIs, and how to use our sample code to get started. You can start building your app with free API keys at the [Azure Cognitive Services sign-up page](https://azure.microsoft.com/try/cognitive-services/). 
+In this guide, you learned how to run near-real-time analysis on live video streams using the Face, Computer Vision, and Emotion APIs, and how to use our sample code to get started. You can start building your app with free API keys at the [Azure Cognitive Research Technologies sign-up page](https://azure.microsoft.com/try/cognitive-services/). 
 
 Feel free to provide feedback and suggestions in the [GitHub repository](https://github.com/Microsoft/Cognitive-Samples-VideoFrameAnalysis/) or, for broader API feedback, on our [UserVoice site](https://cognitive.uservoice.com/).
 

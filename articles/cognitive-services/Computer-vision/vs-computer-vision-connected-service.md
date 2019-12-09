@@ -1,6 +1,6 @@
 ---
 title: "Visual Studio Connected Service - Computer Vision"
-titleSuffix: "Azure Cognitive Services"
+titleSuffix: "Azure Cognitive Research Technologies"
 description: Connect to the Computer Vision API from an ASP.NET Core web application using the Visual Studio Connected Service feature.
 services: cognitive-services
 author: ghogen
@@ -16,7 +16,7 @@ ms.custom: seodec18
 
 # Use Connected Services in Visual Studio to connect to the Computer Vision API
 
-This article and its companion articles provide details for using the Visual Studio Connected Service feature for Cognitive Services Computer Vision API. The capability is available in both Visual Studio 2017 15.7 or later, with the Cognitive Services extension installed.
+This article and its companion articles provide details for using the Visual Studio Connected Service feature for Cognitive Research Technologies Computer Vision API. The capability is available in both Visual Studio 2017 15.7 or later, with the Cognitive Research Technologies extension installed.
 
 ## Prerequisites
 
@@ -25,7 +25,7 @@ This article and its companion articles provide details for using the Visual Stu
 
 [!INCLUDE [vs-install-cognitive-services-vsix](../../../includes/vs-install-cognitive-services-vsix.md)]
 
-## Add support to your project for Cognitive Services Computer Vision API
+## Add support to your project for Cognitive Research Technologies Computer Vision API
 
 1. Create a new ASP.NET Core web project. Use the Empty project template. 
 
@@ -34,7 +34,7 @@ This article and its companion articles provide details for using the Visual Stu
 
    ![right-click menu on a Visual Studio project: Add > Connected Service](../media/vs-common/Connected-Service-Menu.PNG)
 
-1. In the menu of available services, choose **Cognitive Services Computer Vision API**.
+1. In the menu of available services, choose **Cognitive Research Technologies Computer Vision API**.
 
    ![Connected Services menu: Analyze Images... is outlined](./media/vs-computer-vision-connected-service/Cog-Vision-Connected-Service-0.PNG)
 
@@ -147,7 +147,7 @@ This article and its companion articles provide details for using the Visual Stu
 
         app.Run(async (context) =>
         {
-            await context.Response.WriteAsync("<h1>Cognitive Services Demo</h1>");
+            await context.Response.WriteAsync("<h1>Cognitive Research Technologies Demo</h1>");
             await context.Response.WriteAsync($"<p><b>Test Image:</b></p>");
             await context.Response.WriteAsync($"<div><img src=\"" + imagePath + "\" /></div>");
             await context.Response.WriteAsync($"<p><b>Computer Vision API results:</b></p>");

@@ -1,6 +1,6 @@
 ---
 title: Authoring changes in the API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The authoring V2 and V3 APIs have changed. Use this guide to understand how to use the authoring APIs. 
 services: cognitive-services
 author: diberry

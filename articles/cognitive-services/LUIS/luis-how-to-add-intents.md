@@ -1,6 +1,6 @@
 ---
 title: Add intents - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Add intents to your LUIS app to identify groups of questions or commands that have the same intentions. 
 services: cognitive-services
 author: diberry

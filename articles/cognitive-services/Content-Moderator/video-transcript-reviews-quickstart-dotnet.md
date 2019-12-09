@@ -1,7 +1,7 @@
 ---
 title: Create video transcript reviews using .NET - Content Moderator
-titleSuffix: Azure Cognitive Services
-description: Learn how to create video transcript reviews using the Azure Cognitive Services Content Moderator SDK for .NET.
+titleSuffix: Azure Cognitive Research Technologies
+description: Learn how to create video transcript reviews using the Azure Cognitive Research Technologies Content Moderator SDK for .NET.
 services: cognitive-services
 author: PatrickFarley
 manager: nitinme

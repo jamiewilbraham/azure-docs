@@ -1,7 +1,7 @@
 ---
 title: What is the Speaker Recognition API?
-titleSuffix: Azure Cognitive Services
-description: Speaker verification and speaker identification with the Speaker Recognition API in Cognitive Services.
+titleSuffix: Azure Cognitive Research Technologies
+description: Speaker verification and speaker identification with the Speaker Recognition API in Cognitive Research Technologies.
 services: cognitive-services
 author: dwlin
 manager: nitinme

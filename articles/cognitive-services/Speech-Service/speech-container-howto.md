@@ -1,6 +1,6 @@
 ---
 title: Install Speech containers - Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Install and run speech containers. Speech-to-text transcribes audio streams to text in real time that your applications, tools, or devices can consume or display. Text-to-speech converts input text into human-like synthesized speech.
 services: cognitive-services
 author: IEvangelist
@@ -42,7 +42,7 @@ The following prerequisites before using Speech containers:
 
 ## Request access to the container registry
 
-Fill out and submit the [Cognitive Services Speech Containers Request form](https://aka.ms/speechcontainerspreview/) to request access to the container. 
+Fill out and submit the [Cognitive Research Technologies Speech Containers Request form](https://aka.ms/speechcontainerspreview/) to request access to the container. 
 
 [!INCLUDE [Request access to the container registry](../../../includes/cognitive-services-containers-request-access-only.md)]
 
@@ -383,7 +383,7 @@ For more information on using WSS and HTTPS protocols, see [container security](
 
 If you intend to run multiple containers with exposed ports, make sure to run each container with a different exposed port. For example, run the first container on port 5000 and the second container on port 5001.
 
-You can have this container and a different Azure Cognitive Services container running on the HOST together. You also can have multiple containers of the same Cognitive Services container running.
+You can have this container and a different Azure Cognitive Research Technologies container running on the HOST together. You also can have multiple containers of the same Cognitive Research Technologies container running.
 
 [!INCLUDE [Validate container is running - Container's API documentation](../../../includes/cognitive-services-containers-api-documentation.md)]
 
@@ -395,7 +395,7 @@ You can have this container and a different Azure Cognitive Services container r
 
 When starting or running the container, you may experience issues. Use an output [mount](speech-container-configuration.md#mount-settings) and enable logging. Doing so will allow the container to generate log files that are helpful when troubleshooting issues.
 
-[!INCLUDE [Cognitive Services FAQ note](../containers/includes/cognitive-services-faq-note.md)]
+[!INCLUDE [Cognitive Research Technologies FAQ note](../containers/includes/cognitive-services-faq-note.md)]
 
 ## Billing
 
@@ -424,10 +424,10 @@ In this article, you learned concepts and workflow for downloading, installing, 
 * You're required to provide billing information when instantiating a container.
 
 > [!IMPORTANT]
->  Cognitive Services containers are not licensed to run without being connected to Azure for metering. Customers need to enable the containers to communicate billing information with the metering service at all times. Cognitive Services containers do not send customer data (e.g., the image or text that is being analyzed) to Microsoft.
+>  Cognitive Research Technologies containers are not licensed to run without being connected to Azure for metering. Customers need to enable the containers to communicate billing information with the metering service at all times. Cognitive Research Technologies containers do not send customer data (e.g., the image or text that is being analyzed) to Microsoft.
 
 ## Next steps
 
 * Review [configure containers](speech-container-configuration.md) for configuration settings
 * Learn how to [use Speech service containers with Kubernetes and Helm](speech-container-howto-on-premises.md)
-* Use more [Cognitive Services containers](../cognitive-services-container-support.md)
+* Use more [Cognitive Research Technologies containers](../cognitive-services-container-support.md)

@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Train a model and extract form data using cURL - Form Recognizer"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this quickstart, you'll use the Form Recognizer REST API with cURL to train a model and extract data from forms.
 author: PatrickFarley
 manager: nitinme

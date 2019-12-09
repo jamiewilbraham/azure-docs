@@ -1,6 +1,6 @@
 ---
 title: Register your application - Custom Decision Service
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: A step-by-step guide how to register a new app with Azure Custom Decision Service.
 services: cognitive-services
 author: slivkins

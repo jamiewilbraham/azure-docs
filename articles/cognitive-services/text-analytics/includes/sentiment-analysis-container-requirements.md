@@ -1,6 +1,6 @@
 ---
 title: Container requirements and recommendations
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Sentiment Analysis container requirements
 services: cognitive-services
 author: IEvangelist

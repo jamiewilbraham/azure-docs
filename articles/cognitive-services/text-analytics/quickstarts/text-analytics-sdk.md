@@ -1,7 +1,7 @@
 ---
 title: "Quickstart: Text Analytics client library | Microsoft Docs"
-titleSuffix: Azure Cognitive Services
-description: In this quickstart, detect language by using the Text Analytics API from Azure Cognitive Services.
+titleSuffix: Azure Cognitive Research Technologies
+description: In this quickstart, detect language by using the Text Analytics API from Azure Cognitive Research Technologies.
 services: cognitive-services
 author: aahill
 manager: nitinme
@@ -56,7 +56,7 @@ Use the Text Analytics client library to perform:
 
 ## Clean up resources
 
-If you want to clean up and remove a Cognitive Services subscription, you can delete the resource or resource group. Deleting the resource group also deletes any other resources associated with it.
+If you want to clean up and remove a Cognitive Research Technologies subscription, you can delete the resource or resource group. Deleting the resource group also deletes any other resources associated with it.
 
 * [Portal](../../cognitive-services-apis-create-account.md#clean-up-resources)
 * [Azure CLI](../../cognitive-services-apis-create-account-cli.md#clean-up-resources)

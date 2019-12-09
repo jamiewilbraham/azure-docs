@@ -1,6 +1,6 @@
 ---
 title: Text to Speech API of Microsoft Speech Service | Microsoft Docs
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Use the text to speech API to provide real-time text-to-speech conversion in a variety of voices and languages
 services: cognitive-services
 author: nitinme
@@ -24,7 +24,7 @@ With the Bing text to speech API, your application can send HTTP requests to a c
 
 ### <a name="Subscription"></a>Authorization token
 
-Every voice synthesis request requires a JSON Web Token (JWT) access token. The JWT access token is passed through in the speech request header. The token has an expiry time of 10 minutes. For information about subscribing and obtaining API keys that are used to retrieve valid JWT access tokens, see [Cognitive Services Subscription](https://azure.microsoft.com/try/cognitive-services/).
+Every voice synthesis request requires a JSON Web Token (JWT) access token. The JWT access token is passed through in the speech request header. The token has an expiry time of 10 minutes. For information about subscribing and obtaining API keys that are used to retrieve valid JWT access tokens, see [Cognitive Research Technologies Subscription](https://azure.microsoft.com/try/cognitive-services/).
 
 The API key is passed to the token service. For example:
 
@@ -140,13 +140,13 @@ Microsoft Text-to-Speech API supports SSML 1.0 as defined in W3C [Speech Synthes
 1. Adding break
 
    ```
-   <speak version='1.0' xmlns="https://www.w3.org/2001/10/synthesis" xml:lang='en-US'><voice  name='Microsoft Server Speech Text to Speech Voice (en-US, BenjaminRUS)'> Welcome to use Microsoft Cognitive Services <break time="100ms" /> Text-to-Speech API.</voice> </speak>
+   <speak version='1.0' xmlns="https://www.w3.org/2001/10/synthesis" xml:lang='en-US'><voice  name='Microsoft Server Speech Text to Speech Voice (en-US, BenjaminRUS)'> Welcome to use Microsoft Cognitive Research Technologies <break time="100ms" /> Text-to-Speech API.</voice> </speak>
    ```
 
 2. Change speaking rate
 
    ```
-   <speak version='1.0' xmlns="https://www.w3.org/2001/10/synthesis" xml:lang='en-US'><voice  name='Microsoft Server Speech Text to Speech Voice (en-US, JessaRUS)'><prosody rate="+30.00%">Welcome to use Microsoft Cognitive Services Text-to-Speech API.</prosody></voice> </speak>
+   <speak version='1.0' xmlns="https://www.w3.org/2001/10/synthesis" xml:lang='en-US'><voice  name='Microsoft Server Speech Text to Speech Voice (en-US, JessaRUS)'><prosody rate="+30.00%">Welcome to use Microsoft Cognitive Research Technologies Text-to-Speech API.</prosody></voice> </speak>
    ```
 
 3. Pronunciation
@@ -158,13 +158,13 @@ Microsoft Text-to-Speech API supports SSML 1.0 as defined in W3C [Speech Synthes
 4. Change volume
 
    ```
-   <speak version='1.0' xmlns="https://www.w3.org/2001/10/synthesis" xml:lang='en-US'><voice  name='Microsoft Server Speech Text to Speech Voice (en-US, JessaRUS)'><prosody volume="+20.00%">Welcome to use Microsoft Cognitive Services Text-to-Speech API.</prosody></voice> </speak>
+   <speak version='1.0' xmlns="https://www.w3.org/2001/10/synthesis" xml:lang='en-US'><voice  name='Microsoft Server Speech Text to Speech Voice (en-US, JessaRUS)'><prosody volume="+20.00%">Welcome to use Microsoft Cognitive Research Technologies Text-to-Speech API.</prosody></voice> </speak>
    ```
 
 5. Change pitch
 
    ```
-   <speak version='1.0' xmlns="https://www.w3.org/2001/10/synthesis" xml:lang='en-US'><voice  name='Microsoft Server Speech Text to Speech Voice (en-US, JessaRUS)'>Welcome to use <prosody pitch="high">Microsoft Cognitive Services Text-to-Speech API.</prosody></voice> </speak>
+   <speak version='1.0' xmlns="https://www.w3.org/2001/10/synthesis" xml:lang='en-US'><voice  name='Microsoft Server Speech Text to Speech Voice (en-US, JessaRUS)'>Welcome to use <prosody pitch="high">Microsoft Cognitive Research Technologies Text-to-Speech API.</prosody></voice> </speak>
    ```
 
 6. Change prosody contour

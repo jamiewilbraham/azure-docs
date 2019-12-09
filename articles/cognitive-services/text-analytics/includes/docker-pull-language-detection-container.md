@@ -1,6 +1,6 @@
 ---
 title: Docker pull for the Language Detection container
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Docker pull command for Language Detection container
 services: cognitive-services
 author: IEvangelist

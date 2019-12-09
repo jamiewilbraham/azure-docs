@@ -1,7 +1,7 @@
 ---
-title: What are Azure Cognitive Services?
-titleSuffix: Azure Cognitive Services
-description: Azure Cognitive Services are APIs, SDKs, and services that you can use with Microsoft Azure to build intelligent applications.
+title: What are Azure Cognitive Research Technologies?
+titleSuffix: Azure Cognitive Research Technologies
+description: Azure Cognitive Research Technologies are APIs, SDKs, and services that you can use with Microsoft Azure to build intelligent applications.
 services: cognitive-services
 author: nitinme
 manager: nitinme
@@ -13,9 +13,9 @@ ms.date: 11/04/2019
 ms.author: nitinme
 ---
 
-# What are Azure Cognitive Services?
+# What are Azure Cognitive Research Technologies?
 
-Azure Cognitive Services are APIs, SDKs, and services available to help developers build intelligent applications without having direct AI or data science skills or knowledge. Azure Cognitive Services enable developers to easily add cognitive features into their applications. The goal of Azure Cognitive Services is to help developers create applications that can see, hear, speak, understand, and even begin to reason. The catalog of services within Azure Cognitive Services can be categorized into five main pillars - Vision, Speech, Language, Web Search, and Decision.
+Azure Cognitive Research Technologies are APIs, SDKs, and services available to help developers build intelligent applications without having direct AI or data science skills or knowledge. Azure Cognitive Research Technologies enable developers to easily add cognitive features into their applications. The goal of Azure Cognitive Research Technologies is to help developers create applications that can see, hear, speak, understand, and even begin to reason. The catalog of services within Azure Cognitive Research Technologies can be categorized into five main pillars - Vision, Speech, Language, Web Search, and Decision.
 
 ## Vision APIs
 
@@ -84,21 +84,21 @@ All APIs have a free trial plan which has usage and throughput limits.  You can 
 
 ## Regional availability
 
-The APIs in Cognitive Services are hosted on a growing network of Microsoft-managed data centers. You can find the regional availability for each API in [Azure region list](https://azure.microsoft.com/regions).
+The APIs in Cognitive Research Technologies are hosted on a growing network of Microsoft-managed data centers. You can find the regional availability for each API in [Azure region list](https://azure.microsoft.com/regions).
 
 Looking for a region we don't support yet? Let us know by filing a feature request on our [UserVoice forum](https://cognitive.uservoice.com/).
 
 ## Supported cultural languages
 
- Cognitive Services supports a wide range of cultural languages at the service level. You can find the language availability for each API in the [supported languages list](language-support.md).
+ Cognitive Research Technologies supports a wide range of cultural languages at the service level. You can find the language availability for each API in the [supported languages list](language-support.md).
 
 ## Container support
 
- Cognitive Services provides containers for deployment in the Azure cloud or on-premises. Learn more about [Cognitive Services Containers](cognitive-services-container-support.md).
+ Cognitive Research Technologies provides containers for deployment in the Azure cloud or on-premises. Learn more about [Cognitive Research Technologies Containers](cognitive-services-container-support.md).
 
 ## Certifications and compliance
 
-Cognitive Services has been awarded certifications such as CSA STAR Certification, FedRAMP Moderate, and HIPAA BAA.
+Cognitive Research Technologies has been awarded certifications such as CSA STAR Certification, FedRAMP Moderate, and HIPAA BAA.
 
 You can [download](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942) certifications for your own audits and security reviews.
 
@@ -111,4 +111,4 @@ To understand privacy and data management, go to the [Trust Center](https://serv
 
 ## Next steps
 
-* [Create a Cognitive Services account](cognitive-services-apis-create-account.md)
+* [Create a Cognitive Research Technologies account](cognitive-services-apis-create-account.md)

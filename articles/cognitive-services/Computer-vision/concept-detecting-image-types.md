@@ -1,6 +1,6 @@
 ---
 title: Image type detection - Computer Vision
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Concepts related to the image type detection feature of the Computer Vision API.
 services: cognitive-services
 author: PatrickFarley

@@ -1,6 +1,6 @@
 ---
 title: Support and help options - Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: How to obtain help and support for questions and problems when you create applications that integrate with the Speech service
 services: cognitive-services
 author: jhakulin
@@ -18,7 +18,7 @@ ms.author: jhakulin
 Are you just starting to explore the functionality of the Speech service? Are you implementing a new feature to your application? Here are suggestions about where you can get help as a developer.
 
 > [!div class="checklist"]
-> * Stay informed about new developments in *Azure Cognitive Services*, or find the latest news related to the *Speech service*.
+> * Stay informed about new developments in *Azure Cognitive Research Technologies*, or find the latest news related to the *Speech service*.
 > * Release notes contain information for all releases.
 > * Search to see if your issue was discussed by the community, or if existing documentation for the feature you want to implement already exists.
 > * If you can't find a satisfactory answer, ask a question on *Stack Overflow*.
@@ -27,7 +27,7 @@ Are you just starting to explore the functionality of the Speech service? Are yo
 
 ## Stay informed
 
-News about Cognitive Services is collected in the [Cognitive Services blog](https://azure.microsoft.com/blog/topics/cognitive-services/). For the latest information about the Speech service, track the [Speech service blog](https://azure.microsoft.com/blog/tag/speech-service/).
+News about Cognitive Research Technologies is collected in the [Cognitive Research Technologies blog](https://azure.microsoft.com/blog/topics/cognitive-services/). For the latest information about the Speech service, track the [Speech service blog](https://azure.microsoft.com/blog/tag/speech-service/).
 
 ## Release notes
 
@@ -88,7 +88,7 @@ Steps to reproduce the behavior:
 
 A clear and concise description of what you expected to happen.
 
-**Version of the Cognitive Services Speech SDK**
+**Version of the Cognitive Research Technologies Speech SDK**
 
 Which version of the SDK are you using.
 
@@ -107,6 +107,6 @@ Which version of the SDK are you using.
 
 ## UserVoice forum
 
-Share your ideas for making Cognitive Services and the accompanying APIs work better for the applications you develop. Use our growing Knowledge Base to find answers to common questions:
+Share your ideas for making Cognitive Research Technologies and the accompanying APIs work better for the applications you develop. Use our growing Knowledge Base to find answers to common questions:
 
 [UserVoice](https://cognitive.uservoice.com/)

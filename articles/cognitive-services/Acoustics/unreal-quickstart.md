@@ -1,6 +1,6 @@
 ---
 title: Project Acoustics quickstart with Unreal
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Use sample content to experiment with Project Acoustics design controls in Unreal and Wwise, and deploy to Windows desktop.
 services: cognitive-services
 author: NoelCross

@@ -1,6 +1,6 @@
 ---
 title: Composite entity type - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: A composite entity is made up of other entities, such as prebuilt entities, simple, regular expression, and list entities. The separate entities form a whole entity.   
 services: cognitive-services
 author: diberry

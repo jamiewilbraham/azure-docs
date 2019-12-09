@@ -1,6 +1,6 @@
 ---
 title: Translator Text API v2.0
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Reference documentation for the Translator Text API v2.0.
 services: cognitive-services
 author: swmachan
@@ -28,7 +28,7 @@ All calls to the Translator Text API require a subscription key for authenticati
 
 - An access token. Use the subscription key to create an access token by making a POST request to the authentication service. See the token service documentation for details. Pass the access token to the Translator service by using the `Authorization` header or the `access_token` query parameter. The access token is valid for 10 minutes. Obtain a new access token every 10 minutes, and keep using the same access token for repeated requests during the 10 minutes.
 - A subscription key used directly. Pass your subscription key as a value in the `Ocp-Apim-Subscription-Key` header included with your request to the Translator Text API. When you use the subscription key directly, you don't have to call the token authentication service to create an access token.
-- An [Azure Cognitive Services multi-service subscription](https://azure.microsoft.com/pricing/details/cognitive-services/). This method allows you to use a single secret key to authenticate requests for multiple services.
+- An [Azure Cognitive Research Technologies multi-service subscription](https://azure.microsoft.com/pricing/details/cognitive-services/). This method allows you to use a single secret key to authenticate requests for multiple services.
 When you use a multi-service secret key, you need to include two authentication headers with your request. The first header passes the secret key. The second header specifies the region associated with your subscription:
    - `Ocp-Apim-Subscription-Key`
    - `Ocp-Apim-Subscription-Region`

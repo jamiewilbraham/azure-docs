@@ -1,6 +1,6 @@
 ---
 title: Use moderation jobs with the REST API console - Content Moderator
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use the Review API's job operations to initiate end-to-end content moderation jobs for image or text content in Azure Content Moderator. 
 services: cognitive-services
 author: PatrickFarley

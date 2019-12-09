@@ -1,6 +1,6 @@
 ---
 title: Long Audio API (Preview) - Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description:
 services: cognitive-services
 author: erhopf

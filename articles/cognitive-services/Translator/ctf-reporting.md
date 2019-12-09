@@ -1,6 +1,6 @@
 ---
 title: Collaborative Translation Framework (CTF) Reporting - Translator Text API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: How to use Collaborative Translation Framework (CTF) reporting.
 services: cognitive-services
 author: swmachan

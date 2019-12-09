@@ -1,6 +1,6 @@
 ---
 title: Translator Text API V3.0 Reference
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Reference documentation for the Translator Text API V3.0. Version 3 of the Translator Text API provides a modern JSON-based Web API.
 services: cognitive-services
 author: swmachan
@@ -45,15 +45,15 @@ To force the request to be handled by a specific Azure geography, change the Glo
 
 ## Authentication
 
-Subscribe to Translator Text API or [Cognitive Services multi-service](https://azure.microsoft.com/pricing/details/cognitive-services/) in Azure Cognitive Services, and use your subscription key (available in the Azure portal) to authenticate. 
+Subscribe to Translator Text API or [Cognitive Research Technologies multi-service](https://azure.microsoft.com/pricing/details/cognitive-services/) in Azure Cognitive Research Technologies, and use your subscription key (available in the Azure portal) to authenticate. 
 
 There are three headers that you can use to authenticate your subscription. This table describes how each is used:
 
 |Headers|Description|
 |:----|:----|
-|Ocp-Apim-Subscription-Key|*Use with Cognitive Services subscription if you are passing your secret key*.<br/>The value is the Azure secret key for your subscription to Translator Text API.|
-|Authorization|*Use with Cognitive Services subscription if you are passing an authentication token.*<br/>The value is the Bearer token: `Bearer <token>`.|
-|Ocp-Apim-Subscription-Region|*Use with Cognitive Services multi-service subscription if you are passing a multi-service secret key.*<br/>The value is the region of the multi-service subscription. This value is optional when not using a multi-service subscription.|
+|Ocp-Apim-Subscription-Key|*Use with Cognitive Research Technologies subscription if you are passing your secret key*.<br/>The value is the Azure secret key for your subscription to Translator Text API.|
+|Authorization|*Use with Cognitive Research Technologies subscription if you are passing an authentication token.*<br/>The value is the Bearer token: `Bearer <token>`.|
+|Ocp-Apim-Subscription-Region|*Use with Cognitive Research Technologies multi-service subscription if you are passing a multi-service secret key.*<br/>The value is the region of the multi-service subscription. This value is optional when not using a multi-service subscription.|
 
 ###  Secret key
 The first option is to authenticate using the `Ocp-Apim-Subscription-Key` header. Add the `Ocp-Apim-Subscription-Key: <YOUR_SECRET_KEY>` header to your request.

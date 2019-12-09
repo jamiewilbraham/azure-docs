@@ -1,6 +1,6 @@
 ---
 title: Configure containers - Text Analytics
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Text Analytics provides each container with a common configuration framework, so that you can easily configure and manage storage, logging and telemetry, and security settings for your containers.
 services: cognitive-services
 author: IEvangelist
@@ -46,7 +46,7 @@ This setting can be found in the following place:
 
 |Required| Name | Data type | Description |
 |--|------|-----------|-------------|
-|Yes| `Billing` | String | Billing endpoint URI. For more information on obtaining the billing URI, see [gathering required parameters](how-tos/text-analytics-how-to-install-containers.md#gathering-required-parameters). For more information and a complete list of regional endpoints, see [Custom subdomain names for Cognitive Services](../cognitive-services-custom-subdomains.md). |
+|Yes| `Billing` | String | Billing endpoint URI. For more information on obtaining the billing URI, see [gathering required parameters](how-tos/text-analytics-how-to-install-containers.md#gathering-required-parameters). For more information and a complete list of regional endpoints, see [Custom subdomain names for Cognitive Research Technologies](../cognitive-services-custom-subdomains.md). |
 
 ## Eula setting
 
@@ -112,4 +112,4 @@ Replace {_argument_name_} with your own values:
 ## Next steps
 
 * Review [How to install and run containers](how-tos/text-analytics-how-to-install-containers.md)
-* Use more [Cognitive Services Containers](../cognitive-services-container-support.md)
+* Use more [Cognitive Research Technologies Containers](../cognitive-services-container-support.md)

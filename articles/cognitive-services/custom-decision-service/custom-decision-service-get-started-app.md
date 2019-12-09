@@ -1,6 +1,6 @@
 ---
 title: Call API from an app - Custom Decision Service
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: How to call the Custom Decision Service APIs from a smartphone app.
 services: cognitive-services
 author: slivkins

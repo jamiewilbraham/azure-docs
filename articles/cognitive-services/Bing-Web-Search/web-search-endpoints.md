@@ -1,6 +1,6 @@
 ---
 title: Web search endpoint
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: To get web search results, send a `GET` request to the following endpoint. The headers and URL parameters define further specifications.
 services: cognitive-services
 author: aahill

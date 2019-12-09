@@ -1,6 +1,6 @@
 ---
 title: "Immersive Reader iOS SDK reference"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The Immersive Reader iOS SDK is a Swift CocoaPod that allows you to integrate the Immersive Reader into your iOS application.
 services: cognitive-services
 author: metanMSFT

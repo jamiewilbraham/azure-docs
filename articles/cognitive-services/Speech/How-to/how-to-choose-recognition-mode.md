@@ -1,6 +1,6 @@
 ---
 title: How to Choose Bing Speech Recognition Mode | Microsoft Docs
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: How to choose the best recognition mode in Bing Speech.
 services: cognitive-services
 author: nitinme

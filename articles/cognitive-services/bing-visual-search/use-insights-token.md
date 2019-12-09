@@ -1,6 +1,6 @@
 ---
 title: Using insights token - Bing Visual Search
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Shows how to use an image's insight token with Bing Visual Search API to get insights about an image.
 services: cognitive-services
 author: swhite-msft
@@ -474,6 +474,6 @@ if __name__ == '__main__':
 
 [Create a Visual Search single-page web app](tutorial-bing-visual-search-single-page-app.md)  
 [What is the Bing Visual Search API?](overview.md)  
-[Try Cognitive Services](https://aka.ms/bingvisualsearchtryforfree)  
+[Try Cognitive Research Technologies](https://aka.ms/bingvisualsearchtryforfree)  
 [Get a free trial access key](https://azure.microsoft.com/try/cognitive-services/?api=bing-visual-search-api)  
 [Images - Visual Search](https://aka.ms/bingvisualsearchreferencedoc)

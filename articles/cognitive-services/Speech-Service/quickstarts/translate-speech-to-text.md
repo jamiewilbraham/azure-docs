@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Translate speech-to-text - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this quickstart, you'll use the Speech SDK to interactively translate speech from one language to speech in another language.
 services: cognitive-services
 author: erhopf

@@ -1,6 +1,6 @@
 ---
 title: Business continuity plan - QnA Maker
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The primary objective of the business continuity plan is to create a resilient knowledge base endpoint, which would ensure no down time for the Bot or the application consuming it.
 services: cognitive-services
 author: diberry

@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Recognize speech from an audio file, C++ (macOS) - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to recognize speech in C++ on macOS by using the Speech SDK
 services: cognitive-services
 author: wolfma61

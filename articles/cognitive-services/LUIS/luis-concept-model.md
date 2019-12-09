@@ -1,6 +1,6 @@
 ---
 title: Design with models - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Language understanding provides several types of models. Some models can be used in more than one way. 
 services: cognitive-services
 author: diberry

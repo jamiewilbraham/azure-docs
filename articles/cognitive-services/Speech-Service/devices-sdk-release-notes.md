@@ -1,6 +1,6 @@
 ---
 title: Speech Devices SDK documentation
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The release notes provide a log of updates, enhancements, bug fixes, and changes to the Speech Devices SDK. This article is updated with each release of the Speech Devices SDK.
 services: cognitive-services
 author: wsturman
@@ -92,4 +92,4 @@ The following sections list changes in the most recent releases.
 
 ## Speech Devices SDK 0.2.12733: 2018-May release
 
-The first public preview release of the Cognitive Services Speech Devices SDK.
+The first public preview release of the Cognitive Research Technologies Speech Devices SDK.

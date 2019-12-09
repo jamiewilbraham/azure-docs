@@ -1,6 +1,6 @@
 ---
 title: API Reference - Custom Decision Service
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: A complete API guide for Custom Decision Service.
 services: cognitive-services
 author: slivkins

@@ -1,7 +1,7 @@
 ---
 title: Translator Text API Detect Method
-titleSuffix: Azure Cognitive Services
-description: Identify the language of a piece of text with the Azure Cognitive Services Translator Text API Detect method.
+titleSuffix: Azure Cognitive Research Technologies
+description: Identify the language of a piece of text with the Azure Cognitive Research Technologies Translator Text API Detect method.
 services: cognitive-services
 author: swmachan
 manager: nitinme

@@ -1,7 +1,7 @@
 ---
 title: Translate behind firewalls - Translator Text API
-titleSuffix: Azure Cognitive Services
-description: Azure Cognitive Services Translator Text API can translate behind firewalls using either domain-name or IP filtering.
+titleSuffix: Azure Cognitive Research Technologies
+description: Azure Cognitive Research Technologies Translator Text API can translate behind firewalls using either domain-name or IP filtering.
 services: cognitive-services
 author: swmachan
 manager: nitinme

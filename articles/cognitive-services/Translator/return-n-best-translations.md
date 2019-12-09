@@ -1,6 +1,6 @@
 ---
 title: Return N-Best Translations - Translator Text
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Return N-Best translations using the Translator Text API.
 services: cognitive-services
 author: swmachan

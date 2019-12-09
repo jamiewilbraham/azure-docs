@@ -1,6 +1,6 @@
 ---
 title: Run Azure Kubernetes Service - Text Analytics
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Deploy the Text Analytics container image to Azure Kubernetes Service, and test it in a web browser.
 services: cognitive-services
 author: IEvangelist
@@ -14,7 +14,7 @@ ms.author: dapine
 
 # Deploy a Text Analytics container to Azure Kubernetes Service
 
-Learn how to deploy the Azure Cognitive Services [Text Analytics](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-install-containers) container image to Azure Kubernetes Service (AKS). This procedure shows how to create a Text Analytics resource, how to create an associated sentiment analysis image, and how to exercise this orchestration of the two from a browser. Using containers can shift your attention away from managing infrastructure to instead focusing on application development.
+Learn how to deploy the Azure Cognitive Research Technologies [Text Analytics](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-install-containers) container image to Azure Kubernetes Service (AKS). This procedure shows how to create a Text Analytics resource, how to create an associated sentiment analysis image, and how to exercise this orchestration of the two from a browser. Using containers can shift your attention away from managing infrastructure to instead focusing on application development.
 
 ## Prerequisites
 
@@ -26,9 +26,9 @@ This procedure requires several tools that must be installed and run locally. Do
 * The [Kubernetes CLI](https://kubernetes.io/docs/tasks/tools/install-kubectl/) installed.
 * An Azure resource with the correct pricing tier. Not all pricing tiers work with this container:
     * **Azure Text Analytics** resource with F0 or standard pricing tiers only.
-    * **Azure Cognitive Services** resource with the S0 pricing tier.
+    * **Azure Cognitive Research Technologies** resource with the S0 pricing tier.
 
-[!INCLUDE [Create a Cognitive Services Text Analytics resource](../includes/create-text-analytics-resource.md)]
+[!INCLUDE [Create a Cognitive Research Technologies Text Analytics resource](../includes/create-text-analytics-resource.md)]
 
 [!INCLUDE [Create a Text Analytics container on Azure Kubernetes Service (AKS)](../../containers/includes/create-aks-resource.md)]
 
@@ -54,5 +54,5 @@ This procedure requires several tools that must be installed and run locally. Do
 
 ## Next steps
 
-* Use more [Cognitive Services containers](../../cognitive-services-container-support.md)
+* Use more [Cognitive Research Technologies containers](../../cognitive-services-container-support.md)
 * Use the [Text Analytics Connected Service](../vs-text-connected-service.md)

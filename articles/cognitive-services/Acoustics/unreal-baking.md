@@ -1,6 +1,6 @@
 ---
 title: Project Acoustics Unreal Bake Tutorial
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: This document describes the process of submitting an acoustics bake using the Unreal editor extension.
 services: cognitive-services
 author: NoelCross

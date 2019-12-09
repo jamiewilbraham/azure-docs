@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Create a project'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this quickstart, you'll create an empty project for your preferred programming language that you'll use to complete a quickstart or create an application.
 services: cognitive-services
 author: erhopf

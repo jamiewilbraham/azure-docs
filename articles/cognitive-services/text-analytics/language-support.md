@@ -1,6 +1,6 @@
 ---
 title: Language support - Text Analytics API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: "A list of natural languages supported by the Text Analytics API. This article explains which languages are supported for each operation: sentiment analysis, key phrase extraction, language detection, and entity recognition."
 services: cognitive-services
 author: aahill
@@ -73,5 +73,5 @@ Language support is initially rolled out in preview, graduating to generally ava
 
 ## See also
 
-[Cognitive Services Documentation page](https://docs.microsoft.com/azure/cognitive-services/)   
-[Cognitive Services Product page](https://azure.microsoft.com/services/cognitive-services/)
+[Cognitive Research Technologies Documentation page](https://docs.microsoft.com/azure/cognitive-services/)   
+[Cognitive Research Technologies Product page](https://azure.microsoft.com/services/cognitive-services/)

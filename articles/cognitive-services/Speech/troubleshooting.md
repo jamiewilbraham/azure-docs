@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting Bing Speech | Microsoft Docs
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: How to resolve issues when using Bing Speech.
 services: cognitive-services
 author: nitinme

@@ -1,7 +1,7 @@
 ---
 title: What is Form Recognizer?
-titleSuffix: Azure Cognitive Services
-description: The Azure Cognitive Services Form Recognizer allows you to identify and extract key/value pairs and table data from form documents.
+titleSuffix: Azure Cognitive Research Technologies
+description: The Azure Cognitive Research Technologies Form Recognizer allows you to identify and extract key/value pairs and table data from form documents.
 author: PatrickFarley
 manager: nitinme
 
@@ -48,7 +48,7 @@ The input requirements for the receipt model are slightly different.
 
 ## Request access
 
-Form Recognizer is available in a limited-access preview. To get access to the preview, fill out and submit the [Form Recognizer access request](https://aka.ms/FormRecognizerRequestAccess) form. The form requests information about you, your company, and the user scenario for which you'll use Form Recognizer. If your request is approved by the Azure Cognitive Services team, you'll receive an email with instructions for accessing the service.
+Form Recognizer is available in a limited-access preview. To get access to the preview, fill out and submit the [Form Recognizer access request](https://aka.ms/FormRecognizerRequestAccess) form. The form requests information about you, your company, and the user scenario for which you'll use Form Recognizer. If your request is approved by the Azure Cognitive Research Technologies team, you'll receive an email with instructions for accessing the service.
 
 ## Where do I start?
 
@@ -76,7 +76,7 @@ Explore the [REST API reference documentation](https://aka.ms/form-recognizer/ap
 
 ## Data privacy and security
 
-This service is offered as a [preview](https://azure.microsoft.com/support/legal/preview-supplemental-terms/) of an Azure service under the [Online Service Terms](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31). As with all the cognitive services, developers using the Form Recognizer service should be aware of Microsoft policies on customer data. See the [Cognitive Services page](https://www.microsoft.com/trustcenter/cloudservices/cognitiveservices) on the Microsoft Trust Center to learn more.
+This service is offered as a [preview](https://azure.microsoft.com/support/legal/preview-supplemental-terms/) of an Azure service under the [Online Service Terms](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31). As with all the Cognitive Research Technologies, developers using the Form Recognizer service should be aware of Microsoft policies on customer data. See the [Cognitive Research Technologies page](https://www.microsoft.com/trustcenter/cloudservices/cognitiveservices) on the Microsoft Trust Center to learn more.
 
 ## Next steps
 

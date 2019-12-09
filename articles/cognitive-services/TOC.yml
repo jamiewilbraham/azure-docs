@@ -1,16 +1,16 @@
 
-- name: Azure Cognitive Services Documentation
+- name: Azure Cognitive Research Technologies Documentation
   href: index.yml
 - name: Overview
   expanded: true
   items:
-  - name: What are Cognitive Services?
+  - name: What are Cognitive Research Technologies?
     href: Welcome.md
-  - name: Cognitive Services and Machine learning
+  - name: Cognitive Research Technologies and Machine learning
     href: cognitive-services-and-machine-learning.md
-  - name: Virtual networks for Cognitive Services
+  - name: Virtual networks for Cognitive Research Technologies
     href: cognitive-services-virtual-networks.md
-  - name: Custom subdomains for Cognitive Services
+  - name: Custom subdomains for Cognitive Research Technologies
     href: cognitive-services-custom-subdomains.md
   - name: Language support
     href: language-support.md

@@ -1,6 +1,6 @@
 ---
 title: What is Ink Recognizer? - Ink Recognizer API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Integrate the Ink Recognizer into your applications, websites, tools, and other solutions to allow ink stroke data to be identified and used as input.
 services: cognitive-services
 author: erhopf

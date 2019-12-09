@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Getting Spell Check Results using Bing Spell Check API"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this tutorial, we'll build a web page that allows users to query the Bing Spell Check API and display results.
 services: cognitive-services
 author: aahill

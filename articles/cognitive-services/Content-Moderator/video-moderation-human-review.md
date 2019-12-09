@@ -1,6 +1,6 @@
 ---
 title: Video moderation with human review - Content Moderator
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use machine-assisted video moderation and human review tools to moderate inappropriate content
 services: cognitive-services
 author: PatrickFarley

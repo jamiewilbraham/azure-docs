@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Get the list of supported languages - Translator Text API"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this quickstart, you get a list of languages supported for translation, transliteration, and dictionary lookup using the Translator Text API.
 services: cognitive-services
 author: erhopf

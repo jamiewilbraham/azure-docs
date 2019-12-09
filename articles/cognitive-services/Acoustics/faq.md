@@ -1,6 +1,6 @@
 ---
 title: Project Acoustics Frequently Asked Questions
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: This page provides answers to questions asked frequently about Project Acoustics, including download instructions and bake process.
 services: cognitive-services
 author: NoelCross

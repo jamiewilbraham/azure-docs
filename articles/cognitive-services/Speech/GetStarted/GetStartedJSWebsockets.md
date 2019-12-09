@@ -1,7 +1,7 @@
 ---
 title: Get started with the Bing Speech Recognition API in JavaScript | Microsoft Docs
-titlesuffix: Azure Cognitive Services
-description: Use the Bing Speech Recognition API in Cognitive Services to develop applications that continuously convert spoken audio to text.
+titlesuffix: Azure Cognitive Research Technologies
+description: Use the Bing Speech Recognition API in Cognitive Research Technologies to develop applications that continuously convert spoken audio to text.
 services: cognitive-services
 author: nitinme
 manager: nitinme
@@ -22,7 +22,7 @@ You can develop applications that convert spoken audio to text by using the Spee
 
 ### Subscribe to the Speech Recognition API, and get a free trial subscription key
 
-The Speech API is part of Cognitive Services. You can get free trial subscription keys from the [Cognitive Services subscription](https://azure.microsoft.com/try/cognitive-services/) page. After you select the Speech API, select **Get API Key** to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you can use either key.
+The Speech API is part of Cognitive Research Technologies. You can get free trial subscription keys from the [Cognitive Research Technologies subscription](https://azure.microsoft.com/try/cognitive-services/) page. After you select the Speech API, select **Get API Key** to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you can use either key.
 
 > [!IMPORTANT]
 > Get a subscription key. Before you can use Speech client libraries, you must have a [subscription key](https://azure.microsoft.com/try/cognitive-services/).

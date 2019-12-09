@@ -1,6 +1,6 @@
 ---
 title: Bing Speech Concepts | Microsoft Docs
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Basic concepts used in Microsoft Speech Service.
 services: cognitive-services
 author: nitinme

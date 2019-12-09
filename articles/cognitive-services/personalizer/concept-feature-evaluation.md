@@ -1,6 +1,6 @@
 ---
 title: Feature evaluation - Personalizer
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: When you run an Evaluation in your Personalizer resource from the Azure portal, Personalizer provides information about what features of context and actions are influencing the model. 
 services: cognitive-services
 author: diberry

@@ -40,7 +40,7 @@
     href: local-search-reference.md
 - name: Resources
   items:
-  - name: Try Cognitive Services
+  - name: Try Cognitive Research Technologies
     href: https://azure.microsoft.com/try/cognitive-services/?api=bing-web-search-api
   - name: Pricing information
     href: https://azure.microsoft.com/pricing/details/cognitive-services/search-api/

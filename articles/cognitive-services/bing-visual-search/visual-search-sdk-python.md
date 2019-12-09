@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Bing Visual Search SDK, Python"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to begin getting image insights from the Bing Visual Search service, using the Python SDK.
 services: cognitive-services
 author: aahill

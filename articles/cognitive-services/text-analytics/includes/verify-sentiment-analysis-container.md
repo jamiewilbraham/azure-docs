@@ -1,6 +1,6 @@
 ---
 title: Verify the Sentiment Analysis container instance
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to verify the Sentiment Analysis container instance.
 services: cognitive-services
 author: IEvangelist

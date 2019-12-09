@@ -1,6 +1,6 @@
 ---
 title: Install Speech containers
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Details the speech-to-text helm chart configuration options.
 services: cognitive-services
 author: IEvangelist

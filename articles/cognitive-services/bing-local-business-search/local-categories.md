@@ -1,6 +1,6 @@
 ---
 title: Search categories for the Bing Local Business Search API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this article to learn how to specify search categories for the Bing Local Business search API endpoint.
 services: cognitive-services
 author: aahill

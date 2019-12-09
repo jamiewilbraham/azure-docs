@@ -1,6 +1,6 @@
 ---
 title: Export your model to mobile - Custom Vision Service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This article will show you how to export your model for use in creating mobile applications or run locally for real-time classification.
 services: cognitive-services
 author: anrothMSFT

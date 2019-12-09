@@ -1,6 +1,6 @@
 ---
 title: Get started with the Bing Speech Recognition API by using the C# desktop library | Microsoft Docs
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Develop basic Windows applications that use the Bing Speech Recognition API to convert spoken audio to text.
 services: cognitive-services
 author: nitinme
@@ -34,7 +34,7 @@ Clone the sample from the [Speech C# desktop library sample](https://github.com/
 
 ### Subscribe to the Speech Recognition API, and get a free trial subscription key
 
-The Speech API is part of Cognitive Services (previously Project Oxford). You can get free trial subscription keys from the [Cognitive Services subscription](https://azure.microsoft.com/try/cognitive-services/) page. After you select the Speech API, select **Get API Key** to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you can use either key.
+The Speech API is part of Cognitive Research Technologies (previously Project Oxford). You can get free trial subscription keys from the [Cognitive Research Technologies subscription](https://azure.microsoft.com/try/cognitive-services/) page. After you select the Speech API, select **Get API Key** to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you can use either key.
 
 > [!IMPORTANT]
 > * Get a subscription key. Before you use the Speech client libraries, you must have a [subscription key](https://azure.microsoft.com/try/cognitive-services/).

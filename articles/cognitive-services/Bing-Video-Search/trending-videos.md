@@ -1,6 +1,6 @@
 ---
 title: Search the web for trending videos using the Bing Video Search API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to use the Bing Video Search API to search the web for trending videos.
 services: cognitive-services
 author: swhite-msft

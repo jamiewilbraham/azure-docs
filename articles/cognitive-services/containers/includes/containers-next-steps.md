@@ -11,7 +11,7 @@ ms.author: dapine
 
 ## Next steps 
 
-Let's continue working with Azure Cognitive Services containers.
+Let's continue working with Azure Cognitive Research Technologies containers.
 
 > [!div class="nextstepaction"]
-> [Use more Cognitive Services Containers](../../cognitive-services-container-support.md)
+> [Use more Cognitive Research Technologies Containers](../../cognitive-services-container-support.md)

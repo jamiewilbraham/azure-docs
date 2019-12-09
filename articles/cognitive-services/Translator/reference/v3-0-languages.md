@@ -1,6 +1,6 @@
 ---
 title: Translator Text API Languages Method
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The Languages method gets the set of languages currently supported by other operations of the Translator Text API.
 services: cognitive-services
 author: swmachan

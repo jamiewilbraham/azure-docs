@@ -1,6 +1,6 @@
 ---
 title: Improve knowledge base - QnA Maker
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Improve the quality of your knowledge base with active learning. Review, accept or reject, add without removing or changing existing questions.
 author: diberry
 manager: nitinme 

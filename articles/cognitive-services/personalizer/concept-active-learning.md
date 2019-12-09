@@ -1,6 +1,6 @@
 ---
 title: Active and inactive events - Personalizer
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This article discusses the use of active and inactive events, learning settings, and learning policies within the Personalizer service.
 services: cognitive-services
 author: diberry

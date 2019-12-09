@@ -1,6 +1,6 @@
 ---
 title: Language concepts - QnA Maker
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: QnA Maker supports knowledge base content in many languages. However, each QnA Maker service should be reserved for a single language. The first knowledge base created, targeting a particular QnA Maker service, sets the language of that service. 
 services: cognitive-services
 author: diberry

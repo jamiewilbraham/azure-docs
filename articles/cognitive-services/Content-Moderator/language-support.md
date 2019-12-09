@@ -1,7 +1,7 @@
 ---
 title: Language support - Content Moderator API
-titleSuffix: Azure Cognitive Services
-description: This is a list of natural languages that the Azure Cognitive Services Content Moderator API supports.
+titleSuffix: Azure Cognitive Research Technologies
+description: This is a list of natural languages that the Azure Cognitive Research Technologies Content Moderator API supports.
 services: cognitive-services
 author: PatrickFarley
 manager: nitinme

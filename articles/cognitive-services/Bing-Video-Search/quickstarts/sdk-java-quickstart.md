@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Search for videos using the SDK for Java - Bing Video Search"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to send video search requests using the Bing Video Search SDK for Java.
 services: cognitive-services
 author: aahill
@@ -159,4 +159,4 @@ Create a new Java project in your favorite IDE or editor, and import the followi
 ## See also 
 
 * [What is the Bing Video Search API?](../overview.md)
-* [Cognitive services .NET SDK samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples/tree/master/BingSearchv7)
+* [Cognitive Research Technologies .NET SDK samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples/tree/master/BingSearchv7)

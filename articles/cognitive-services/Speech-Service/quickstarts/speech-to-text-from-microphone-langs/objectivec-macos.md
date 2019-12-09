@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Recognize speech from a microphone, Objective-C - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to recognize speech in Objective-C on macOS by using the Speech SDK
 services: cognitive-services
 author: chlandsi
@@ -16,7 +16,7 @@ ms.author: chlandsi
 
 Quickstarts are also available for [speech synthesis](~/articles/cognitive-services/Speech-Service/quickstarts/text-to-speech-langs/objectivec-macos.md).
 
-In this article, you learn how to create a macOS app in Objective-C by using the Azure Cognitive Services Speech SDK to transcribe speech recorded from a microphone to text.
+In this article, you learn how to create a macOS app in Objective-C by using the Azure Cognitive Research Technologies Speech SDK to transcribe speech recorded from a microphone to text.
 
 ## Prerequisites
 
@@ -29,7 +29,7 @@ Before you get started, you'll need:
 
 [!INCLUDE [License notice](~/includes/cognitive-services-speech-service-license-notice.md)]
 
-The Cognitive Services Speech SDK for Mac is distributed as a framework bundle. It can be used in Xcode projects as a [CocoaPod](https://cocoapods.org/) or downloaded from https://aka.ms/csspeech/macosbinary and linked manually. This article uses a CocoaPod.
+The Cognitive Research Technologies Speech SDK for Mac is distributed as a framework bundle. It can be used in Xcode projects as a [CocoaPod](https://cocoapods.org/) or downloaded from https://aka.ms/csspeech/macosbinary and linked manually. This article uses a CocoaPod.
 
 ## Create an Xcode project
 

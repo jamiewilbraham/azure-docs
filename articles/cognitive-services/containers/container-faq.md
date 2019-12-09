@@ -1,6 +1,6 @@
 ---
-title: Cognitive Services containers frequently asked questions (FAQ)
-titleSuffix: Azure Cognitive Services
+title: Cognitive Research Technologies containers frequently asked questions (FAQ)
+titleSuffix: Azure Cognitive Research Technologies
 description: Frequently asked questions and answers.
 services: cognitive-services
 author: IEvangelist
@@ -11,13 +11,13 @@ ms.date: 11/11/2019
 ms.author: dapine
 ---
 
-# Azure Cognitive Services containers frequently asked questions (FAQ)
+# Azure Cognitive Research Technologies containers frequently asked questions (FAQ)
 
 ## General questions
 
 **Q: What is available?**
 
-**A:** [Container support in Azure Cognitive Services](../cognitive-services-container-support.md) allows developers to use the same intelligent APIs that are available in Azure, but with the [benefits](../cognitive-services-container-support.md#features-and-benefits) of containerization. Container support is currently available in preview for a subset of Azure Cognitive Services, including parts of:
+**A:** [Container support in Azure Cognitive Research Technologies](../cognitive-services-container-support.md) allows developers to use the same intelligent APIs that are available in Azure, but with the [benefits](../cognitive-services-container-support.md#features-and-benefits) of containerization. Container support is currently available in preview for a subset of Azure Cognitive Research Technologies, including parts of:
 
 > [!div class="checklist"]
 > * [Anomaly Detector][ad-containers]
@@ -28,22 +28,22 @@ ms.author: dapine
 > * [Speech Service API][sp-containers]
 > * [Text Analytics][ta-containers]
 
-**Q: Is there any difference between the Cognitive Services cloud and the containers?**
+**Q: Is there any difference between the Cognitive Research Technologies cloud and the containers?**
 
-**A:** Cognitive Services containers are an alternative to the Cognitive Services cloud. Containers offer the same capabilities as the corresponding cloud services. Customers can deploy the containers on-premises or in Azure. The core AI technology, pricing tiers, API keys, and API signature are the same between the container and the corresponding cloud services. Here are the [features and benefits](../cognitive-services-container-support.md#features-and-benefits) for choosing containers over their cloud service equivalent.
+**A:** Cognitive Research Technologies containers are an alternative to the Cognitive Research Technologies cloud. Containers offer the same capabilities as the corresponding cloud services. Customers can deploy the containers on-premises or in Azure. The core AI technology, pricing tiers, API keys, and API signature are the same between the container and the corresponding cloud services. Here are the [features and benefits](../cognitive-services-container-support.md#features-and-benefits) for choosing containers over their cloud service equivalent.
 
-**Q: Will containers be available for all Cognitive Services and what are the next set of containers we should expect?**
+**Q: Will containers be available for all Cognitive Research Technologies and what are the next set of containers we should expect?**
 
-**A:** We would like to make more Cognitive Services available as container offerings. Contact to your local Microsoft account manager to get updates on new container releases and other Cognitive Services announcements.
+**A:** We would like to make more Cognitive Research Technologies available as container offerings. Contact to your local Microsoft account manager to get updates on new container releases and other Cognitive Research Technologies announcements.
 
-**Q: What will the Service-Level Agreement (SLA) be for Cognitive Services containers?**
+**Q: What will the Service-Level Agreement (SLA) be for Cognitive Research Technologies containers?**
 
-**A:** Cognitive Services containers do not have an SLA.
+**A:** Cognitive Research Technologies containers do not have an SLA.
 
-Cognitive Services container configurations of resources are controlled by customers, so Microsoft will not offer an SLA for general availability (GA). Customers are free to deploy containers on-premises, thus they define the host environments.
+Cognitive Research Technologies container configurations of resources are controlled by customers, so Microsoft will not offer an SLA for general availability (GA). Customers are free to deploy containers on-premises, thus they define the host environments.
 
 > [!IMPORTANT]
-> To learn more about Cognitive Services Service-Level Agreements, [visit our SLA page](https://azure.microsoft.com/support/legal/sla/cognitive-services/v1_1/).
+> To learn more about Cognitive Research Technologies Service-Level Agreements, [visit our SLA page](https://azure.microsoft.com/support/legal/sla/cognitive-services/v1_1/).
 
 **Q: Are these containers available in sovereign clouds?**
 
@@ -51,7 +51,7 @@ Cognitive Services container configurations of resources are controlled by custo
 
 > The "sovereign cloud" consists of the [Azure Government](../../azure-government/documentation-government-welcome.md), [Azure Germany](../../germany/germany-welcome.md), and [Azure China 21Vianet](https://docs.microsoft.com/azure/china/overview-operations) clouds.
 
-Unfortunately, the Cognitive Services containers are *not* natively supported in the sovereign clouds. The containers can be run in these clouds, but they will be pulled from the public cloud and need to send usage data to the public endpoint.
+Unfortunately, the Cognitive Research Technologies containers are *not* natively supported in the sovereign clouds. The containers can be run in these clouds, but they will be pulled from the public cloud and need to send usage data to the public endpoint.
 
 ### Versioning
 
@@ -69,9 +69,9 @@ Unfortunately, the Cognitive Services containers are *not* natively supported in
 
 ## Technical questions
 
-**Q: How should I run the Cognitive Services containers on IoT devices?**
+**Q: How should I run the Cognitive Research Technologies containers on IoT devices?**
 
-Whether you don’t have a reliable internet connection, or want to save on bandwidth cost. Or if have low-latency requirements, or are dealing with sensitive data that needs to be analyzed on-site, [Azure IoT Edge with the Cognitive Services containers](https://azure.microsoft.com/blog/running-cognitive-services-on-iot-edge/) gives you consistency with the cloud.
+Whether you don’t have a reliable internet connection, or want to save on bandwidth cost. Or if have low-latency requirements, or are dealing with sensitive data that needs to be analyzed on-site, [Azure IoT Edge with the Cognitive Research Technologies containers](https://azure.microsoft.com/blog/running-cognitive-services-on-iot-edge/) gives you consistency with the cloud.
 
 **Q: How do I provide product feedback and feature recommendations?**
 
@@ -79,7 +79,7 @@ Whether you don’t have a reliable internet connection, or want to save on band
 
 **Q: Who do I contact for support?**
 
-**A:** Customer support channels are the same as the Cognitive Services cloud offering. All Cognitive Services containers include logging features that will help us and the community support customers. For additional support, see the following options.
+**A:** Customer support channels are the same as the Cognitive Research Technologies cloud offering. All Cognitive Research Technologies containers include logging features that will help us and the community support customers. For additional support, see the following options.
 
 ### Customer support plan
 
@@ -95,12 +95,12 @@ Customer are free to explore the [Azure knowledge center](https://azure.microsof
 
 Explore the following tags for potential questions and answers that align with your needs.
 
-* [Azure Cognitive Services](https://stackoverflow.com/questions/tagged/azure-cognitive-services)
+* [Azure Cognitive Research Technologies](https://stackoverflow.com/questions/tagged/azure-cognitive-services)
 * [Microsoft Cognitive](https://stackoverflow.com/questions/tagged/microsoft-cognitive)
 
 **Q: How does billing work?**
 
-**A:** Customers are charged based on consumption, similar to the Cognitive Services cloud. The containers need to be configured to send metering data to Azure, and transactions will be billed accordingly. Resources used across the hosted and on-premises services will add to single quota with tiered pricing, counting against both usages. For more detail, refer to pricing page of the corresponding offering.
+**A:** Customers are charged based on consumption, similar to the Cognitive Research Technologies cloud. The containers need to be configured to send metering data to Azure, and transactions will be billed accordingly. Resources used across the hosted and on-premises services will add to single quota with tiered pricing, counting against both usages. For more detail, refer to pricing page of the corresponding offering.
 
 * [Anomaly Detector][ad-containers-billing]
 * [Computer Vision][cv-containers-billing]
@@ -111,23 +111,23 @@ Explore the following tags for potential questions and answers that align with y
 * [Text Analytics][ta-containers-billing]
 
 > [!IMPORTANT]
-> Cognitive Services containers are not licensed to run without being connected to Azure for metering. Customers need to enable the containers to communicate billing information with the metering service at all times. Cognitive Services containers do not send customer data to Microsoft.
+> Cognitive Research Technologies containers are not licensed to run without being connected to Azure for metering. Customers need to enable the containers to communicate billing information with the metering service at all times. Cognitive Research Technologies containers do not send customer data to Microsoft.
  
 **Q: What is the current support warranty for containers?**
 
 **A:** There is no warranty for previews. Microsoft’s standard warranty for enterprise software will apply when containers are formally announced as general availability (GA).
  
-**Q: What happens to Cognitive Services containers when internet connectivity is lost?**
+**Q: What happens to Cognitive Research Technologies containers when internet connectivity is lost?**
 
-**A:** Cognitive Services containers are *not licensed* to run without being connected to Azure for metering. Customers need to enable the containers to communicate with the metering service at all times.
+**A:** Cognitive Research Technologies containers are *not licensed* to run without being connected to Azure for metering. Customers need to enable the containers to communicate with the metering service at all times.
 
 **Q: How long can the container operate without being connected to Azure?**
 
-**A:** Cognitive Services containers are *not licensed* to run without being connected to Azure for metering. Customers need to enable the containers to communicate with the metering service at all times.
+**A:** Cognitive Research Technologies containers are *not licensed* to run without being connected to Azure for metering. Customers need to enable the containers to communicate with the metering service at all times.
  
 **Q: What is current hardware required to run these containers?**
 
-**A:** Cognitive Services containers are x64 based containers that can run any compatible Linux node, VM, and edge device that supports x64 Linux Docker Containers. They all require CPU processors. The minimum and recommended configurations for each container offering are available below:
+**A:** Cognitive Research Technologies containers are x64 based containers that can run any compatible Linux node, VM, and edge device that supports x64 Linux Docker Containers. They all require CPU processors. The minimum and recommended configurations for each container offering are available below:
 
 * [Anomaly Detector][ad-containers-recommendations]
 * [Computer Vision][cv-containers-recommendations]
@@ -139,21 +139,21 @@ Explore the following tags for potential questions and answers that align with y
  
 **Q: Are these containers currently supported on Windows?**
 
-**A:** The Cognitive Services containers are Linux containers, however there is some support for Linux containers on Windows. For more information about Linux containers on Windows, see [Docker documentation](https://blog.docker.com/2017/09/preview-linux-containers-on-windows/).
+**A:** The Cognitive Research Technologies containers are Linux containers, however there is some support for Linux containers on Windows. For more information about Linux containers on Windows, see [Docker documentation](https://blog.docker.com/2017/09/preview-linux-containers-on-windows/).
  
 **Q: How do I discover the containers?**
 
-**A:** Cognitive Services containers are available in various locations, such as the Azure portal, Docker hub, and Azure container registries. For the most recent container locations, refer to [container repositories and images](../cognitive-services-container-support.md#container-repositories-and-images).
+**A:** Cognitive Research Technologies containers are available in various locations, such as the Azure portal, Docker hub, and Azure container registries. For the most recent container locations, refer to [container repositories and images](../cognitive-services-container-support.md#container-repositories-and-images).
 
-**Q: How does Cognitive Services containers compare to AWS and Google offerings?**
+**Q: How does Cognitive Research Technologies containers compare to AWS and Google offerings?**
 
 **A:** Microsoft is first cloud provider to move their pre-trained AI models in containers with simple billing per transaction as though customers are using a cloud service. Microsoft believes a hybrid cloud gives customers more choice.
 
 **Q: What compliance certifications do containers have?**
 
-**A:** Cognitive services containers do not have any compliance certifications
+**A:** Cognitive Research Technologies containers do not have any compliance certifications
 
-**Q: What regions are Cognitive Services containers available in?**
+**Q: What regions are Cognitive Research Technologies containers available in?**
 
 **A:** Containers can be run anywhere in any region however they need a key and to call back to Azure for metering. All supported regions for the Cloud Service are supported for the containers metering call.
 

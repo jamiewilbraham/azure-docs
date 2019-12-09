@@ -1,6 +1,6 @@
 ---
 title: Translation Customization - Translator Text API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use the Microsoft Translator Hub to build your own machine translation system using your preferred terminology and style.
 services: cognitive-services
 author: swmachan
@@ -16,7 +16,7 @@ ms.author: swmachan
 
 The Microsoft Custom Translator is feature of the Microsoft Translator service, which allows users to customize Microsoft Translator’s advanced neural machine translation when translating text using the Translator Text API (version 3 only).
 
-The feature can also be used to customize speech translation when used with [Cognitive Services Speech](https://docs.microsoft.com/azure/cognitive-services/speech-service/).
+The feature can also be used to customize speech translation when used with [Cognitive Research Technologies Speech](https://docs.microsoft.com/azure/cognitive-services/speech-service/).
 
 ## Custom Translator
 

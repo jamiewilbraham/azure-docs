@@ -1,6 +1,6 @@
 ---
 title: Container repository
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Language Detection container repository
 services: cognitive-services
 author: IEvangelist

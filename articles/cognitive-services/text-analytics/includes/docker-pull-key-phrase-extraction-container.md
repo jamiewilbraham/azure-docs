@@ -1,6 +1,6 @@
 ---
 title: Docker pull for the Key Phrase Extraction container
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Docker pull command for Key Phrase Extraction container
 services: cognitive-services
 author: IEvangelist

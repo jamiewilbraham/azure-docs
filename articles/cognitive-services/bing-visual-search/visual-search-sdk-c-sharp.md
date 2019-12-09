@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Get image insights using the SDK for C# - Bing Visual Search"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to upload an image using the Bing Visual Search SDK and get insights about it.
 services: cognitive-services
 author: aahill

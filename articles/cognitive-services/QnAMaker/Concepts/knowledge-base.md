@@ -1,6 +1,6 @@
 ---
 title: Knowledge base - QnA Maker
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: A QnA Maker knowledge base consists of a set of question-and-answer (QnA) pairs and optional metadata associated with each QnA pair.
 services: cognitive-services
 author: diberry

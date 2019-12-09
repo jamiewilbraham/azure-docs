@@ -1,7 +1,7 @@
 ---
 title: Perform sentiment analysis with Text Analytics REST API
-titleSuffix: Azure Cognitive Services
-description: This article will show you how to detect sentiment in text with the Azure Cognitive Services Text Analytics REST API.
+titleSuffix: Azure Cognitive Research Technologies
+description: This article will show you how to detect sentiment in text with the Azure Cognitive Research Technologies Text Analytics REST API.
 services: cognitive-services
 author: aahill
 manager: nitinme
@@ -264,7 +264,7 @@ The following example shows the response for the document collection in this art
 
 ## Summary
 
-In this article, you learned concepts and workflow for sentiment analysis by using Text Analytics in Azure Cognitive Services. In summary:
+In this article, you learned concepts and workflow for sentiment analysis by using Text Analytics in Azure Cognitive Research Technologies. In summary:
 
 + The [Sentiment Analysis API](https://westcentralus.dev.cognitive.microsoft.com/docs/services/TextAnalytics-v2-1/operations/56f30ceeeda5650db055a3c9) is available for selected languages.
 + JSON documents in the request body include an ID, text, and language code.

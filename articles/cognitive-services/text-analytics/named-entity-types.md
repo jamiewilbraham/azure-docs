@@ -1,6 +1,6 @@
 ---
 title: Supported Types for Named Entity Recognition
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn about the supported entity types in the Text Analytics API.
 services: cognitive-services
 author: aahill

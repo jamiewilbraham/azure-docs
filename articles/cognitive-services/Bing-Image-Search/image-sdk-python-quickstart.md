@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Search for images - Bing Image Search SDK for Python"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to make your first image search using the Bing Image Search SDK, which is a wrapper for the API and contains the same features. This simple Python application sends an image search query, parses the JSON response, and displays the URL of the first image returned.
 services: cognitive-services
 author: aahill
@@ -19,7 +19,7 @@ Use this quickstart to make your first image search using the Bing Image Search 
 The source code for this sample is available [on GitHub](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples/blob/master/samples/search/image-search-quickstart.py) with additional error handling and annotations.
 
 ## Prerequisites
-Get a [Cognitive Services access key](https://azure.microsoft.com/try/cognitive-services/) under **Search**.  See also [Cognitive Services Pricing - Bing Search API](https://azure.microsoft.com/pricing/details/cognitive-services/search-api/).
+Get a [Cognitive Research Technologies access key](https://azure.microsoft.com/try/cognitive-services/) under **Search**.  See also [Cognitive Research Technologies Pricing - Bing Search API](https://azure.microsoft.com/pricing/details/cognitive-services/search-api/).
 
 * [Python 2.7 or 3.4](https://www.python.org/) and higher.
 
@@ -82,7 +82,7 @@ else:
 
 * [What is Bing Image Search?](https://docs.microsoft.com/azure/cognitive-services/bing-image-search/overview)  
 * [Try an online interactive demo](https://azure.microsoft.com/services/cognitive-services/bing-image-search-api/)  
-* [Get a free Cognitive Services access key](https://azure.microsoft.com/try/cognitive-services/?api=bing-image-search-api)
-* [Python samples for the Azure Cognitive Services SDK](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples)  
-* [Azure Cognitive Services Documentation](https://docs.microsoft.com/azure/cognitive-services)
+* [Get a free Cognitive Research Technologies access key](https://azure.microsoft.com/try/cognitive-services/?api=bing-image-search-api)
+* [Python samples for the Azure Cognitive Research Technologies SDK](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples)  
+* [Azure Cognitive Research Technologies Documentation](https://docs.microsoft.com/azure/cognitive-services)
 * [Bing Image Search API reference](https://docs.microsoft.com/rest/api/cognitiveservices-bingsearch/bing-images-api-v7-reference)

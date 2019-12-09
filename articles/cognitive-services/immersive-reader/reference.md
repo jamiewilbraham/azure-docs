@@ -1,6 +1,6 @@
 ---
 title: "Immersive Reader SDK Reference"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The Immersive Reader SDK is a JavaScript library that allows you to integrate the Immersive Reader into your web application.
 services: cognitive-services
 author: metanMSFT

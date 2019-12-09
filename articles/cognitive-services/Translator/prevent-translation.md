@@ -1,6 +1,6 @@
 ---
 title: Prevent content translation - Translator Text API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Prevent translation of content with the Translator Text API. The Translator Text API allows you to tag content so that it isn't translated.
 services: cognitive-services
 author: swmachan

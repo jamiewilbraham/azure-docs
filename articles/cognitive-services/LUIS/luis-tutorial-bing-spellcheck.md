@@ -1,6 +1,6 @@
 ---
 title: Correct misspelled words - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Correct misspelled words in utterances by adding Bing Spell Check API V7 to LUIS endpoint queries.
 services: cognitive-services
 author: diberry
@@ -49,7 +49,7 @@ If your free key expired, create an endpoint key.
 
 7. Select **All resources** under the **Favorites** title on the left side navigation.
 
-8. Select the new service. Its type is **Cognitive Services** and the location is **global**. 
+8. Select the new service. Its type is **Cognitive Research Technologies** and the location is **global**. 
 
 9. In the main panel, select **Keys** to see your new keys.
 

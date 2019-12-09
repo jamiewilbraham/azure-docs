@@ -1,6 +1,6 @@
 ---
 title: Get intent with REST call in Node.js
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 services: cognitive-services
 author: diberry
 manager: nitinme

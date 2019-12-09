@@ -1,6 +1,6 @@
 ---
 title: How to install and run containers for using Anomaly Detector API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use the Anomaly Detector API's advanced algorithms to identify anomalies in your time series data.
 services: cognitive-services
 author: IEvangelist
@@ -161,7 +161,7 @@ Use the host, http://localhost:5000, for container APIs.
 
 If you run the container with an output [mount](anomaly-detector-container-configuration.md#mount-settings) and logging enabled, the container generates log files that are helpful to troubleshoot issues that happen while starting or running the container.
 
-[!INCLUDE [Cognitive Services FAQ note](../containers/includes/cognitive-services-faq-note.md)]
+[!INCLUDE [Cognitive Research Technologies FAQ note](../containers/includes/cognitive-services-faq-note.md)]
 
 ## Billing
 
@@ -186,7 +186,7 @@ In this article, you learned concepts and workflow for downloading, installing, 
 * You must specify billing information when instantiating a container.
 
 > [!IMPORTANT]
-> Cognitive Services containers are not licensed to run without being connected to Azure for metering. Customers need to enable the containers to communicate billing information with the metering service at all times. Cognitive Services containers do not send customer data (e.g., the time series data that is being analyzed) to Microsoft.
+> Cognitive Research Technologies containers are not licensed to run without being connected to Azure for metering. Customers need to enable the containers to communicate billing information with the metering service at all times. Cognitive Research Technologies containers do not send customer data (e.g., the time series data that is being analyzed) to Microsoft.
 
 ## Next steps
 

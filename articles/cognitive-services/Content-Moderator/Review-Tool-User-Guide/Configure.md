@@ -1,6 +1,6 @@
 ---
 title: Configure Review tool settings - Content Moderator
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use the Review tool to configure or retrieve your team, tags, connectors, workflows, and credentials for Content Moderator.
 services: cognitive-services
 author: PatrickFarley

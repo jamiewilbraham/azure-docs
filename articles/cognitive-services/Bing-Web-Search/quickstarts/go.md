@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Perform a web search with Go - Bing Web Search REST API"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to send requests to the Bing Web Search REST API using Go, and receive a JSON response
 services: cognitive-services
 author: aahill
@@ -19,7 +19,7 @@ ms.custom: seodec2018
 
 Use this quickstart to make your first call to the Bing Web Search API and receive the JSON response. This Go application sends a search request to the API, and shows the response. While this application is written in Go, the API is a RESTful Web service compatible with most programming languages.
 
-See also [Cognitive Services Pricing - Bing Search API](https://azure.microsoft.com/pricing/details/cognitive-services/search-api/).
+See also [Cognitive Research Technologies Pricing - Bing Search API](https://azure.microsoft.com/pricing/details/cognitive-services/search-api/).
 
 ## Prerequisites
 Here are a few things that you'll need before running this quickstart:
@@ -117,7 +117,7 @@ func main() {
 // Verify the endpoint URI and replace the token string with a valid subscription key.  
     const endpoint = "https://api.cognitive.microsoft.com/bing/v7.0/search"
     token := "YOUR-ACCESS-KEY"
-    searchTerm := "Microsoft Cognitive Services"
+    searchTerm := "Microsoft Cognitive Research Technologies"
 
 // The remaining code in this quickstart goes in the main function.
 
@@ -256,7 +256,7 @@ type BingAnswer struct {
 func main() {
     const endpoint = "https://api.cognitive.microsoft.com/bing/v7.0/search"
     token := "YOUR-ACCESS-KEY"
-    searchTerm := "Microsoft Cognitive Services"
+    searchTerm := "Microsoft Cognitive Research Technologies"
 
     // Declare a new GET request.
     req, err := http.NewRequest("GET", endpoint, nil)
@@ -308,15 +308,15 @@ func main() {
 Responses from the Bing Web Search API are returned as JSON. This sample response has been formatted using the `BingAnswer` struct and shows the `result.Name` and `result.URL`.
 
 ```go
-Microsoft Cognitive Services || https://www.microsoft.com/cognitive-services
-Cognitive Services | Microsoft Azure || https://azure.microsoft.com/services/cognitive-services/
+Microsoft Cognitive Research Technologies || https://www.microsoft.com/cognitive-services
+Cognitive Research Technologies | Microsoft Azure || https://azure.microsoft.com/services/cognitive-services/
 Cognitive Service Try experience | Microsoft Azure || https://azure.microsoft.com/try/cognitive-services/
-What is Microsoft Cognitive Services? | Microsoft Docs || https://docs.microsoft.com/azure/cognitive-services/Welcome
+What is Microsoft Cognitive Research Technologies? | Microsoft Docs || https://docs.microsoft.com/azure/cognitive-services/Welcome
 Microsoft Cognitive Toolkit || https://www.microsoft.com/en-us/cognitive-toolkit/
 Microsoft Customers || https://customers.microsoft.com/en-us/search?sq=%22Microsoft%20Cognitive%20Services%22&ff=&p=0&so=story_publish_date%20desc
 Microsoft Enterprise Services - Microsoft Enterprise || https://enterprise.microsoft.com/en-us/services/
-Microsoft Cognitive Services || https://westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236
-Cognitive Services - msdn.microsoft.com || https://msdn.microsoft.com/magazine/mt742868.aspx  
+Microsoft Cognitive Research Technologies || https://westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236
+Cognitive Research Technologies - msdn.microsoft.com || https://msdn.microsoft.com/magazine/mt742868.aspx  
 ```
 
 ## Next steps

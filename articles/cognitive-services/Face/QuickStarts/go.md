@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Detect faces in an image using the REST API and Go"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this quickstart, you detect faces from an image using the Face API with Go.
 services: cognitive-services
 author: PatrickFarley
@@ -18,7 +18,7 @@ In this quickstart, you will use the Azure Face REST API with Go to detect human
 
 ## Prerequisites
 
-- A Face API subscription key. You can get a free trial subscription key from [Try Cognitive Services](https://azure.microsoft.com/try/cognitive-services/?api=face-api). Or, follow the instructions in [Create a Cognitive Services account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) to subscribe to the Face API service and get your key.
+- A Face API subscription key. You can get a free trial subscription key from [Try Cognitive Research Technologies](https://azure.microsoft.com/try/cognitive-services/?api=face-api). Or, follow the instructions in [Create a Cognitive Research Technologies account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) to subscribe to the Face API service and get your key.
 - A code editor such as [Visual Studio Code](https://code.visualstudio.com/download)
 
 ## Write the script

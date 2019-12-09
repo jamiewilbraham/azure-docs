@@ -1,6 +1,6 @@
 ---
 title: Project Acoustics Azure Batch Account Setup
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: This how-to describes setting up an Azure Batch account for use with Project Acoustics Unity and Unreal engine integrations.
 services: cognitive-services
 author: NoelCross

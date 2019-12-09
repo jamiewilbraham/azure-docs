@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Send a search request to the REST API using Python - Bing Entity Search"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to send a request to the Bing Entity Search REST API using Python, and receive a JSON response.
 services: cognitive-services
 author: aahill

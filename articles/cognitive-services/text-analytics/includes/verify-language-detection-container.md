@@ -1,6 +1,6 @@
 ---
 title: Verify the Language Detection container instance
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to verify the Language Detection container instance.
 services: cognitive-services
 author: IEvangelist

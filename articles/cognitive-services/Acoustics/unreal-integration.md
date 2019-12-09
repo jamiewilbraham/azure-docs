@@ -1,6 +1,6 @@
 ---
 title: Project Acoustics Unreal and Wwise integration
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: This article describes integration of the Project Acoustics Unreal and Wwise plug-ins into your project.
 services: cognitive-services
 author: NoelCross

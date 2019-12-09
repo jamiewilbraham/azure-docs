@@ -1,6 +1,6 @@
 ---
 title: Bing Speech WebSocket Protocol | Microsoft Docs
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Protocol documentation for Bing Speech based on WebSockets
 services: cognitive-services
 author: nitinme
@@ -61,7 +61,7 @@ In addition to the standard WebSocket handshake headers, speech requests require
 
 The *Authorization* header must contain a JSON Web Token (JWT) access token.
 
-For information about how to subscribe and obtain API keys that are used to retrieve valid JWT access tokens, see the [Cognitive Services subscription](https://azure.microsoft.com/try/cognitive-services/) page.
+For information about how to subscribe and obtain API keys that are used to retrieve valid JWT access tokens, see the [Cognitive Research Technologies subscription](https://azure.microsoft.com/try/cognitive-services/) page.
 
 The API key is passed to the token service. For example:
 

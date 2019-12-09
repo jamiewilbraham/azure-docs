@@ -1,6 +1,6 @@
 ---
 title: Featured User-generated content for the Anomaly Detector API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Find featured content and discover how other people are thinking about and using the Anomaly Detector API.
 services: cognitive-services
 author: aahill

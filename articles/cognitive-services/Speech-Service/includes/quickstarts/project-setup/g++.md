@@ -1,6 +1,6 @@
 ---
 title: 'Create empty file to build with g++'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 services: cognitive-services
 author: rhurey
 manager: nitinme

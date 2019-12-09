@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Translate speech to multiple languages, C# (.NET Framework Windows) - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: TBD
 services: cognitive-services
 author: erhopf

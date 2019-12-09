@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Contextual data with roles - LUIS"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Find related data based on context. For example, an origin and destination locations for a physical move from one building and office to another building and office are related. 
 services: cognitive-services
 author: diberry

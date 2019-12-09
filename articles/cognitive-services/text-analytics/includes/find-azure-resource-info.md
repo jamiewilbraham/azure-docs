@@ -1,7 +1,7 @@
 ---
 title: Find your Text Analytics resource endpoint and key
-titleSuffix: Azure Cognitive Services
-description: Learn how to create a Cognitive Services Text Analytics resource.
+titleSuffix: Azure Cognitive Research Technologies
+description: Learn how to create a Cognitive Research Technologies Text Analytics resource.
 services: cognitive-services
 author: aahill
 manager: nitinme

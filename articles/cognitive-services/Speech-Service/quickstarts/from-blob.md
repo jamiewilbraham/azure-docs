@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Recognize speech stored in blob storage"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this quickstart, you'll use the Batch Transcription REST API to asynchronously recognize speech stored in an SAS blob.
 services: cognitive-services
 author: erhopf

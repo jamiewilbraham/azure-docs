@@ -1,6 +1,6 @@
 ---
 title: Project Acoustics plug-in known issues
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: You might experience the following known issues in Project Acoustics.
 services: cognitive-services
 author: NoelCross

@@ -1,6 +1,6 @@
 ---
 title: Constituency parsing - Linguistic Analysis API
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Learn about how constituency parsing, also known as "phrase structure parsing," identifies phrases in text.
 services: cognitive-services
 author: RichardSunMS

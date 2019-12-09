@@ -1,6 +1,6 @@
 ---
 title: Get model with REST call in Java
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 services: cognitive-services
 author: diberry
 manager: nitinme

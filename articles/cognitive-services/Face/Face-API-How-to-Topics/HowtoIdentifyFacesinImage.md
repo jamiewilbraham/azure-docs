@@ -1,6 +1,6 @@
 ---
 title: "Example: Identify faces in images - Face API"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This guide demonstrates how to identify unknown faces by using PersonGroup objects, which are created from known people in advance.
 services: cognitive-services
 author: SteveMSFT
@@ -15,7 +15,7 @@ ms.author: sbowles
 
 # Example: Identify faces in images
 
-This guide demonstrates how to identify unknown faces by using PersonGroup objects, which are created from known people in advance. The samples are written in C# by using the Azure Cognitive Services Face API client library.
+This guide demonstrates how to identify unknown faces by using PersonGroup objects, which are created from known people in advance. The samples are written in C# by using the Azure Cognitive Research Technologies Face API client library.
 
 ## Preparation
 

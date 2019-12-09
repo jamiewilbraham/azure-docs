@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Build an Entity Linking app - C#"
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Analyze text and link named entities to relevant entries in a knowledge base by using the Entity Linking API.
 services: cognitive-services
 author: DavidLiCIG
@@ -23,7 +23,7 @@ This tutorial explores entity linking by using the Entity Linking Client Library
 ### <a name="Prerequisites">Prerequisites</a>
 
 - Visual Studio 2015
-- A Microsoft Cognitive Services API Key
+- A Microsoft Cognitive Research Technologies API Key
 - Get the client library and example
 - Microsoft Entity Linking NuGet Package
 
@@ -40,7 +40,7 @@ Let’s start by creating a new project in Visual Studio. First, launch Visual S
 
 ### <a name="step-3-add-the-entity-linking-nuget-package-to-your-project">Step 3: Add the Entity Linking NuGet Package to your project</a>
 
-Entity Linking of Cognitive Services is released as a NuGet.org package and needs to be installed before you can use it.
+Entity Linking of Cognitive Research Technologies is released as a NuGet.org package and needs to be installed before you can use it.
 To add it to your project, go to the **Solution Explorer** tab, right click your project, and select **Manage Nuget Packages**.
 
 First, in the **NuGet Package Manager** window, select NuGet.org as your **Package Source** in the upper right corner. Select **Browse** in the upper left corner and in the search box type “ProjectOxford.EntityLinking”. Select the **Microsoft.ProjectOxford.EntityLinking** NuGet package and click **Install**.
@@ -79,7 +79,7 @@ The user interface is now created. Before using the Entity Linking service, we n
  <Button x:Name="button" Grid.Row="2" Content="Get Result" Click="button_Click" />
  ```
  
-A button-Click handler needs to be implemented in the code. Open **MainPage.xaml.cs** from **Solution Explorer** to implement the button-Click. The EntityLinkingServiceClient is a wrapper to retrieve Entity Linking responses. The constructor argument of EntityLinkingServiceClient is the Cognitive Services subscription key. Paste in the subscription key you got in **Step 1** to call the Entity Linking service. 
+A button-Click handler needs to be implemented in the code. Open **MainPage.xaml.cs** from **Solution Explorer** to implement the button-Click. The EntityLinkingServiceClient is a wrapper to retrieve Entity Linking responses. The constructor argument of EntityLinkingServiceClient is the Cognitive Research Technologies subscription key. Paste in the subscription key you got in **Step 1** to call the Entity Linking service. 
 
 Below is example code, which adds the "wikipediaId" to the response by using Entity Linking Service. 
  

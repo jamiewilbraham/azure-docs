@@ -1,7 +1,7 @@
 ---
 title: Character Counts - Translator Text API
-titleSuffix: Azure Cognitive Services
-description: This article explains how the Azure Cognitive Services Translator Text API counts characters so you can understand how it ingests content.
+titleSuffix: Azure Cognitive Research Technologies
+description: This article explains how the Azure Cognitive Research Technologies Translator Text API counts characters so you can understand how it ingests content.
 services: cognitive-services
 author: swmachan
 manager: nitinme

@@ -1,7 +1,7 @@
 ---
 title: Virtual Networks
-titleSuffix: Azure Cognitive Services
-description: Configure layered network security for your Cognitive Services resources.
+titleSuffix: Azure Cognitive Research Technologies
+description: Configure layered network security for your Cognitive Research Technologies resources.
 services: cognitive-services
 author: IEvangelist
 manager: nitinme
@@ -11,15 +11,15 @@ ms.date: 11/04/2019
 ms.author: dapine
 ---
 
-# Configure Azure Cognitive Services virtual networks
+# Configure Azure Cognitive Research Technologies virtual networks
 
-Azure Cognitive Services provides a layered security model. This model enables you to secure your Cognitive Services accounts to a specific subset of networks​. When network rules are configured, only applications requesting data over the specified set of networks can access the account. You can limit access to your resources with request filtering. Allowing only requests originating from specified IP addresses, IP ranges or from a list of subnets in [Azure Virtual Networks](../virtual-network/virtual-networks-overview.md). If you're interested in this offering, you'll need to [request preview access](https://aka.ms/cog-svc-vnet-signup).
+Azure Cognitive Research Technologies provides a layered security model. This model enables you to secure your Cognitive Research Technologies accounts to a specific subset of networks​. When network rules are configured, only applications requesting data over the specified set of networks can access the account. You can limit access to your resources with request filtering. Allowing only requests originating from specified IP addresses, IP ranges or from a list of subnets in [Azure Virtual Networks](../virtual-network/virtual-networks-overview.md). If you're interested in this offering, you'll need to [request preview access](https://aka.ms/cog-svc-vnet-signup).
 
-An application that accesses a Cognitive Services resource when network rules are in effect requires authorization. Authorization is supported with [Azure Active Directory](../active-directory/fundamentals/active-directory-whatis.md) (Azure AD) credentials or with a valid API key.
+An application that accesses a Cognitive Research Technologies resource when network rules are in effect requires authorization. Authorization is supported with [Azure Active Directory](../active-directory/fundamentals/active-directory-whatis.md) (Azure AD) credentials or with a valid API key.
 
 > [!IMPORTANT]
-> Turning on firewall rules for your Cognitive Services account blocks incoming requests for data by default. In order to allow requests through, one of the following conditions needs to be met:
-> * The request should originate from a service operating within an Azure Virtual Network (VNet) on the allowed subnet list of the target Cognitive Services account. The endpoint in requests originated from VNet needs to be set as the [custom subdomain](cognitive-services-custom-subdomains.md) of your Cognitive Services account.
+> Turning on firewall rules for your Cognitive Research Technologies account blocks incoming requests for data by default. In order to allow requests through, one of the following conditions needs to be met:
+> * The request should originate from a service operating within an Azure Virtual Network (VNet) on the allowed subnet list of the target Cognitive Research Technologies account. The endpoint in requests originated from VNet needs to be set as the [custom subdomain](cognitive-services-custom-subdomains.md) of your Cognitive Research Technologies account.
 > * Or the request should originate from an allowed list of IP addresses.
 >
 > Requests that are blocked include those from other Azure services, from the Azure portal, from logging and metrics services, and so on.
@@ -28,13 +28,13 @@ An application that accesses a Cognitive Services resource when network rules ar
 
 ## Scenarios
 
-To secure your Cognitive Services resource, you should first configure a rule to deny access to traffic from all networks (including internet traffic) by default. Then, you should configure rules that grant access to traffic from specific VNets. This configuration enables you to build a secure network boundary for your applications. You can also configure rules to grant access to traffic from select public internet IP address ranges, enabling connections from specific internet or on-premises clients.
+To secure your Cognitive Research Technologies resource, you should first configure a rule to deny access to traffic from all networks (including internet traffic) by default. Then, you should configure rules that grant access to traffic from specific VNets. This configuration enables you to build a secure network boundary for your applications. You can also configure rules to grant access to traffic from select public internet IP address ranges, enabling connections from specific internet or on-premises clients.
 
-Network rules are enforced on all network protocols to Azure Cognitive Services, including REST and WebSocket. To access data using tools such as the Azure test consoles, explicit network rules must be configured. You can apply network rules to existing Cognitive Services resources, or when you create new Cognitive Services resources. Once network rules are applied, they're enforced for all requests.
+Network rules are enforced on all network protocols to Azure Cognitive Research Technologies, including REST and WebSocket. To access data using tools such as the Azure test consoles, explicit network rules must be configured. You can apply network rules to existing Cognitive Research Technologies resources, or when you create new Cognitive Research Technologies resources. Once network rules are applied, they're enforced for all requests.
 
 ## Supported regions and service offerings
 
-Virtual network support for Cognitive Services is limited to the *Canary - Central US EUAP*, *West Europe*, and *West US 2* Azure regions. Additionally, not all of the Cognitive Service offerings support virtual networks. The following Cognitive Service offerings allow for the use of virtual networks. If the service offering is not listed here, it doesn't support virtual networks.
+Virtual network support for Cognitive Research Technologies is limited to the *Canary - Central US EUAP*, *West Europe*, and *West US 2* Azure regions. Additionally, not all of the Cognitive Service offerings support virtual networks. The following Cognitive Service offerings allow for the use of virtual networks. If the service offering is not listed here, it doesn't support virtual networks.
 
 > [!div class="checklist"]
 > * [Anomaly Detector](./anomaly-detector/index.yml)
@@ -49,24 +49,24 @@ Virtual network support for Cognitive Services is limited to the *Canary - Centr
 
 ## Change the default network access rule
 
-By default, Cognitive Services resources accept connections from clients on any network. To limit access to selected networks, you must first change the default action.
+By default, Cognitive Research Technologies resources accept connections from clients on any network. To limit access to selected networks, you must first change the default action.
 
 > [!WARNING]
-> Making changes to network rules can impact your applications' ability to connect to Azure Cognitive Services. Setting the default network rule to **deny** blocks all access to the data unless specific network rules that **grant** access are also applied. Be sure to grant access to any allowed networks using network rules before you change the default rule to deny access. If you are allow listing IP addresses for your on-premises network, be sure to add all possible outgoing public IP addresses from your on-premises network.
+> Making changes to network rules can impact your applications' ability to connect to Azure Cognitive Research Technologies. Setting the default network rule to **deny** blocks all access to the data unless specific network rules that **grant** access are also applied. Be sure to grant access to any allowed networks using network rules before you change the default rule to deny access. If you are allow listing IP addresses for your on-premises network, be sure to add all possible outgoing public IP addresses from your on-premises network.
 
 ### Managing default network access rules
 
-You can manage default network access rules for Cognitive Services resources through the Azure portal, PowerShell, or the Azure CLI.
+You can manage default network access rules for Cognitive Research Technologies resources through the Azure portal, PowerShell, or the Azure CLI.
 
 # [Azure portal](#tab/portal)
 
-1. Go to the Cognitive Services resource you want to secure.
+1. Go to the Cognitive Research Technologies resource you want to secure.
 
 1. Select the **RESOURCE MANAGEMENT** menu called **Virtual network**.
 
    ![Virtual network option](media/vnet/virtual-network-blade.png)
 
-1. To deny access by default, choose to allow access from **Selected networks**. With the **Selected networks** setting alone, unaccompanied by configured **Virtual networks** or **Address ranges** - all access is effectively denied. When all access is denied, requests attempting to consume the Cognitive Services resource aren't permitted. The Azure portal, Azure PowerShell or, Azure CLI can still be used to configure the Cognitive Services resource.
+1. To deny access by default, choose to allow access from **Selected networks**. With the **Selected networks** setting alone, unaccompanied by configured **Virtual networks** or **Address ranges** - all access is effectively denied. When all access is denied, requests attempting to consume the Cognitive Research Technologies resource aren't permitted. The Azure portal, Azure PowerShell or, Azure CLI can still be used to configure the Cognitive Research Technologies resource.
 1. To allow traffic from all networks, choose to allow access from **All networks**.
 
    ![Virtual networks deny](media/vnet/virtual-network-deny.png)
@@ -77,7 +77,7 @@ You can manage default network access rules for Cognitive Services resources thr
 
 1. Install the [Azure PowerShell](/powershell/azure/install-az-ps) and [sign in](/powershell/azure/authenticate-azureps), or select **Try it**.
 
-1. Display the status of the default rule for the Cognitive Services resource.
+1. Display the status of the default rule for the Cognitive Research Technologies resource.
 
     ```azurepowershell-interactive
     $parameters = @{
@@ -113,7 +113,7 @@ You can manage default network access rules for Cognitive Services resources thr
 
 1. Install the [Azure CLI](/cli/azure/install-azure-cli) and [sign in](/cli/azure/authenticate-azure-cli), or select **Try it**.
 
-1. Display the status of the default rule for the Cognitive Services resource.
+1. Display the status of the default rule for the Cognitive Research Technologies resource.
 
     ```azurecli-interactive
     az cognitiveservices account show \
@@ -141,28 +141,28 @@ You can manage default network access rules for Cognitive Services resources thr
 
 ## Grant access from a virtual network
 
-You can configure Cognitive Services resources to allow access only from specific subnets. The allowed subnets may belong to a VNet in the same subscription, or in a different subscription, including subscriptions belonging to a different Azure Active Directory tenant.
+You can configure Cognitive Research Technologies resources to allow access only from specific subnets. The allowed subnets may belong to a VNet in the same subscription, or in a different subscription, including subscriptions belonging to a different Azure Active Directory tenant.
 
-Enable a [service endpoint](../virtual-network/virtual-network-service-endpoints-overview.md) for Azure Cognitive Services within the VNet. The service endpoint routes traffic from the VNet through an optimal path to the Azure Cognitive Services service. The identities of the subnet and the virtual network are also transmitted with each request. Administrators can then configure network rules for the Cognitive Services resource that allow requests to be received from specific subnets in a VNet. Clients granted access via these network rules must continue to meet the authorization requirements of the Cognitive Services resource to access the data.
+Enable a [service endpoint](../virtual-network/virtual-network-service-endpoints-overview.md) for Azure Cognitive Research Technologies within the VNet. The service endpoint routes traffic from the VNet through an optimal path to the Azure Cognitive Research Technologies service. The identities of the subnet and the virtual network are also transmitted with each request. Administrators can then configure network rules for the Cognitive Research Technologies resource that allow requests to be received from specific subnets in a VNet. Clients granted access via these network rules must continue to meet the authorization requirements of the Cognitive Research Technologies resource to access the data.
 
-Each Cognitive Services resource supports up to 100 virtual network rules, which may be combined with [IP network rules](#grant-access-from-an-internet-ip-range).
+Each Cognitive Research Technologies resource supports up to 100 virtual network rules, which may be combined with [IP network rules](#grant-access-from-an-internet-ip-range).
 
 ### Required permissions
 
-To apply a virtual network rule to a Cognitive Services resource, the user must have the appropriate permissions for the subnets being added. The required permission is the default *Contributor* role, or the *Cognitive Services Contributor* role. Required permissions can also be added to custom role definitions.
+To apply a virtual network rule to a Cognitive Research Technologies resource, the user must have the appropriate permissions for the subnets being added. The required permission is the default *Contributor* role, or the *Cognitive Research Technologies Contributor* role. Required permissions can also be added to custom role definitions.
 
-Cognitive Services resource and the virtual networks granted access may be in different subscriptions, including subscriptions that are a part of a different Azure AD tenant.
+Cognitive Research Technologies resource and the virtual networks granted access may be in different subscriptions, including subscriptions that are a part of a different Azure AD tenant.
 
 > [!NOTE]
 > Configuration of rules that grant access to subnets in virtual networks that are a part of a different Azure Active Directory tenant are currently only supported through Powershell, CLI and REST APIs. Such rules cannot be configured through the Azure portal, though they may be viewed in the portal.
 
 ### Managing virtual network rules
 
-You can manage virtual network rules for Cognitive Services resources through the Azure portal, PowerShell, or the Azure CLI.
+You can manage virtual network rules for Cognitive Research Technologies resources through the Azure portal, PowerShell, or the Azure CLI.
 
 # [Azure portal](#tab/portal)
 
-1. Go to the Cognitive Services resource you want to secure.
+1. Go to the Cognitive Research Technologies resource you want to secure.
 
 1. Select the **RESOURCE MANAGEMENT** menu called **Virtual network**.
 
@@ -185,7 +185,7 @@ You can manage virtual network rules for Cognitive Services resources through th
    ![Create vNet](media/vnet/virtual-network-create.png)
 
     > [!NOTE]
-    > If a service endpoint for Azure Cognitive Services wasn't previously configured for the selected virtual network and subnets, you can configure it as part of this operation.
+    > If a service endpoint for Azure Cognitive Research Technologies wasn't previously configured for the selected virtual network and subnets, you can configure it as part of this operation.
     >
     > Presently, only virtual networks belonging to the same Azure Active Directory tenant are shown for selection during rule creation. To grant access to a subnet in a virtual network belonging to another tenant, please use Powershell, CLI or REST APIs.
 
@@ -209,7 +209,7 @@ You can manage virtual network rules for Cognitive Services resources through th
     (Get-AzCognitiveServicesAccountNetworkRuleSet @parameters).VirtualNetworkRules
     ```
 
-1. Enable service endpoint for Azure Cognitive Services on an existing virtual network and subnet.
+1. Enable service endpoint for Azure Cognitive Research Technologies on an existing virtual network and subnet.
 
     ```azurepowershell-interactive
     Get-AzVirtualNetwork -ResourceGroupName "myresourcegroup" `
@@ -267,7 +267,7 @@ You can manage virtual network rules for Cognitive Services resources through th
         --query virtualNetworkRules
     ```
 
-1. Enable service endpoint for Azure Cognitive Services on an existing virtual network and subnet.
+1. Enable service endpoint for Azure Cognitive Research Technologies on an existing virtual network and subnet.
 
     ```azurecli-interactive
     az network vnet subnet update -g "myresourcegroup" -n "mysubnet" \
@@ -311,7 +311,7 @@ You can manage virtual network rules for Cognitive Services resources through th
 
 ## Grant access from an internet IP range
 
-You can configure Cognitive Services resources to allow access from specific public internet IP address ranges. This configuration grants access to specific services and on-premises networks, effectively blocking general internet traffic.
+You can configure Cognitive Research Technologies resources to allow access from specific public internet IP address ranges. This configuration grants access to specific services and on-premises networks, effectively blocking general internet traffic.
 
 Provide allowed internet address ranges using [CIDR notation](https://tools.ietf.org/html/rfc4632) in the form `16.17.18.0/24` or as individual IP addresses like `16.17.18.19`.
 
@@ -321,23 +321,23 @@ Provide allowed internet address ranges using [CIDR notation](https://tools.ietf
 IP network rules are only allowed for **public internet** IP addresses. IP address ranges reserved for private networks (as defined in [RFC 1918](https://tools.ietf.org/html/rfc1918#section-3)) aren't allowed in IP rules. Private networks include addresses that start with `10.*`, `172.16.*` - `172.31.*`, and `192.168.*`.
 
    > [!NOTE]
-   > IP network rules have no effect on requests originating from the same Azure region as the Cognitive Services resource. Use [Virtual network rules](#grant-access-from-a-virtual-network) to allow same-region requests.
+   > IP network rules have no effect on requests originating from the same Azure region as the Cognitive Research Technologies resource. Use [Virtual network rules](#grant-access-from-a-virtual-network) to allow same-region requests.
 
-Only IPV4 addresses are supported at this time. Each Cognitive Services resource supports up to 100 IP network rules, which may be combined with [Virtual network rules](#grant-access-from-a-virtual-network).
+Only IPV4 addresses are supported at this time. Each Cognitive Research Technologies resource supports up to 100 IP network rules, which may be combined with [Virtual network rules](#grant-access-from-a-virtual-network).
 
 ### Configuring access from on-premises networks
 
-To grant access from your on-premises networks to your Cognitive Services resource with an IP network rule, you must identify the internet facing IP addresses used by your network. Contact your network administrator for help.
+To grant access from your on-premises networks to your Cognitive Research Technologies resource with an IP network rule, you must identify the internet facing IP addresses used by your network. Contact your network administrator for help.
 
 If you are using [ExpressRoute](../expressroute/expressroute-introduction.md) on-premises for public peering or Microsoft peering, you will need to identify the NAT IP addresses. For public peering, each ExpressRoute circuit by default uses two NAT IP addresses. Each is applied to Azure service traffic when the traffic enters the Microsoft Azure network backbone. For Microsoft peering, the NAT IP addresses that are used are either customer provided or are provided by the service provider. To allow access to your service resources, you must allow these public IP addresses in the resource IP firewall setting. To find your public peering ExpressRoute circuit IP addresses, [open a support ticket with ExpressRoute](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) via the Azure portal. Learn more about [NAT for ExpressRoute public and Microsoft peering.](../expressroute/expressroute-nat.md#nat-requirements-for-azure-public-peering)
 
 ### Managing IP network rules
 
-You can manage IP network rules for Cognitive Services resources through the Azure portal, PowerShell, or the Azure CLI.
+You can manage IP network rules for Cognitive Research Technologies resources through the Azure portal, PowerShell, or the Azure CLI.
 
 # [Azure portal](#tab/portal)
 
-1. Go to the Cognitive Services resource you want to secure.
+1. Go to the Cognitive Research Technologies resource you want to secure.
 
 1. Select the **RESOURCE MANAGEMENT** menu called **Virtual network**.
 
@@ -461,5 +461,5 @@ You can manage IP network rules for Cognitive Services resources through the Azu
 
 ## Next steps
 
-* Explore the various [Azure Cognitive Services](welcome.md)
+* Explore the various [Azure Cognitive Research Technologies](welcome.md)
 * Learn more about [Azure Virtual Network Service Endpoints](../virtual-network/virtual-network-service-endpoints-overview.md)

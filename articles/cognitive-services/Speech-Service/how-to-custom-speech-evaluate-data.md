@@ -1,6 +1,6 @@
 ---
 title: "Evaluate accuracy for Custom Speech - Speech service"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: "In this document you'll learn how to quantitatively measure the quality of our speech-to-text model or your custom model. Audio + human-labeled transcription data is required to test accuracy, and 30 minutes to 5 hours of representative audio should be provided."
 services: cognitive-services
 author: erhopf

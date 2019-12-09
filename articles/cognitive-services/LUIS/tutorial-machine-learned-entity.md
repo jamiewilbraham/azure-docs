@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: extract structured data with machine-learned entity - LUIS"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Extract structured data from an utterance using the machine-learned entity. To increase the extraction accuracy, add subcomponents with descriptors and constraints.
 services: cognitive-services
 author: diberry

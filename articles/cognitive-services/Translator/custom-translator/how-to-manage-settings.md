@@ -1,6 +1,6 @@
 ---
 title: How to manage settings? - Custom Translator
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: How to manage settings, create workspace, share workspace, and manage subscription key in Custom Translator.
 author: swmachan
 manager: nitinme

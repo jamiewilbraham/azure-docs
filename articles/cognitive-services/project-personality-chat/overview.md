@@ -1,6 +1,6 @@
 ---
 title: What is Project Personality Chat?
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: This article is an overview of the Azure Project Personality Chat, a cloud-based API for enhancing your bot’s conversational capabilities.
 services: cognitive-services
 author: noellelacharite

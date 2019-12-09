@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Perform a web search with Java - Bing Web Search REST API"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to send a request to the Bing News Search REST API using Java, and receive a JSON response.
 services: cognitive-services
 author: aahill
@@ -31,7 +31,7 @@ The source code for this sample is available [on GitHub](https://github.com/Azur
 
 [!INCLUDE [cognitive-services-bing-news-search-signup-requirements](../../../includes/cognitive-services-bing-news-search-signup-requirements.md)]
 
-See also [Cognitive Services Pricing - Bing Search API](https://azure.microsoft.com/pricing/details/cognitive-services/search-api/).
+See also [Cognitive Research Technologies Pricing - Bing Search API](https://azure.microsoft.com/pricing/details/cognitive-services/search-api/).
 
 ## Create and initialize a project
 

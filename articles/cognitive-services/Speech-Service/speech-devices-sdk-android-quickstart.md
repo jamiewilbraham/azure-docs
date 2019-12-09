@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Run the Speech Devices SDK on Android - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Prerequisites and instructions for getting started with an Android Speech Devices SDK.
 services: cognitive-services
 author: erhopf
@@ -17,7 +17,7 @@ ms.author: erhopf
 
 In this quickstart, you'll learn how to use the Speech Devices SDK for Android to build a speech-enabled product or use it as a [Conversation Transcription](conversation-transcription-service.md) device.
 
-This guide requires an [Azure Cognitive Services](get-started.md) account with a Speech service resource. If you don't have an account, you can use the [free trial](https://azure.microsoft.com/try/cognitive-services/) to get a subscription key.
+This guide requires an [Azure Cognitive Research Technologies](get-started.md) account with a Speech service resource. If you don't have an account, you can use the [free trial](https://azure.microsoft.com/try/cognitive-services/) to get a subscription key.
 
 The source code for the sample application is included with the Speech Devices SDK. It's also [available on GitHub](https://github.com/Azure-Samples/Cognitive-Services-Speech-Devices-SDK).
 

@@ -1,6 +1,6 @@
 ---
 title: Configure Personalizer
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Service configuration includes how the service treats rewards, how often the service explores, how often the model is retrained, and how much data is stored.
 services: cognitive-services
 author: diberry

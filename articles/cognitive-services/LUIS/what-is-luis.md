@@ -1,6 +1,6 @@
 ---
 title: What is Language Understanding (LUIS)?
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Language Understanding (LUIS) is a cloud-based API service that applies custom machine-learning intelligence to a user's conversational, natural language text to predict overall meaning, and pull out relevant, detailed information.
 services: cognitive-services
 author: diberry
@@ -48,7 +48,7 @@ In the example above, the _**intent**_, or overall meaning of the phrase is that
 
 Client applications use LUIS's returned JSON, the _intent_ (category), and _entities_ (extracted detailed information), to drive actions in the client application. A client application for LUIS is often a conversational application that communicates with a user in natural language to complete a task. Examples of client applications include social media apps, chat bots, and speech-enabled desktop applications. 
 
-![Conceptual image of 3 client applications working with Cognitive Services Language Understanding (LUIS)](./media/luis-overview/luis-entry-point.png "Conceptual image of 3 client applications working with Cognitive Services Language Understanding (LUIS)")
+![Conceptual image of 3 client applications working with Cognitive Research Technologies Language Understanding (LUIS)](./media/luis-overview/luis-entry-point.png "Conceptual image of 3 client applications working with Cognitive Research Technologies Language Understanding (LUIS)")
 
 ## Example use LUIS in a chat bot
 
@@ -141,7 +141,7 @@ Tools to quickly and easily use LUIS with a bot:
 * [LUDown](https://github.com/Microsoft/botbuilder-tools/tree/master/packages/Ludown) LUDown is a command line tool that helps manage language models for your bot.
 * [Bot framework - Composer](https://github.com/microsoft/BotFramework-Composer) - an integrated development tool for developers and multi-disciplinary teams to build bots and conversational experiences with the Microsoft Bot Framework
 
-Other Cognitive Services used with LUIS:
+Other Cognitive Research Technologies used with LUIS:
 * [QnA Maker][qnamaker] allows several types of text to combine into a question and answer knowledge base.
 * [Speech service](../Speech-Service/overview.md) converts spoken language requests into text. 
 * [Conversation learner](https://docs.microsoft.com/azure/cognitive-services/labs/conversation-learner/overview) allows you to build bot conversations quicker with LUIS.

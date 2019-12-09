@@ -1,7 +1,7 @@
 ---
 title: 'Quickstart: Synthesize speech, C# (UWP) - Speech service'
-titleSuffix: Azure Cognitive Services
-description: In this article, you create a C# Universal Windows Platform (UWP) application by using the Cognitive Services Speech SDK. You synthesize speech from text in real time to your device's speaker. The application is built with the Speech SDK NuGet Package and Microsoft Visual Studio 2019.
+titleSuffix: Azure Cognitive Research Technologies
+description: In this article, you create a C# Universal Windows Platform (UWP) application by using the Cognitive Research Technologies Speech SDK. You synthesize speech from text in real time to your device's speaker. The application is built with the Speech SDK NuGet Package and Microsoft Visual Studio 2019.
 services: cognitive-services
 author: yinhew
 manager: nitinme

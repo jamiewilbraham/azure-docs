@@ -1,7 +1,7 @@
 ---
 title: Authentication
-titleSuffix: Azure Cognitive Services
-description: "There are three ways to authenticate a request to an Azure Cognitive Services resource: a subscription key, a bearer token, or a multi-service subscription. In this article, you'll learn about each method, and how to make a request."
+titleSuffix: Azure Cognitive Research Technologies
+description: "There are three ways to authenticate a request to an Azure Cognitive Research Technologies resource: a subscription key, a bearer token, or a multi-service subscription. In this article, you'll learn about each method, and how to make a request."
 services: cognitive-services
 author: erhopf
 manager: nitinme
@@ -11,7 +11,7 @@ ms.date: 11/22/2019
 ms.author: erhopf
 ---
 
-# Authenticate requests to Azure Cognitive Services
+# Authenticate requests to Azure Cognitive Research Technologies
 
 Each request to an Azure Cognitive Service must include an authentication header. This header passes along a subscription key or access token, which is used to validate your subscription for a service or group of services. In this article, you'll learn about three ways to authenticate a request and the requirements for each.
 
@@ -22,13 +22,13 @@ Each request to an Azure Cognitive Service must include an authentication header
 
 ## Prerequisites
 
-Before you make a request, you need an Azure account and an Azure Cognitive Services subscription. If you already have an account, go ahead and skip to the next section. If you don't have an account, we have a guide to get you set up in minutes: [Create a Cognitive Services account for Azure](cognitive-services-apis-create-account.md).
+Before you make a request, you need an Azure account and an Azure Cognitive Research Technologies subscription. If you already have an account, go ahead and skip to the next section. If you don't have an account, we have a guide to get you set up in minutes: [Create a Cognitive Research Technologies account for Azure](cognitive-services-apis-create-account.md).
 
 You can get your subscription key from the [Azure portal](cognitive-services-apis-create-account.md#get-the-keys-for-your-resource) after creating your account, or activating a [free trial](https://azure.microsoft.com/try/cognitive-services/my-apis).
 
 ## Authentication headers
 
-Let's quickly review the authentication headers available for use with Azure Cognitive Services.
+Let's quickly review the authentication headers available for use with Azure Cognitive Research Technologies.
 
 | Header | Description |
 |--------|-------------|
@@ -56,18 +56,18 @@ curl -X POST 'https://api.cognitive.microsofttranslator.com/translate?api-versio
 --data-raw '[{ "text": "How much for the cup of coffee?" }]' | json_pp
 ```
 
-The following video demonstrates using a Cognitive Services key.
+The following video demonstrates using a Cognitive Research Technologies key.
 
 ## Authenticate with a multi-service subscription key
 
 >[!WARNING]
 > At this time, these services **don't** support multi-service keys: QnA Maker, Speech Services, Custom Vision, and Anomaly Detector.
 
-This option also uses a subscription key to authenticate requests. The main difference is that a subscription key is not tied to a specific service, rather, a single key can be used to authenticate requests for multiple Cognitive Services. See [Cognitive Services pricing](https://azure.microsoft.com/pricing/details/cognitive-services/) for information about regional availability, supported features, and pricing.
+This option also uses a subscription key to authenticate requests. The main difference is that a subscription key is not tied to a specific service, rather, a single key can be used to authenticate requests for multiple Cognitive Research Technologies. See [Cognitive Research Technologies pricing](https://azure.microsoft.com/pricing/details/cognitive-services/) for information about regional availability, supported features, and pricing.
 
 The subscription key is provided in each request as the `Ocp-Apim-Subscription-Key` header.
 
-[![Multi-service subscription key demonstration for Cognitive Services](./media/index/single-key-demonstration-video.png)](https://www.youtube.com/watch?v=psHtA1p7Cas&feature=youtu.be)
+[![Multi-service subscription key demonstration for Cognitive Research Technologies](./media/index/single-key-demonstration-video.png)](https://www.youtube.com/watch?v=psHtA1p7Cas&feature=youtu.be)
 
 ### Supported regions
 
@@ -107,7 +107,7 @@ curl -X POST 'https://api.cognitive.microsofttranslator.com/translate?api-versio
 
 ## Authenticate with an authentication token
 
-Some Azure Cognitive Services accept, and in some cases require, an authentication token. Currently, these services support authentication tokens:
+Some Azure Cognitive Research Technologies accept, and in some cases require, an authentication token. Currently, these services support authentication tokens:
 
 * Text Translation API
 * Speech Services: Speech-to-text REST API
@@ -158,6 +158,6 @@ curl -X POST 'https://api.cognitive.microsofttranslator.com/translate?api-versio
 
 ## See also
 
-* [What is Cognitive Services?](welcome.md)
-* [Cognitive Services pricing](https://azure.microsoft.com/pricing/details/cognitive-services/)
+* [What is Cognitive Research Technologies?](welcome.md)
+* [Cognitive Research Technologies pricing](https://azure.microsoft.com/pricing/details/cognitive-services/)
 * [Custom subdomains](cognitive-services-custom-subdomains.md)

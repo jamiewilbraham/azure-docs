@@ -1,6 +1,6 @@
 ---
 title: Custom Commands (Preview) - Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: An overview of the features, capabilities, and restrictions for Custom Commands (Preview), a solution for creating voice assistants.
 services: cognitive-services
 author: trrwilson

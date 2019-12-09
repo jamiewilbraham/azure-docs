@@ -1,6 +1,6 @@
 ---
 title: What is Azure Content Moderator?
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to use Content Moderator to track, flag, assess, and filter inappropriate material in user-generated content.
 services: cognitive-services
 author: PatrickFarley
@@ -69,7 +69,7 @@ The Content Moderator service also includes the web-based [Review tool](Review-T
 
 ## Data privacy and security
 
-As with all of the Cognitive Services, developers using the Content Moderator service should be aware of Microsoft's policies on customer data. See the [Cognitive Services page](https://www.microsoft.com/trustcenter/cloudservices/cognitiveservices) on the Microsoft Trust Center to learn more.
+As with all of the Cognitive Research Technologies, developers using the Content Moderator service should be aware of Microsoft's policies on customer data. See the [Cognitive Research Technologies page](https://www.microsoft.com/trustcenter/cloudservices/cognitiveservices) on the Microsoft Trust Center to learn more.
 
 ## Next steps
 

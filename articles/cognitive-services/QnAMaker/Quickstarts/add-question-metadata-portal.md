@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Add questions and answer in QnA Maker portal"
-titleSuffix: Azure Cognitive Services 
+titleSuffix: Azure Cognitive Research Technologies 
 description:  
 services: cognitive-services
 author: diberry
@@ -163,7 +163,7 @@ Adding metadata to a question and answer set allows your client application to r
 
 ## Clean up resources
 
-If you want to clean up and remove a Cognitive Services subscription, you can delete the resource or resource group. Deleting the resource group also deletes any other resources associated with it.
+If you want to clean up and remove a Cognitive Research Technologies subscription, you can delete the resource or resource group. Deleting the resource group also deletes any other resources associated with it.
 
 * [Portal](../../cognitive-services-apis-create-account.md#clean-up-resources)
 * [Azure CLI](../../cognitive-services-apis-create-account-cli.md#clean-up-resources)

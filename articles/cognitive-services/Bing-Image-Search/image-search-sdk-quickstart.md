@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Search for images - Bing Image Search SDK for C#"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to make your first image search using the Bing Image Search SDK, which is a wrapper for the API and contains the same features. This simple C# application sends an image search query, parses the JSON response, and displays the URL of the first image returned.
 services: cognitive-services
 author: aahill
@@ -27,7 +27,7 @@ To install the Bing Image Search SDK in Visual Studio, use the **Manage NuGet Pa
 
 [!INCLUDE [cognitive-services-bing-image-search-signup-requirements](../../../includes/cognitive-services-bing-image-search-signup-requirements.md)]
 
-See also [Cognitive Services Pricing - Bing Search API](https://azure.microsoft.com/pricing/details/cognitive-services/search-api/).
+See also [Cognitive Research Technologies Pricing - Bing Search API](https://azure.microsoft.com/pricing/details/cognitive-services/search-api/).
 
 ## Create and initialize the application
 
@@ -43,7 +43,7 @@ using Microsoft.Azure.CognitiveServices.Search.ImageSearch.Models;
 In the main method of your project, create variables for your valid subscription key, the image results to be returned by Bing, and a search term. Then instantiate the image search client using the key.
 
 ```csharp
-//IMPORTANT: replace this variable with your Cognitive Services subscription key
+//IMPORTANT: replace this variable with your Cognitive Research Technologies subscription key
 string subscriptionKey = "ENTER YOUR KEY HERE";
 //stores the image results returned by Bing
 Images imageResults = null;
@@ -93,7 +93,7 @@ if (imageResults != null)
 
 * [What is Bing Image Search?](https://docs.microsoft.com/azure/cognitive-services/bing-image-search/overview)  
 * [Try an online interactive demo](https://azure.microsoft.com/services/cognitive-services/bing-image-search-api/)  
-* [Get a free Cognitive Services access key](https://azure.microsoft.com/try/cognitive-services/?api=bing-image-search-api)  
-* [.NET samples for the Azure Cognitive Services SDK](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples/tree/master/BingSearchv7)
-* [Azure Cognitive Services Documentation](https://docs.microsoft.com/azure/cognitive-services)
+* [Get a free Cognitive Research Technologies access key](https://azure.microsoft.com/try/cognitive-services/?api=bing-image-search-api)  
+* [.NET samples for the Azure Cognitive Research Technologies SDK](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples/tree/master/BingSearchv7)
+* [Azure Cognitive Research Technologies Documentation](https://docs.microsoft.com/azure/cognitive-services)
 * [Bing Image Search API reference](https://docs.microsoft.com/rest/api/cognitiveservices-bingsearch/bing-images-api-v7-reference)

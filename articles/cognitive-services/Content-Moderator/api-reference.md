@@ -1,6 +1,6 @@
 ---
 title: API reference - Content Moderator
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn about the various content moderation and review APIs for Content Moderator.
 services: cognitive-services
 author: PatrickFarley

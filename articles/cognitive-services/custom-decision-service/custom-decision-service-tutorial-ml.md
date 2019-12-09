@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Featurization and feature specification - Custom Decision Service"
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: A tutorial for machine learning featurization and feature specification in Custom Decision Service.
 services: cognitive-services
 author: slivkins
@@ -18,7 +18,7 @@ ROBOTS: NOINDEX
 
 This tutorial addresses the advanced machine learning functionality in Custom Decision Service. The tutorial consists of two parts: [featurization](#featurization-concepts-and-implementation) and [feature specification](#feature-specification-format-and-apis). Featurization refers to representing your data as "features" for machine learning. Feature specification covers the JSON format and the ancillary APIs for specifying features.
 
-By default, machine learning in Custom Decision Service is transparent to the customer. Features are automatically extracted from your content, and a standard reinforcement learning algorithm is used. Feature extraction leverages several other Azure Cognitive Services:
+By default, machine learning in Custom Decision Service is transparent to the customer. Features are automatically extracted from your content, and a standard reinforcement learning algorithm is used. Feature extraction leverages several other Azure Cognitive Research Technologies:
 [Entity Linking](../entitylinking/home.md),
 [Text Analytics](../text-analytics/overview.md),
 [Emotion](../emotion/home.md), and

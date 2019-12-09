@@ -1,6 +1,6 @@
 ---
 title: Migrate to an Azure authoring resource
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Migrate to an Azure authoring resource.
 services: cognitive-services
 author: diberry

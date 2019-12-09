@@ -1,6 +1,6 @@
 ---
 title: What is Custom Vision?
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to use the Custom Vision service to build custom image classifiers in the Azure cloud.
 services: cognitive-services
 author: PatrickFarley
@@ -40,7 +40,7 @@ The Custom Vision Service is available as a set of native SDKs as well as throug
 
 ## Data privacy and security
 
-As with all of the Cognitive Services, developers using the Custom Vision service should be aware of Microsoft's policies on customer data. See the [Cognitive Services page](https://www.microsoft.com/trustcenter/cloudservices/cognitiveservices) on the Microsoft Trust Center to learn more.
+As with all of the Cognitive Research Technologies, developers using the Custom Vision service should be aware of Microsoft's policies on customer data. See the [Cognitive Research Technologies page](https://www.microsoft.com/trustcenter/cloudservices/cognitiveservices) on the Microsoft Trust Center to learn more.
 
 ## Next steps
 

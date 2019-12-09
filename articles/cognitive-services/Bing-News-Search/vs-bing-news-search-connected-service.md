@@ -1,6 +1,6 @@
 ---
 title: "Connect to Bing News Search API with Connected Services in Visual Studio and C#"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: By using Bing News Search, you can enable apps and services to harness the power of an ad-free search engine scoped to the web.
 services: cognitive-services
 author: aahill
@@ -14,9 +14,9 @@ ms.author: aahi
 ---
 # Tutorial: Connect to Bing News Search API with Connected Services in Visual Studio and C#
 
-By using Bing News Search, you can enable apps and services to harness the power of an ad-free search engine scoped to the web. Bing News Search is one of the search services available with Cognitive Services.
+By using Bing News Search, you can enable apps and services to harness the power of an ad-free search engine scoped to the web. Bing News Search is one of the search services available with Cognitive Research Technologies.
 
-This article provides details for using the Visual Studio Connected Service feature for Bing News Search. The capability is available in Visual Studio 2017 15.7 or later, with the Cognitive Services extension installed.
+This article provides details for using the Visual Studio Connected Service feature for Bing News Search. The capability is available in Visual Studio 2017 15.7 or later, with the Cognitive Research Technologies extension installed.
 
 ## Prerequisites
 

@@ -1,6 +1,6 @@
 ---
 title: How to get V3 prediction endpoint
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 services: cognitive-services
 author: diberry
 manager: nitinme

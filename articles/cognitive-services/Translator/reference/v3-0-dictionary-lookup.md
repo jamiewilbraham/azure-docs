@@ -1,6 +1,6 @@
 ---
 title: Translator Text API Dictionary Lookup Method
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The Dictionary Lookup method provides alternative translations for a word and a small number of idiomatic phrases.
 services: cognitive-services
 author: swmachan

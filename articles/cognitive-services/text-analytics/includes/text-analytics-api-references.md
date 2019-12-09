@@ -1,6 +1,6 @@
 ---
 title: Text Analytics API Reference
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Reference to latest stable and preview API definitions
 services: cognitive-services
 author: aahill

@@ -1,6 +1,6 @@
 ---
 title: Key Phrase Extraction Kubernetes config and deploy steps
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Key Phrase Extraction Kubernetes config and deploy steps
 services: cognitive-services
 author: IEvangelist

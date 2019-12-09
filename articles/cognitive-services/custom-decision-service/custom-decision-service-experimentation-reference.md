@@ -1,6 +1,6 @@
 ---
 title: Experimentation - Custom Decision Service
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: This article is a guide for experimentation with Custom Decision Service.
 services: cognitive-services
 author: marco-rossi29

@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Language Understanding (LUIS) authoring client library for Python"
-titleSuffix: Azure Cognitive Services 
+titleSuffix: Azure Cognitive Research Technologies 
 description: Get started with the LUIS client library for Python. Follow these steps to install the package and try out the example code for basic tasks.
 services: cognitive-services
 author: diberry
@@ -188,7 +188,7 @@ python quickstart-file.py
 
 ## Clean up resources
 
-If you want to clean up and remove a Cognitive Services subscription, you can delete the resource or resource group. Deleting the resource group also deletes any other resources associated with it.
+If you want to clean up and remove a Cognitive Research Technologies subscription, you can delete the resource or resource group. Deleting the resource group also deletes any other resources associated with it.
 
 * [Portal](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account#clean-up-resources)
 * [Azure CLI](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account-cli#clean-up-resources) 

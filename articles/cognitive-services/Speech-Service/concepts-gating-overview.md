@@ -1,6 +1,6 @@
 ---
 title: Custom Neural Voice Gating overview
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Introduction to the gating process for custom neural voice.
 services: cognitive-services
 author: shlo

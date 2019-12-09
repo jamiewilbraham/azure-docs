@@ -12,11 +12,11 @@ ms.author: dapine
 
 ### Container repositories and images
 
-The tables below are a listing of the available container images offered by Azure Cognitive Services. For a complete list of all the available container image names and their available tags, see [Cognitive Services container image tags](../container-image-tags.md).
+The tables below are a listing of the available container images offered by Azure Cognitive Research Technologies. For a complete list of all the available container image names and their available tags, see [Cognitive Research Technologies container image tags](../container-image-tags.md).
 
 #### Public "Ungated" (container registry: `mcr.microsoft.com`)
 
-The Microsoft Container Registry (MCR) syndicates all of the publicly available "ungated" containers for Cognitive Services. They are also available directly from the [Docker hub](https://hub.docker.com/_/microsoft-azure-cognitive-services).
+The Microsoft Container Registry (MCR) syndicates all of the publicly available "ungated" containers for Cognitive Research Technologies. They are also available directly from the [Docker hub](https://hub.docker.com/_/microsoft-azure-cognitive-services).
 
 | Service | Container | Container Registry / Repository / Image Name |
 |--|--|--|
@@ -27,7 +27,7 @@ The Microsoft Container Registry (MCR) syndicates all of the publicly available 
 
 #### Public "Gated" Preview (container registry: `containerpreview.azurecr.io`)
 
-The Container Preview registry hosts all of the publicly available "gated" containers for Cognitive Services. These containers require a formal request for access in order to consume them.
+The Container Preview registry hosts all of the publicly available "gated" containers for Cognitive Research Technologies. These containers require a formal request for access in order to consume them.
 
 | Service | Container | Container Registry / Repository / Image Name |
 |--|--|--|

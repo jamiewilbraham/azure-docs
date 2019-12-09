@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Get intent with REST APIs - LUIS"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this REST API quickstart, use an available public LUIS app to determine a user's intention from conversational text.  
 services: cognitive-services
 author: diberry

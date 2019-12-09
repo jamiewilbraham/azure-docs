@@ -1,6 +1,6 @@
 ---
 title: Text-to-speech - Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The text-to-speech feature in the Speech service enables your applications, tools, or devices to convert text into natural human-like synthesized speech. Choose preset voices or create your own custom voice.
 services: cognitive-services
 author: erhopf

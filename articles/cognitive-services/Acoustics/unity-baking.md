@@ -1,6 +1,6 @@
 ---
 title: Project Acoustics Unity Bake Tutorial
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: This tutorial describes acoustics baking with Project Acoustics in Unity.
 services: cognitive-services
 author: NoelCross

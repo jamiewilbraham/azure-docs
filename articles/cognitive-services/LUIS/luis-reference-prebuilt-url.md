@@ -1,6 +1,6 @@
 ---
 title: URL Prebuilt entities - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This article contains url prebuilt entity information in Language Understanding (LUIS).
 services: cognitive-services
 author: diberry
@@ -23,7 +23,7 @@ Url is managed from the [Recognizers-text](https://github.com/Microsoft/Recogniz
 
 The following entity objects are returned for the query:
 
-`https://www.luis.ai is a great cognitive services example of artificial intelligence`
+`https://www.luis.ai is a great Cognitive Research Technologies example of artificial intelligence`
 
 #### [V3 response](#tab/V3)
 
@@ -64,7 +64,7 @@ The following JSON is with the `verbose` parameter set to `true`:
 ```
 #### [V2 response](#tab/V2)
 
-The following example shows the resolution of the https://www.luis.ai is a great cognitive services example of artificial intelligence
+The following example shows the resolution of the https://www.luis.ai is a great Cognitive Research Technologies example of artificial intelligence
 
 ```json
 "entities": [

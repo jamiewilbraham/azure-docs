@@ -1,6 +1,6 @@
 ---
 title: Audio input format
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 services: cognitive-services
 author: markamos
 manager: nitinme

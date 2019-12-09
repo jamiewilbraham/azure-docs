@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Application Insights, C# - LUIS"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This tutorial adds bot and Language Understanding information to Application Insights telemetry data storage.
 services: cognitive-services
 author: diberry

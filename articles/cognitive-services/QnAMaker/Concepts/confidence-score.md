@@ -1,6 +1,6 @@
 ---
 title: Confidence Score - QnA Maker 
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The confidence score indicates the confidence that the answer is the right match for the given user query. 
 services: cognitive-services
 author: diberry

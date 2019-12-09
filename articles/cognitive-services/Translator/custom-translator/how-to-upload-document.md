@@ -1,6 +1,6 @@
 ---
 title: How to upload a document - Custom Translator
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The document upload feature uploads parallel documents (two documents where one is the origin and the other is the translation) into the service.  
 author: swmachan
 manager: nitinme

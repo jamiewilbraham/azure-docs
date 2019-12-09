@@ -1,6 +1,6 @@
 ---
 title: Project Acoustics Overview
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Project Acoustics is an acoustics engine for 3D interactive experiences, integrating baked wave physics simulation with interactive design controls.
 services: cognitive-services
 author: NoelCross

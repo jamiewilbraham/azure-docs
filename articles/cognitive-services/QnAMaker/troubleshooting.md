@@ -1,6 +1,6 @@
 ﻿---
 title: Troubleshooting - QnA Maker
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The curated list of the most frequently asked questions regarding the QnA Maker service will help you adopt the service faster and with better results.
 services: cognitive-services
 author: diberry

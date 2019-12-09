@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Use Form Recognizer with Azure Logic Apps to analyze invoices - Form Recognizer"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this tutorial, you'll use Form Recognizer with Azure Logic Apps to create a workflow that automates the process of training a model and testing it using sample data.
 services: cognitive-services
 author: nitinme
@@ -14,7 +14,7 @@ ms.author: nitinme
 
 # Tutorial: Use Form Recognizer with Azure Logic Apps to analyze invoices
 
-In this tutorial, you create a workflow in Azure Logic Apps that uses Form Recognizer, a service that is part of Azure Cognitive Services suite, to extract data from invoices. You use Form Recognizer to first train a model using a sample data set and then test the model using another data set. The sample data used in this tutorial is stored in Azure Storage blob containers.
+In this tutorial, you create a workflow in Azure Logic Apps that uses Form Recognizer, a service that is part of Azure Cognitive Research Technologies suite, to extract data from invoices. You use Form Recognizer to first train a model using a sample data set and then test the model using another data set. The sample data used in this tutorial is stored in Azure Storage blob containers.
 
 Here's what this tutorial covers:
 
@@ -32,7 +32,7 @@ Here's what this tutorial covers:
 
 ## Request access for Form Recognizer
 
-Form Recognizer is available in a limited-access preview. To get access to the preview, fill out and submit the [Form Recognizer access request](https://aka.ms/FormRecognizerRequestAccess) form. Once your request is approved by the Azure Cognitive Services team, you'll receive an email with instructions for accessing the service.
+Form Recognizer is available in a limited-access preview. To get access to the preview, fill out and submit the [Form Recognizer access request](https://aka.ms/FormRecognizerRequestAccess) form. Once your request is approved by the Azure Cognitive Research Technologies team, you'll receive an email with instructions for accessing the service.
 
 ## Understand the invoice to be analyzed
 

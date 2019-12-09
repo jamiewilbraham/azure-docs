@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Synthesize speech, Swift - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to synthesize speech in Swift on macOS using the Speech SDK
 services: cognitive-services
 author: yulin-li
@@ -14,7 +14,7 @@ ms.author: yulili
 
 # Quickstart: Synthesize speech in Swift on macOS using the Speech SDK
 
-In this article, you learn how to create a macOS app in Swift using the Cognitive Services Speech SDK to synthesize speech from text and play it with the default audio output.
+In this article, you learn how to create a macOS app in Swift using the Cognitive Research Technologies Speech SDK to synthesize speech from text and play it with the default audio output.
 
 ## Prerequisites
 
@@ -27,7 +27,7 @@ Before you get started, here's a list of prerequisites:
 
 [!INCLUDE [License Notice](~/includes/cognitive-services-speech-service-license-notice.md)]
 
-The Cognitive Services Speech SDK for macOS is distributed as a framework bundle.
+The Cognitive Research Technologies Speech SDK for macOS is distributed as a framework bundle.
 It can be used in Xcode projects as a [CocoaPod](https://cocoapods.org/), or downloaded from https://aka.ms/csspeech/macosbinary and linked manually. This guide uses a CocoaPod.
 
 > [!NOTE] 

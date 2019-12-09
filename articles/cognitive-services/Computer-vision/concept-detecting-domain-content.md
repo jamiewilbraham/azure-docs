@@ -1,6 +1,6 @@
 ---
 title: Domain-specific content - Computer Vision
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to specify an image categorization domain to return more detailed information about an image.
 services: cognitive-services
 author: PatrickFarley

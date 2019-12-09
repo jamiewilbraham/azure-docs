@@ -1,6 +1,6 @@
 ---
 title: Get started with Microsoft Speech Service | Microsoft Docs
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Use Microsoft Speech Service.
 services: cognitive-services
 author: nitinme

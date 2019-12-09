@@ -1,6 +1,6 @@
 ---
 title: "How to build a training data set for a custom model - Form Recognizer"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to ensure your training data set is optimized for training a Form Recognizer model.
 author: PatrickFarley
 manager: nitinme

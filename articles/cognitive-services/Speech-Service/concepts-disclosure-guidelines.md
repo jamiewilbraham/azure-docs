@@ -1,6 +1,6 @@
 ---
 title: Disclosure Design Guidelines
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Introduction to disclosure design guidelines and assessing disclosure level.
 services: cognitive-services
 author: sharonlo101

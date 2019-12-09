@@ -1,6 +1,6 @@
 ---
 title: General named entities
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 services: cognitive-services
 author: aahill
 manager: nitinme

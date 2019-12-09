@@ -1,7 +1,7 @@
 ---
 title: What is the Face API?
-titleSuffix: Azure Cognitive Services
-description: The Azure Cognitive Services Face API provides algorithms that are used to detect, recognize, and analyze human faces in images.
+titleSuffix: Azure Cognitive Research Technologies
+description: The Azure Cognitive Research Technologies Face API provides algorithms that are used to detect, recognize, and analyze human faces in images.
 author: PatrickFarley
 manager: nitinme
 
@@ -15,7 +15,7 @@ ms.author: pafarley
 
 # What is the Azure Face API?
 
-The Azure Cognitive Services Face API provides algorithms that are used to detect, recognize, and analyze human faces in images. The ability to process human face information is important in many different software scenarios. Example scenarios are security, natural user interface, image content analysis and management, mobile apps, and robotics.
+The Azure Cognitive Research Technologies Face API provides algorithms that are used to detect, recognize, and analyze human faces in images. The ability to process human face information is important in many different software scenarios. Example scenarios are security, natural user interface, image content analysis and management, mobile apps, and robotics.
 
 The Face API provides several different functions. Each function is outlined in the following sections. Read on to learn more about them.
 
@@ -77,7 +77,7 @@ The following sample applications show a few ways to use the Face API:
 
 ## Data privacy and security
 
-As with all of the Cognitive Services resources, developers who use the Face service must be aware of Microsoft's policies on customer data. For more information, see the [Cognitive Services page](https://www.microsoft.com/trustcenter/cloudservices/cognitiveservices) on the Microsoft Trust Center.
+As with all of the Cognitive Research Technologies resources, developers who use the Face service must be aware of Microsoft's policies on customer data. For more information, see the [Cognitive Research Technologies page](https://www.microsoft.com/trustcenter/cloudservices/cognitiveservices) on the Microsoft Trust Center.
 
 ## Next steps
 

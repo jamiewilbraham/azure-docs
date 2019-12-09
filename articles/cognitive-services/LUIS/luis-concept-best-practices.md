@@ -1,6 +1,6 @@
 ---
 title: Best practices for building your LUIS app
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn the best practices to get the best results from your LUIS app's model.
 services: cognitive-services
 author: diberry

@@ -1,6 +1,6 @@
 ---
 title: Migrate knowledge bases - QnA Maker
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Migrating a knowledge base requires exporting from one knowledge base, then importing into another. 
 services: cognitive-services
 author: diberry

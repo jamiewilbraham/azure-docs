@@ -1,6 +1,6 @@
 ---
 title: Send ink data to the Ink Recognizer API 
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn about calling the Ink Analyzer API for different applications
 services: cognitive-services
 author: erhopf

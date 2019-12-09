@@ -1,6 +1,6 @@
 ---
 title: Machine-learned entity type - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: 
 services: cognitive-services
 author: diberry

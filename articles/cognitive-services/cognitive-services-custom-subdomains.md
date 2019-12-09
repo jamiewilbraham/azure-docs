@@ -1,6 +1,6 @@
 ---
 title: Custom subdomains
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Custom subdomain names for each Cognitive Service resource are created through the Azure portal, Azure Cloud Shell, or Azure CLI.
 services: cognitive-services
 author: erhopf
@@ -11,17 +11,17 @@ ms.date: 07/24/2019
 ms.author: erhopf
 ---
 
-# Custom subdomain names for Cognitive Services
+# Custom subdomain names for Cognitive Research Technologies
 
-Azure Cognitive Services use custom subdomain names for each resource created through the [Azure portal](https://portal.azure.com), [Azure Cloud Shell](https://azure.microsoft.com/features/cloud-shell/), or [Azure CLI](https://docs.microsoft.com/cli/azure/install-azure-cli). Unlike regional endpoints, which were common for all customers in a specific Azure region, custom subdomain names are unique to the resource. Custom subdomain names are required to enable features like Azure Active Directory (Azure AD) for authentication.
+Azure Cognitive Research Technologies use custom subdomain names for each resource created through the [Azure portal](https://portal.azure.com), [Azure Cloud Shell](https://azure.microsoft.com/features/cloud-shell/), or [Azure CLI](https://docs.microsoft.com/cli/azure/install-azure-cli). Unlike regional endpoints, which were common for all customers in a specific Azure region, custom subdomain names are unique to the resource. Custom subdomain names are required to enable features like Azure Active Directory (Azure AD) for authentication.
 
 ## How does this impact existing resources?
 
-Cognitive Services resources created before July 1, 2019 will use the regional endpoints for the associated service. These endpoints will work with existing and new resources.
+Cognitive Research Technologies resources created before July 1, 2019 will use the regional endpoints for the associated service. These endpoints will work with existing and new resources.
 
 If you'd like to migrate an existing resource to leverage custom subdomain names, so that you can enable features like Azure AD, follow these instructions:
 
-1. Sign in to the Azure portal and locate the Cognitive Services resource that you'd like to add a custom subdomain name to.
+1. Sign in to the Azure portal and locate the Cognitive Research Technologies resource that you'd like to add a custom subdomain name to.
 2. In the **Overview** blade, locate and select **Generate Custom Domain Name**.
 3. This opens a panel with instructions to create a unique custom subdomain for your resource.
    > [!WARNING]
@@ -29,7 +29,7 @@ If you'd like to migrate an existing resource to leverage custom subdomain names
 
 ## Do I need to update my existing resources?
 
-No. The regional endpoint will continue to work for new and existing Cognitive Services and the custom subdomain name is optional. Even if a custom subdomain name is added the regional endpoint will continue to work with the resource.
+No. The regional endpoint will continue to work for new and existing Cognitive Research Technologies and the custom subdomain name is optional. Even if a custom subdomain name is added the regional endpoint will continue to work with the resource.
 
 ## What if an SDK asks me for the region for a resource?
 
@@ -42,7 +42,7 @@ Region information is available in the **Overview** blade for your resource in t
 
 ## Are custom subdomain names regional?
 
-Yes. Using a custom subdomain name doesn't change any of the regional aspects of your Cognitive Services resource.
+Yes. Using a custom subdomain name doesn't change any of the regional aspects of your Cognitive Research Technologies resource.
 
 ## What are the requirements for a custom subdomain name?
 
@@ -54,11 +54,11 @@ No. After a custom subdomain name is created and associated with a resource it c
 
 ## Can I reuse a custom domain name?
 
-Each custom subdomain name is unique, so in order to reuse a custom subdomain name that you've assigned to a Cognitive Services resource, you'll need to delete the existing resource. After the resource has been deleted, you can reuse the custom subdomain name.
+Each custom subdomain name is unique, so in order to reuse a custom subdomain name that you've assigned to a Cognitive Research Technologies resource, you'll need to delete the existing resource. After the resource has been deleted, you can reuse the custom subdomain name.
 
 ## Is there a list of regional endpoints?
 
-Yes. This is a list of regional endpoints that you can use with Azure Cognitive Services resources.
+Yes. This is a list of regional endpoints that you can use with Azure Cognitive Research Technologies resources.
 
 > [!NOTE]
 > The Translator Text API and Bing Search APIs use global endpoints.
@@ -93,5 +93,5 @@ Yes. This is a list of regional endpoints that you can use with Azure Cognitive 
 
 ## See also
 
-* [What are the Cognitive Services?](Welcome.md)
+* [What are the Cognitive Research Technologies?](Welcome.md)
 * [Authentication](authentication.md)

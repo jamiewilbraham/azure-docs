@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Create a translation app with WPF, C#  - Translator Text API"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this tutorial, you'll create a WPF app to perform text translation, language detection, and spell checking with a single subscription key.
 services: cognitive-services
 author: swmachan
@@ -14,7 +14,7 @@ ms.author: swmachan
 
 # Tutorial: Create a translation app with WPF
 
-In this tutorial, you'll build a [Windows Presentation Foundation (WPF)](https://docs.microsoft.com/visualstudio/designers/getting-started-with-wpf?view=vs-2019) app that uses Azure Cognitive Services for text translation, language detection, and spell checking with a single subscription key. Specifically, your app will call APIs from Translator Text and [Bing Spell Check](https://azure.microsoft.com/services/cognitive-services/spell-check/).
+In this tutorial, you'll build a [Windows Presentation Foundation (WPF)](https://docs.microsoft.com/visualstudio/designers/getting-started-with-wpf?view=vs-2019) app that uses Azure Cognitive Research Technologies for text translation, language detection, and spell checking with a single subscription key. Specifically, your app will call APIs from Translator Text and [Bing Spell Check](https://azure.microsoft.com/services/cognitive-services/spell-check/).
 
 What is WPF? It's a UI framework that creates desktop client apps. The WPF development platform supports a broad set of app development features, including an app model, resources, controls, graphics, layout, data binding, documents, and security. It's a subset of the .NET Framework, so if you have previously built apps with the .NET Framework using ASP.NET or Windows Forms, the programming experience should be familiar. WPF uses the Extensible app Markup Language (XAML) to provide a declarative model for app programming, which we'll review in the coming sections.
 
@@ -28,9 +28,9 @@ In this tutorial, you'll learn how to:
 > * Use the Bing Spell Check API to validate your input and improve translation accuracy
 > * Run your WPF app
 
-### Cognitive Services used in this tutorial
+### Cognitive Research Technologies used in this tutorial
 
-This list includes the Cognitive Services used in this tutorial. Follow the link to browse the API reference for each feature.
+This list includes the Cognitive Research Technologies used in this tutorial. Follow the link to browse the API reference for each feature.
 
 | Service | Feature | Description |
 |---------|---------|-------------|
@@ -43,7 +43,7 @@ This list includes the Cognitive Services used in this tutorial. Follow the link
 
 Before we continue, you'll need the following:
 
-* An Azure Cognitive Services subscription. [Get a Cognitive Services key](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account#create-a-new-azure-cognitive-services-resource).
+* An Azure Cognitive Research Technologies subscription. [Get a Cognitive Research Technologies key](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account#create-a-new-azure-cognitive-services-resource).
 * A Windows machine
 * [Visual Studio 2019](https://www.visualstudio.com/downloads/) - Community or Enterprise
 
@@ -194,7 +194,7 @@ All of our project is encapsulated in the `MainWindow : Window` class. Let's sta
 1. Locate the `MainWindow : Window` class, and replace it with this code:
    ```csharp
    {
-       // This sample uses the Cognitive Services subscription key for all services. To learn more about
+       // This sample uses the Cognitive Research Technologies subscription key for all services. To learn more about
        // authentication options, see: https://docs.microsoft.com/azure/cognitive-services/authentication.
        const string COGNITIVE_SERVICES_KEY = "YOUR_COG_SERVICES_KEY";
        // Endpoints for Translator Text and Bing Spell Check
@@ -241,7 +241,7 @@ All of our project is encapsulated in the `MainWindow : Window` class. Let's sta
    // In the following sections, we'll add code below this.
    }
    ```
-1. Add your Cognitive Services subscription key and save.
+1. Add your Cognitive Research Technologies subscription key and save.
 
 In this code block, we've declared two member variables that contain information about available languages for translation:
 

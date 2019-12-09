@@ -1,6 +1,6 @@
 ---
 title: Label entity example utterance
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to label a machine-learned entity with subcomponents in an example utterance in an intent detail page of the LUIS portal. 
 services: cognitive-services
 author: diberry

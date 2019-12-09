@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Create an object detection project with the SDK for Go - Custom Vision"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Create a project, add tags, upload images, train your project, and detect objects using the Go SDK.
 services: cognitive-services
 author: areddish
@@ -158,7 +158,7 @@ scissorsImageRegions := map[string][4]float64{
 Then, use this map of associations to upload each sample image with its region coordinates (you can upload up to 64 images in a single batch). Add the following code.
 
 > [!NOTE]
-> You'll need to change the path to the images based on where you downloaded the Cognitive Services Go SDK Samples project earlier.
+> You'll need to change the path to the images based on where you downloaded the Cognitive Research Technologies Go SDK Samples project earlier.
 
 ```Go
 // Go through the data table above and create the images

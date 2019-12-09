@@ -1,7 +1,7 @@
 ---
 title: Profanity filtering - Translator Text API
-titleSuffix: Azure Cognitive Services
-description: Use profanity filtering to determine the level of profanity translated in your text in the Azure Cognitive Services Translator Text API.
+titleSuffix: Azure Cognitive Research Technologies
+description: Use profanity filtering to determine the level of profanity translated in your text in the Azure Cognitive Research Technologies Translator Text API.
 services: cognitive-services
 author: swmachan
 manager: nitinme

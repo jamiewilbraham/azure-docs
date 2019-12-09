@@ -1,6 +1,6 @@
 ---
 title: Define and use content workflows through the Review tool - Content Moderator
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: You can use the Azure Content Moderator workflow designer to define custom workflows and thresholds based on your content policies.
 services: cognitive-services
 author: PatrickFarley

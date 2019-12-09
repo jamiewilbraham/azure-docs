@@ -1,6 +1,6 @@
 ---
 title: All Prebuilt entities - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This article contains lists of the prebuilt entities that are included in Language Understanding (LUIS).
 services: cognitive-services
 author: diberry

@@ -1,6 +1,6 @@
 ---
 title: Resource capacity for deployment - QnA Maker
-titleSuffix: Azure Cognitive Services 
+titleSuffix: Azure Cognitive Research Technologies 
 description: Before you create your QnA Maker service, you should decide which tier of the above services is appropriate for you. 
 services: cognitive-services
 author: diberry

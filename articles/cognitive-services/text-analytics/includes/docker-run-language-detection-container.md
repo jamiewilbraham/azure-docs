@@ -1,6 +1,6 @@
 ---
 title: Run container example of docker run command
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Docker run command for Language Detection container
 services: cognitive-services
 author: IEvangelist

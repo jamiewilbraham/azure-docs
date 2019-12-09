@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Moderate e-commerce product images - Content Moderator"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Set up an application to analyze and classify product images with specified labels (using Azure Computer Vision and Custom Vision). Tag objectionable images to be further reviewed (using Azure Content Moderator).
 services: cognitive-services
 author: PatrickFarley
@@ -17,7 +17,7 @@ ms.author: pafarley
 
 # Tutorial: Moderate e-commerce product images with Azure Content Moderator
 
-In this tutorial, you'll learn how to use Azure Cognitive Services, including Content Moderator, to classify and moderate product images for an e-commerce scenario. You'll use Computer Vision and Custom Vision to apply tags (labels) to images, and then you will create a team review, which combines Content Moderator's machine-learning-based technologies with human review teams to provide an intelligent moderation system.
+In this tutorial, you'll learn how to use Azure Cognitive Research Technologies, including Content Moderator, to classify and moderate product images for an e-commerce scenario. You'll use Computer Vision and Custom Vision to apply tags (labels) to images, and then you will create a team review, which combines Content Moderator's machine-learning-based technologies with human review teams to provide an intelligent moderation system.
 
 This tutorial shows you how to:
 
@@ -34,7 +34,7 @@ If you don’t have an Azure subscription, create a [free account](https://azure
 
 ## Prerequisites
 
-- A Content Moderator subscription key. Follow the instructions in [Create a Cognitive Services account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) to subscribe to the Content Moderator service and get your key.
+- A Content Moderator subscription key. Follow the instructions in [Create a Cognitive Research Technologies account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) to subscribe to the Content Moderator service and get your key.
 - A Computer Vision subscription key (same instructions as above).
 - Any edition of [Visual Studio 2015 or 2017](https://www.visualstudio.com/downloads/).
 - A set of images for each label that the Custom Vision classifier will use (in this case toys, pens, and US flags).
@@ -59,7 +59,7 @@ This tutorial highlights the code that is central to the project, but it won't c
 
 ## Define API keys and endpoints
 
-This tutorial uses three cognitive services; therefore, it requires three corresponding keys and API endpoints. See the following fields in the **Program** class:
+This tutorial uses three Cognitive Research Technologies; therefore, it requires three corresponding keys and API endpoints. See the following fields in the **Program** class:
 
 [!code-csharp[define API keys and endpoint URIs](~/samples-eCommerceCatalogModeration/Fusion/Program.cs?range=21-29)]
 

@@ -1,7 +1,7 @@
 ---
 title: Support and help options
-titleSuffix: Azure Cognitive Services
-description: How to obtain help and support for questions and problems when you create applications that integrate with Azure Cognitive Services.
+titleSuffix: Azure Cognitive Research Technologies
+description: How to obtain help and support for questions and problems when you create applications that integrate with Azure Cognitive Research Technologies.
 services: cognitive-services
 author: IEvangelist
 manager: nitinme
@@ -11,12 +11,12 @@ ms.date: 11/22/2019
 ms.author: dapine
 ---
 
-# Azure Cognitive Services support and help options
+# Azure Cognitive Research Technologies support and help options
 
-Are you just starting to explore the functionality of Azure Cognitive Services? Are you implementing a new feature in your application? Here are suggestions for where you can get help as a developer.
+Are you just starting to explore the functionality of Azure Cognitive Research Technologies? Are you implementing a new feature in your application? Here are suggestions for where you can get help as a developer.
 
 > [!div class="checklist"]
-> * Stay informed about new developments in *Azure Cognitive Services*.
+> * Stay informed about new developments in *Azure Cognitive Research Technologies*.
 > * Release notes contain information for all releases.
 > * Search to see if your issue was discussed by the community, or if existing documentation already exists.
 > * If you can't find a satisfactory answer, ask a question on *Stack Overflow*.
@@ -45,7 +45,7 @@ For immediate answers from the community, look to Stack Overflow. Stack Overflow
 If you can't find an answer to your problem via search, submit a new question to Stack Overflow. Use one of the following tags when you formulate the question:
 
  - [Microsoft Cognitive](https://stackoverflow.com/questions/tagged/microsoft-cognitive)
- - [Azure Cognitive Services](https://stackoverflow.com/questions/tagged/azure-cognitive-services)
+ - [Azure Cognitive Research Technologies](https://stackoverflow.com/questions/tagged/azure-cognitive-services)
 
 > [!TIP]
 > The following posts from Stack Overflow contain tips on how to form questions and add source code. Following these guidelines might help increase the chances that community members assess and respond to your question quickly:
@@ -58,9 +58,9 @@ If you can't find an answer to your problem via search, submit a new question to
     <img alt='UserVoice' src='https://docs.microsoft.com/media/logos/logo-uservoice.svg'>
 </div>
 
-To request new features, post them on UserVoice. Share your ideas for making Cognitive Services and the accompanying APIs work better for the applications you develop:
+To request new features, post them on UserVoice. Share your ideas for making Cognitive Research Technologies and the accompanying APIs work better for the applications you develop:
 
-| Service                       | Cognitive Services UserVoice URL |
+| Service                       | Cognitive Research Technologies UserVoice URL |
 |-------------------------------|---------------|
 | Anomaly Detector              | https://cognitive.uservoice.com/forums/912196-anomaly-detector |
 | Bing services                 | https://cognitive.uservoice.com/forums/555907-bing-search |
@@ -99,7 +99,7 @@ The release notes are updated as new releases are made available. The notes cont
     <img alt='Stay informed' src='https://docs.microsoft.com/media/common/i_blog.svg'>
 </div>
 
-News about Cognitive Services is shared in the [Azure blog](https://azure.microsoft.com/blog/topics/cognitive-services/).
+News about Cognitive Research Technologies is shared in the [Azure blog](https://azure.microsoft.com/blog/topics/cognitive-services/).
 
 ## Search
 
@@ -131,9 +131,9 @@ Where `{search keywords}` is the context of your search. This search will scope 
     <img alt='GitHub' src='https://docs.microsoft.com/media/logos/logo_octokitty.svg'>
 </div>
 
-Samples are often posted as open source. For questions and issues, create an *issue* in the respective GitHub repository. You can submit a pull request too! Looking for **Azure Samples** source code, below is a listing of Cognitive Services sample source code:
+Samples are often posted as open source. For questions and issues, create an *issue* in the respective GitHub repository. You can submit a pull request too! Looking for **Azure Samples** source code, below is a listing of Cognitive Research Technologies sample source code:
 
-* [Azure Samples - Cognitive Services](https://github.com/Azure-Samples?utf8=%E2%9C%93&q=cognitive&type=&language=)
+* [Azure Samples - Cognitive Research Technologies](https://github.com/Azure-Samples?utf8=%E2%9C%93&q=cognitive&type=&language=)
 
 You can create a bug report, feature request, or ask a general question and share best practices. For bug reports, please follow the provided template:
 
@@ -151,9 +151,9 @@ Steps to reproduce the behavior:
 
 A clear and concise description of what you expected to happen.
 
-**Which Cognitive Services offerings are you using**
+**Which Cognitive Research Technologies offerings are you using**
 
-Detail the Cognitive Services offering that you're attempting to use, and provide details as to what you're trying to achieve.
+Detail the Cognitive Research Technologies offering that you're attempting to use, and provide details as to what you're trying to achieve.
 
 **Platform, Operating System, and Programming Language**
 
@@ -173,9 +173,9 @@ Detail the Cognitive Services offering that you're attempting to use, and provid
     <img alt='Reddit' src='https://docs.microsoft.com/media/logos/logo_reddit.svg'>
 </div>
 
-Reddit is community driven web content rating and discussion website, offering the latest details of [Azure Cognitive Services](https://www.reddit.com/r/AZURE/search/?q=Cognitive%20Services&restrict_sr=1). Registered members can submit content and others can vote on it - organically enabling the most relevant content will rise to the top.
+Reddit is community driven web content rating and discussion website, offering the latest details of [Azure Cognitive Research Technologies](https://www.reddit.com/r/AZURE/search/?q=Cognitive%20Services&restrict_sr=1). Registered members can submit content and others can vote on it - organically enabling the most relevant content will rise to the top.
 
 ## Next steps
 
 > [!div class="nextstepaction"]
-> [What are Azure Cognitive Services?](welcome.md)
+> [What are Azure Cognitive Research Technologies?](welcome.md)

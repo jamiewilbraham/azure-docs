@@ -1,7 +1,7 @@
 ---
-title: Use NLP Cognitive Services to enrich conversations 
-titleSuffix: Azure Cognitive Services
-description: Cognitive Services provides two natural language processing services, Language Understanding and QnA Maker, each with a different purpose. Understand when to use each service and how they compliment each other. 
+title: Use NLP Cognitive Research Technologies to enrich conversations 
+titleSuffix: Azure Cognitive Research Technologies
+description: Cognitive Research Technologies provides two natural language processing services, Language Understanding and QnA Maker, each with a different purpose. Understand when to use each service and how they compliment each other. 
 author: diberry
 ms.author: diberry
 manager: nitinme
@@ -10,13 +10,13 @@ ms.service: cognitive-services
 ms.date: 08/01/2019
 ---
 
-# Use Cognitive Services with natural language processing (NLP) to enrich bot conversations
+# Use Cognitive Research Technologies with natural language processing (NLP) to enrich bot conversations
 
-Cognitive Services provides two natural language processing services, [Language Understanding](what-is-luis.md) and [QnA Maker](../qnamaker/overview/overview.md), each with a different purpose. Understand when to use each service and how they compliment each other. 
+Cognitive Research Technologies provides two natural language processing services, [Language Understanding](what-is-luis.md) and [QnA Maker](../qnamaker/overview/overview.md), each with a different purpose. Understand when to use each service and how they compliment each other. 
 
 Natural language processing (NLP) allows your client application, such as a chat bot, to work with your users, using natural language. A user enters a sentence or phrase. The user's text can have poor grammar, spelling, and punctuation. The Cognitive Service can work through the user sentence anyway, returning information the chat bot needs to help the user. 
 
-## Cognitive Services with NLP
+## Cognitive Research Technologies with NLP
 
 Language Understanding (LUIS) and QnA Maker provide NLP. The client application submits natural language text. The service takes the text, processes it, and returns a result. 
 

@@ -1,6 +1,6 @@
 ---
 title: Image categorization - Computer Vision
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn concepts related to the image categorization feature of the Computer Vision API.
 services: cognitive-services
 author: PatrickFarley

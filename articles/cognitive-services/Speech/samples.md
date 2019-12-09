@@ -1,6 +1,6 @@
 ---
 title: Samples for using Bing Speech | Microsoft Docs
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Samples for using Microsoft Speech Service that converts spoken audio to text.
 services: cognitive-services
 author: nitinme
@@ -30,4 +30,4 @@ Bing Speech provides end-to-end samples to demonstrate different use cases, for 
 
 - [ObjectiveC on iOS samples](https://github.com/Azure-Samples/Cognitive-Speech-STT-iOS)
 
-All Microsoft Cognitive Services SDKs and samples are licensed with the MIT License. For more information, see [LICENSE](https://github.com/Azure-Samples/SpeechToText-REST/blob/master/LICENSE).
+All Microsoft Cognitive Research Technologies SDKs and samples are licensed with the MIT License. For more information, see [LICENSE](https://github.com/Azure-Samples/SpeechToText-REST/blob/master/LICENSE).

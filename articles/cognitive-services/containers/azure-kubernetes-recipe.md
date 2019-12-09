@@ -1,6 +1,6 @@
 ---
 title: Run Language Detection container in Kubernetes Service
-titleSuffix: Text Analytics -  Azure Cognitive Services
+titleSuffix: Text Analytics -  Azure Cognitive Research Technologies
 description: Deploy the language detection container, with a running sample, to the Azure Kubernetes Service, and test it in a web browser. 
 services: cognitive-services
 author: IEvangelist
@@ -27,11 +27,11 @@ This procedure requires several tools that must be installed and run locally. Do
 * [kubectl](https://storage.googleapis.com/kubernetes-release/release/v1.13.1/bin/windows/amd64/kubectl.exe).
 * An Azure resource with the correct pricing tier. Not all pricing tiers work with this container:
   * **Text Analytics** resource with F0 or Standard pricing tiers only.
-  * **Cognitive Services** resource with the S0 pricing tier.
+  * **Cognitive Research Technologies** resource with the S0 pricing tier.
 
 ## Running the sample
 
-This procedure loads and runs the Cognitive Services Container sample for language detection. The sample has two containers, one for the client application and one for the Cognitive Services container. You need to push both these images to your own Azure Container Registry. Once they are on your own registry, create an Azure Kubernetes Service to access these images and run the containers. When the containers are running, use the **kubectl** CLI to watch the containers performance. Access the client application with an HTTP request and see the results.
+This procedure loads and runs the Cognitive Research Technologies Container sample for language detection. The sample has two containers, one for the client application and one for the Cognitive Research Technologies container. You need to push both these images to your own Azure Container Registry. Once they are on your own registry, create an Azure Kubernetes Service to access these images and run the containers. When the containers are running, use the **kubectl** CLI to watch the containers performance. Access the client application with an HTTP request and see the results.
 
 ![Conceptual idea of running sample containers](../text-analytics/media/how-tos/container-instance-sample/containers.png)
 
@@ -45,11 +45,11 @@ This website is equivalent to your own client-side application that makes reques
 
 ### The language container
 
-The language detection container, in this specific procedure, is accessible to any external request. The container hasn't been changed in any way so the standard Cognitive Services container-specific language detection API is available.
+The language detection container, in this specific procedure, is accessible to any external request. The container hasn't been changed in any way so the standard Cognitive Research Technologies container-specific language detection API is available.
 
-For this container, that API is a POST request for language detection. As with all Cognitive Services containers, you can learn more about the container from its hosted Swagger information, `http://<external-IP>:5000/swagger/index.html`.
+For this container, that API is a POST request for language detection. As with all Cognitive Research Technologies containers, you can learn more about the container from its hosted Swagger information, `http://<external-IP>:5000/swagger/index.html`.
 
-Port 5000 is the default port used with the Cognitive Services containers.
+Port 5000 is the default port used with the Cognitive Research Technologies containers.
 
 ## Create Azure Container Registry service
 
@@ -105,7 +105,7 @@ To deploy the container to the Azure Kubernetes Service, the container images ne
 
 ## Get website Docker image
 
-1. The sample code used in this procedure is in the Cognitive Services containers samples repository. Clone the repository to have a local copy of the sample.
+1. The sample code used in this procedure is in the Cognitive Research Technologies containers samples repository. Clone the repository to have a local copy of the sample.
 
     ```console
     git clone https://github.com/Azure-Samples/cognitive-services-containers-samples
@@ -304,7 +304,7 @@ This section uses the **kubectl** CLI to talk with the Azure Kubernetes Service.
 
 1. Copy the following file and name it `language.yml`. The file has a `service` section and a `deployment` section each for the two container types, the `language-frontend` website container and the `language` detection container.
 
-    [!code-yml[Kubernetes orchestration file for the Cognitive Services containers sample](~/samples-cogserv-containers/Kubernetes/language/language.yml "Kubernetes orchestration file for the Cognitive Services containers sample")]
+    [!code-yml[Kubernetes orchestration file for the Cognitive Research Technologies containers sample](~/samples-cogserv-containers/Kubernetes/language/language.yml "Kubernetes orchestration file for the Cognitive Research Technologies containers sample")]
 
 1. Change the language-frontend deployment lines of `language.yml` based on the following table to add your own container registry image names, client secret, and text analytics settings.
 
@@ -403,7 +403,7 @@ az group delete --name cogserv-container-rg
 ## Next steps
 
 > [!div class="nextstepaction"]
-> [Cognitive Services Containers](../cognitive-services-container-support.md)
+> [Cognitive Research Technologies Containers](../cognitive-services-container-support.md)
 
 <!--
 kubectl get secrets

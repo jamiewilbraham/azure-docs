@@ -1,6 +1,6 @@
 ---
 title: Voice assistants frequently asked questions
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Get answers to the most popular questions about voice assistants using Custom Commands (Preview) or the Direct Line Speech channel.
 services: cognitive-services
 author: trrwilson
@@ -48,7 +48,7 @@ For a more detailed guide, please see the [tutorial section](tutorial-voice-enab
 
 **Q: I get a 401 error when connecting and nothing works. I know my speech subscription key is valid. What's going on?**
 
-**A:** When managing your subscription on the Azure portal, please ensure you're using the **Speech** resource (Microsoft.CognitiveServicesSpeechServices, "Speech") and _not_ the **Cognitive Services** resource (Microsoft.CognitiveServicesAllInOne, "All Cognitive Services"). Also, please check [Speech service region support for voice assistants](regions.md#voice-assistants).
+**A:** When managing your subscription on the Azure portal, please ensure you're using the **Speech** resource (Microsoft.CognitiveServicesSpeechServices, "Speech") and _not_ the **Cognitive Research Technologies** resource (Microsoft.CognitiveServicesAllInOne, "All Cognitive Research Technologies"). Also, please check [Speech service region support for voice assistants](regions.md#voice-assistants).
 
 ![correct subscription for direct line speech](media/voice-assistants/faq-supported-subscription.png "example of a compatible Speech subscription")
 

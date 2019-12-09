@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Connect to a Custom Commands app with Speech SDK - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this article, you will create a Speech SDK client application with Custom Commands.
 services: cognitive-services
 author: donkim
@@ -298,7 +298,7 @@ Add the code-behind source as follows:
 
    ```csharp
    // This code creates the `DialogServiceConnector` with your subscription information.
-   // create a DialogServiceConfig by providing a Custom Commands application id and Cognitive Services subscription key
+   // create a DialogServiceConfig by providing a Custom Commands application id and Cognitive Research Technologies subscription key
    // the RecoLanguage property is optional (default en-US); note that only en-US is supported in Preview
    const string speechCommandsApplicationId = "YourApplicationId"; // Your application id
    const string speechSubscriptionKey = "YourSpeechSubscriptionKey"; // Your subscription key

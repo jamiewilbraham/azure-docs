@@ -1,6 +1,6 @@
 ---
 title: Search for news with the Bing News Search API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to send search queries for general news, trending topics, and headlines.
 services: cognitive-services
 author: swhite-msft

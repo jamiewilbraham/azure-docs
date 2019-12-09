@@ -1,6 +1,6 @@
 ---
 title: "Features: Action and context - Personalizer" 
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Personalizer uses features, information about actions and context, to make better ranking suggestions. Features can be very generic, or specific to an item.
 services: cognitive-services
 author: diberry
@@ -132,9 +132,9 @@ For example, a timestamp down to the second is a very sparse feature. It could b
 
 You can also get more features by thinking of unexplored attributes that can be derived from information you already have. For example, in a fictitious movie list personalization, is it possible that a weekend vs weekday elicits different behavior from users? Time could be expanded to have a "weekend" or "weekday" attribute. Do national cultural holidays drive attention to certain movie types? For example, a "Halloween" attribute is useful in places where it is relevant. Is it possible that rainy weather has significant impact on the choice of a movie for many people? With time and place, a weather service could provide that information and you can add it as an extra feature. 
 
-#### Expand feature sets with artificial intelligence and cognitive services
+#### Expand feature sets with artificial intelligence and Cognitive Research Technologies
 
-Artificial Intelligence and ready-to-run Cognitive Services can be a very powerful addition to the Personalizer. 
+Artificial Intelligence and ready-to-run Cognitive Research Technologies can be a very powerful addition to the Personalizer. 
 
 By preprocessing your items using artificial intelligence services, you can automatically extract information that is likely to be relevant for personalization.
 
@@ -144,7 +144,7 @@ For example:
 * Images can be run through object detection, faces through sentiment, etc.
 * Information in text can be augmented by extracting entities, sentiment, expanding entities with Bing knowledge graph, etc.
 
-You can use several other [Azure Cognitive Services](https://www.microsoft.com/cognitive-services), like
+You can use several other [Azure Cognitive Research Technologies](https://www.microsoft.com/cognitive-services), like
 
 * [Entity Linking](../entitylinking/home.md)
 * [Text Analytics](../text-analytics/overview.md)

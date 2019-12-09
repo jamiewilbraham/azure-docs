@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Voices enable your bot using Speech SDK - Speech service"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this tutorial, you'll create an Echo Bot using Microsoft Bot-Framework, deploy it to Azure, and register it with the Bot-Framework Direct Line Speech channel. Then you'll configure a sample client app for Windows that lets you speak to your bot and hear it respond back to you.
 services: cognitive-services
 author: dargilco
@@ -104,7 +104,7 @@ At this point, check that your resource group (**SpeechEchoBotTutorial-ResourceG
 
 | NAME | TYPE  | LOCATION |
 |------|-------|----------|
-| SpeechEchoBotTutorial-Speech | Cognitive Services | West US |
+| SpeechEchoBotTutorial-Speech | Cognitive Research Technologies | West US |
 
 ### Create an Azure App Service plan
 
@@ -128,7 +128,7 @@ At this point, check that your resource group (**SpeechEchoBotTutorial-ResourceG
 | NAME | TYPE  | LOCATION |
 |------|-------|----------|
 | SpeechEchoBotTutorial-AppServicePlan | App Service Plan | West US |
-| SpeechEchoBotTutorial-Speech | Cognitive Services | West US |
+| SpeechEchoBotTutorial-Speech | Cognitive Research Technologies | West US |
 
 ## Build an Echo Bot
 
@@ -206,7 +206,7 @@ The next step is to deploy the Echo Bot to Azure. There are a few ways to deploy
 |------|-------|----------|
 | EchoBot20190805125647 | App Service | West US |
 | SpeechEchoBotTutorial-AppServicePlan | App Service plan | West US |
-| SpeechEchoBotTutorial-Speech | Cognitive Services | West US |
+| SpeechEchoBotTutorial-Speech | Cognitive Research Technologies | West US |
 
 ## Enable web sockets
 
@@ -249,7 +249,7 @@ At this point, check your Resource Group **SpeechEchoBotTutorial-ResourceGroup**
 | EchoBot20190805125647 | App Service | West US |
 | SpeechEchoBotTutorial-AppServicePlan | App Service plan | West US |
 | SpeechEchoBotTutorial-BotRegistration | Bot Channels Registration | Global |
-| SpeechEchoBotTutorial-Speech | Cognitive Services | West US |
+| SpeechEchoBotTutorial-Speech | Cognitive Research Technologies | West US |
 
 > [!IMPORTANT]
 > The Bot Channels Registration resource will show the Global region even though you selected West US. This is expected.

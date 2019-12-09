@@ -1,6 +1,6 @@
 ---
 title: Analyze videos in near real time - Computer Vision
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to perform near real-time analysis on frames that are taken from a live video stream by using the Computer Vision API.
 services: cognitive-services
 author: KellyDF
@@ -216,9 +216,9 @@ namespace BasicConsoleSample
 
 The second sample app is a bit more interesting. It allows you to choose which API to call on the video frames. On the left side, the app shows a preview of the live video. On the right, it overlays the most recent API result on the corresponding frame.
 
-In most modes, there's a visible delay between the live video on the left and the visualized analysis on the right. This delay is the time that it takes to make the API call. An exception is in the "EmotionsWithClientFaceDetect" mode, which performs face detection locally on the client computer by using OpenCV before it submits any images to Azure Cognitive Services. 
+In most modes, there's a visible delay between the live video on the left and the visualized analysis on the right. This delay is the time that it takes to make the API call. An exception is in the "EmotionsWithClientFaceDetect" mode, which performs face detection locally on the client computer by using OpenCV before it submits any images to Azure Cognitive Research Technologies. 
 
-By using this approach, you can visualize the detected face immediately. You can then update the emotions later, after the API call returns. This demonstrates the possibility of a "hybrid" approach. That is, some simple processing can be performed on the client, and then Cognitive Services APIs can be used to augment this processing with more advanced analysis when necessary.
+By using this approach, you can visualize the detected face immediately. You can then update the emotions later, after the API call returns. This demonstrates the possibility of a "hybrid" approach. That is, some simple processing can be performed on the client, and then Cognitive Research Technologies APIs can be used to augment this processing with more advanced analysis when necessary.
 
 ![The LiveCameraSample app displaying an image with tags](../../Video/Images/FramebyFrame.jpg)
 
@@ -237,11 +237,11 @@ To get started with this sample, do the following:
 
 When you're ready to integrate the samples, reference the VideoFrameAnalyzer library from your own projects.
 
-The image-, voice-, video-, and text-understanding capabilities of VideoFrameAnalyzer use Azure Cognitive Services. Microsoft receives the images, audio, video, and other data that you upload (via this app) and might use them for service-improvement purposes. We ask for your help in protecting the people whose data your app sends to Azure Cognitive Services.
+The image-, voice-, video-, and text-understanding capabilities of VideoFrameAnalyzer use Azure Cognitive Research Technologies. Microsoft receives the images, audio, video, and other data that you upload (via this app) and might use them for service-improvement purposes. We ask for your help in protecting the people whose data your app sends to Azure Cognitive Research Technologies.
 
 ## Summary
 
-In this article, you learned how to run near real-time analysis on live video streams by using the Face API and the Computer Vision API. You also learned how you can use our sample code to get started. To get started building your app by using free API keys, go to the [Azure Cognitive Services sign-up page](https://azure.microsoft.com/try/cognitive-services/).
+In this article, you learned how to run near real-time analysis on live video streams by using the Face API and the Computer Vision API. You also learned how you can use our sample code to get started. To get started building your app by using free API keys, go to the [Azure Cognitive Research Technologies sign-up page](https://azure.microsoft.com/try/cognitive-services/).
 
 Feel free to provide feedback and suggestions in the [GitHub repository](https://github.com/Microsoft/Cognitive-Samples-VideoFrameAnalysis/). To provide broader API feedback, go to our [UserVoice site](https://cognitive.uservoice.com/).
 

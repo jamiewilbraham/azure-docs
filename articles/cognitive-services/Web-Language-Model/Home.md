@@ -1,7 +1,7 @@
 ---
 title: Overview of the Web Language Model API
-titleSuffix: Azure Cognitive Services
-description: Web Language Model API in Microsoft Cognitive Services provides state-of-the-art tools for natural language processing.
+titleSuffix: Azure Cognitive Research Technologies
+description: Web Language Model API in Microsoft Cognitive Research Technologies provides state-of-the-art tools for natural language processing.
 services: cognitive-services
 author: piyushbehre
 manager: nitinme

@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: List entity - LUIS"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Get data that matches a predefined list of items. Each item on the list can have synonyms that also match exactly
 services: cognitive-services
 author: diberry

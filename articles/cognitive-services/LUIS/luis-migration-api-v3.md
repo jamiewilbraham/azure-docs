@@ -1,6 +1,6 @@
 ---
 title: Prediction endpoint changes in the V3 API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The query prediction endpoint V3 APIs have changed. Use this guide to understand how to migrate to version 3 endpoint APIs. 
 services: cognitive-services
 author: diberry
@@ -445,7 +445,7 @@ Send in the following JSON body to add a new sublist with synonyms to the list, 
             "listEntity*":"ProductList",
             "requestLists":[
                 {
-                    "name": "Azure Cognitive Services",
+                    "name": "Azure Cognitive Research Technologies",
                     "canonicalForm": "Azure-Cognitive-Services",
                     "synonyms":[
                         "language understanding",

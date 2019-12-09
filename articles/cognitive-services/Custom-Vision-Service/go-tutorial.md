@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Create an image classification project with the Custom Vision SDK for Go"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Create a project, add tags, upload images, train your project, and make a prediction using the Go SDK.
 services: cognitive-services
 author: areddish
@@ -100,7 +100,7 @@ cherryTag, _ := trainer.CreateTag(ctx, *project.ID, "Japanese Cherry", "Japanese
 To add the sample images to the project, insert the following code after the tag creation. This code uploads each image with its corresponding tag. You can upload up to 64 images in a single batch.
 
 > [!NOTE]
-> You'll need to change the path to the images based on where you downloaded the Cognitive Services Go SDK Samples project earlier.
+> You'll need to change the path to the images based on where you downloaded the Cognitive Research Technologies Go SDK Samples project earlier.
 
 ```go
 fmt.Println("Adding images...")

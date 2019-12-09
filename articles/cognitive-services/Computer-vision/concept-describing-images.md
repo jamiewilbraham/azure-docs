@@ -1,6 +1,6 @@
 ---
 title: Image descriptions - Computer Vision
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Concepts related to the image description feature of the Computer Vision API.
 services: cognitive-services
 author: PatrickFarley

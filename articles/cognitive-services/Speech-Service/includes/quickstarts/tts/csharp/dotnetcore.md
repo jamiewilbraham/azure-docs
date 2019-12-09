@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Synthesize speech, C# (.NET Core) - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to synthesize speech in C# under .NET Core on Windows by using the Speech SDK
 services: cognitive-services
 author: yinhew

@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Create a web app that launches the Immersive Reader with C#"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this quickstart, you build a web app from scratch and add the Immersive Reader API functionality.
 services: cognitive-services
 author: metanMSFT

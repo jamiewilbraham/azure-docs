@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Create an iOS app that launches the Immersive Reader (Swift)"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this quickstart, you will build an iOS app from scratch and add the Immersive Reader functionality.
 services: cognitive-services
 author: metanMSFT

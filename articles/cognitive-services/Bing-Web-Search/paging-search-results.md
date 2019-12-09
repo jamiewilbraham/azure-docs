@@ -1,6 +1,6 @@
 ---
 title: How to page through search results - Bing Search APIs
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to page through search results from the Bing Search APIs.
 services: cognitive-services
 author: aahill

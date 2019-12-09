@@ -1,6 +1,6 @@
 ---
 title: "Get started with Custom Speech - Speech service"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Custom Speech is a set of online tools that allow you to evaluate and improve our speech-to-text accuracy for your applications, tools, and products. All it takes to get started are a handful of test audio files. Follow the links below to start creating a custom speech-to-text experience.
 services: cognitive-services
 author: erhopf

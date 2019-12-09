@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Pattern.any entity - LUIS"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use the pattern.any entity to extract data from utterances where the utterances is well-formatted and where the end of the data may be easily confused with the remaining words of the utterance.  
 services: cognitive-services
 ms.custom: seodec18

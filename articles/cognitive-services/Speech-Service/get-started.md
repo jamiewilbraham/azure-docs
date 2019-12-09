@@ -1,6 +1,6 @@
 ---
 title: Try the Speech service for free
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Getting started with Speech service is easy and affordable. There are two options available free of charge so you can discover what the service can do and decide whether it's right for your needs.
 services: cognitive-services
 author: erhopf
@@ -28,7 +28,7 @@ In this article, you'll choose one of these options that suits your needs best.
 >
 > If you use the free, low-volume Speech service tier you can keep this free subscription even after your free trial or service credit expires.
 >
-> For more information, see [Cognitive Services pricing - Speech service](https://azure.microsoft.com/pricing/details/cognitive-services/speech-services/).
+> For more information, see [Cognitive Research Technologies pricing - Speech service](https://azure.microsoft.com/pricing/details/cognitive-services/speech-services/).
 
 ## Try the Speech service without credit card info
 

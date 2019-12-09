@@ -1,6 +1,6 @@
 ---
 title: LogDownloader - Custom Decision Service
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Download log files that are produced by Azure Custom Decision Service.
 services: cognitive-services
 author: marco-rossi29

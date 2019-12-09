@@ -1,6 +1,6 @@
 ---
 title: Developer resources - Language Understanding
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Developers have both REST APIs and SDKs for Language Understanding. 
 services: cognitive-services
 author: diberry
@@ -18,7 +18,7 @@ Developers can use both REST APIs and SDKs for Language Understanding.
 
 ## Azure resource management
 
-Use the Azure Cognitive Services Management layer to create, edit, list, and delete the Language Understanding or Cognitive Service resource.
+Use the Azure Cognitive Research Technologies Management layer to create, edit, list, and delete the Language Understanding or Cognitive Service resource.
 
 Find reference documentation based on the tool:
 

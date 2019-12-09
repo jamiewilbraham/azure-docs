@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Synthesize speech, Java (Windows, Linux, macOS) - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this quickstart, you'll learn to create a simple Java application that captures and synthesize speech from text and play it with the default speaker.
 services: cognitive-services
 author: yulin-li

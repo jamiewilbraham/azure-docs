@@ -1,6 +1,6 @@
 ---
 title: Use the Offline Evaluation method - Personalizer
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This article will explain how to use offline evaluation to measure effectiveness of your app and analyze your learning loop.
 services: cognitive-services
 author: diberry

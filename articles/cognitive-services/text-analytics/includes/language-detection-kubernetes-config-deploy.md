@@ -1,6 +1,6 @@
 ---
 title: Language Detection Kubernetes config and deploy steps
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Language Detection Kubernetes config and deploy steps
 services: cognitive-services
 author: IEvangelist

@@ -1,6 +1,6 @@
 ---
 title: Migrate from the Translator Speech API to the Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to migrate your applications from the Translator Speech API to the Speech service.
 services: cognitive-services
 author: aahill

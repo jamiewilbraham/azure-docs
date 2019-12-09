@@ -1,6 +1,6 @@
 ---
-title: Cognitive Services containers frequently asked questions (FAQ) note
-titleSuffix: Azure Cognitive Services
+title: Cognitive Research Technologies containers frequently asked questions (FAQ) note
+titleSuffix: Azure Cognitive Research Technologies
 description: Frequently asked questions note.
 services: cognitive-services
 author: IEvangelist
@@ -12,4 +12,4 @@ ms.author: dapine
 ---
 
 > [!TIP]
-> For more troubleshooting information and guidance, see [Cognitive Services containers frequently asked questions (FAQ)](../container-faq.md).
+> For more troubleshooting information and guidance, see [Cognitive Research Technologies containers frequently asked questions (FAQ)](../container-faq.md).

@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Language Understanding (LUIS) authoring client library 3.x for .NET"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Get started with the LUIS client library 3.x for .NET. Follow these steps to install the package and try out the example code for basic tasks.
 services: cognitive-services
 author: diberry

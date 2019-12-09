@@ -1,6 +1,6 @@
 ---
 title: Container requirements and recommendations
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Key Phrase Extraction container requirements
 services: cognitive-services
 author: IEvangelist

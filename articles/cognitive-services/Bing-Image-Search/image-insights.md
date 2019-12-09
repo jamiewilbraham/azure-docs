@@ -1,6 +1,6 @@
 ---
 title: Get image insights - Bing Image Search API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to use the Bing Image Search API to get more information about an image.
 services: cognitive-services
 author: swhite-msft

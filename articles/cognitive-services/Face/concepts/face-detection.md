@@ -1,6 +1,6 @@
 ---
 title: "Face detection and attributes concepts"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Face detection is the action of locating human faces in an image and optionally returning different kinds of face-related data.
 services: cognitive-services
 author: PatrickFarley

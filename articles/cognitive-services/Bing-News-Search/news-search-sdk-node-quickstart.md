@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Perform a news search using the SDK for Node.js - Bing News Search"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to search for news using the Bing News Search SDK for Node.js, and process the response.
 services: cognitive-services
 author: aahill

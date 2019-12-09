@@ -1,6 +1,6 @@
 ---
 title: Voice assistants - Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: An overview of the features, capabilities, and restrictions for voice assistants using the Speech Software Development Kit (SDK).
 services: cognitive-services
 author: trrwilson

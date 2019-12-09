@@ -1,6 +1,6 @@
 ---
 title: Use entity recognition with the Text Analytics API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to identify and disambiguate the identity of an entity found in text with the Text Analytics REST API.
 services: cognitive-services
 author: aahill
@@ -337,7 +337,7 @@ An example of the output for entity linking is shown next:
 
 ## Summary
 
-In this article, you learned concepts and workflow for entity linking using Text Analytics in Cognitive Services. In summary:
+In this article, you learned concepts and workflow for entity linking using Text Analytics in Cognitive Research Technologies. In summary:
 
 + [Entities API](https://westcentralus.dev.cognitive.microsoft.com/docs/services/TextAnalytics-v2-1/operations/5ac4251d5b4ccd1554da7634) is available for selected languages.
 + JSON documents in the request body include an ID, text, and language code.

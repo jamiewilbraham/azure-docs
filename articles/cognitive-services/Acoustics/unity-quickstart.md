@@ -1,6 +1,6 @@
 ---
 title: Project Acoustics Quickstart with Unity
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Use sample content to experiment with Project Acoustics design controls in Unity and deploy to Windows Desktop.
 services: cognitive-services
 author: NoelCross

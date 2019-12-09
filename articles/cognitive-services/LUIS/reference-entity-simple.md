@@ -1,6 +1,6 @@
 ---
 title: Simple entity type - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: A simple entity describes a single concept from the machine-learned context. Add a phrase list when using a simple entity to improve results.   
 services: cognitive-services
 author: diberry

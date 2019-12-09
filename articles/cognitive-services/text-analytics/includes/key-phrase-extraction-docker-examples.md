@@ -1,6 +1,6 @@
 ---
 title: Key Phrase Extraction container docker examples
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Key Phrase Extraction container docker examples
 services: cognitive-services
 author: IEvangelist

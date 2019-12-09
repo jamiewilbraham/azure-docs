@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Build a Flask app to translate, synthesize, and analyze text - Translator Text API"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this tutorial, you'll build a Flask-based web app to translate text, analyze sentiment, and synthesize translated text into speech.
 services: cognitive-services
 author: swmachan
@@ -12,9 +12,9 @@ ms.date: 06/04/2019
 ms.author: swmachan
 ---
 
-# Tutorial: Build a Flask app with Azure Cognitive Services
+# Tutorial: Build a Flask app with Azure Cognitive Research Technologies
 
-In this tutorial, you'll build a Flask web app that uses Azure Cognitive Services to translate text, analyze sentiment, and synthesize translated text into speech. Our focus is on the Python code and Flask routes that enable our application, however, we will help you out with the HTML and Javascript that pulls the app together. If you run into any issues let us know using the feedback button below.
+In this tutorial, you'll build a Flask web app that uses Azure Cognitive Research Technologies to translate text, analyze sentiment, and synthesize translated text into speech. Our focus is on the Python code and Flask routes that enable our application, however, we will help you out with the HTML and Javascript that pulls the app together. If you run into any issues let us know using the feedback button below.
 
 Here's what this tutorial covers:
 
@@ -58,7 +58,7 @@ As previously mentioned, you're going to need three subscription keys for this t
 * Text Analytics
 * Speech Services
 
-Use [Create a Cognitive Services Account in the Azure portal](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) for step-by-step instructions to create resources.
+Use [Create a Cognitive Research Technologies Account in the Azure portal](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) for step-by-step instructions to create resources.
 
 > [!IMPORTANT]
 > For this tutorial, please create your resources in the West US region. If using a different region, you'll need to adjust the base URL in each of your Python files.
@@ -204,15 +204,15 @@ While these samples illustrate how to render html pages for a user, routes can a
        <!-- Required metadata tags -->
        <meta charset="utf-8">
        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-       <meta name="description" content="Translate and analyze text with Azure Cognitive Services.">
+       <meta name="description" content="Translate and analyze text with Azure Cognitive Research Technologies.">
        <!-- Bootstrap CSS -->
        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-       <title>Translate and analyze text with Azure Cognitive Services</title>
+       <title>Translate and analyze text with Azure Cognitive Research Technologies</title>
      </head>
      <body>
        <div class="container">
          <h1>Translate, synthesize, and analyze text with Azure</h1>
-         <p>This simple web app uses Azure for text translation, text-to-speech conversion, and sentiment analysis of input text and translations. Learn more about <a href="https://docs.microsoft.com/azure/cognitive-services/">Azure Cognitive Services</a>.
+         <p>This simple web app uses Azure for text translation, text-to-speech conversion, and sentiment analysis of input text and translations. Learn more about <a href="https://docs.microsoft.com/azure/cognitive-services/">Azure Cognitive Research Technologies</a>.
         </p>
         <!-- HTML provided in the following sections goes here. -->
 
@@ -949,7 +949,7 @@ Navigate to the provided server address. Type text into the input area, select a
 > [!TIP]
 > If the changes you've made aren't showing up, or the app doesn't work the way you expect it to, try clearing your cache or opening a private/incognito window.
 
-That's it, you have a working app that performs translations, analyzes sentiment, and synthesized speech. Press **CTRL + c** to kill the app. Be sure to check out the other [Azure Cognitive Services](https://docs.microsoft.com/azure/cognitive-services/).
+That's it, you have a working app that performs translations, analyzes sentiment, and synthesized speech. Press **CTRL + c** to kill the app. Be sure to check out the other [Azure Cognitive Research Technologies](https://docs.microsoft.com/azure/cognitive-services/).
 
 ## Get the source code
 

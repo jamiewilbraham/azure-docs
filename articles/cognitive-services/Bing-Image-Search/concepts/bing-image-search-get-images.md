@@ -1,6 +1,6 @@
 ---
 title: Get images from the web - Bing Image Search API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use the Bing Image Search API to search for and get relevant images from the web.
 services: cognitive-services
 author: aahill
@@ -71,7 +71,7 @@ Host: api.cognitive.microsoft.com
 
 ## Bing Image Search response format
 
-The response message from Bing contains an [Images](https://docs.microsoft.com/rest/api/cognitiveservices-bingsearch/bing-images-api-v7-reference#images) answer that contains a list of images that Cognitive Services determined to be relevant to the query. Each [Image](https://docs.microsoft.com/rest/api/cognitiveservices-bingsearch/bing-images-api-v7-reference#image) object in the list includes the following information about the image: the URL, its size, its dimensions, its encoding format, a URL to a thumbnail of the image, and the thumbnail's dimensions.
+The response message from Bing contains an [Images](https://docs.microsoft.com/rest/api/cognitiveservices-bingsearch/bing-images-api-v7-reference#images) answer that contains a list of images that Cognitive Research Technologies determined to be relevant to the query. Each [Image](https://docs.microsoft.com/rest/api/cognitiveservices-bingsearch/bing-images-api-v7-reference#image) object in the list includes the following information about the image: the URL, its size, its dimensions, its encoding format, a URL to a thumbnail of the image, and the thumbnail's dimensions.
 
 > [!NOTE]
 > * Images must be displayed in the order provided in the response.

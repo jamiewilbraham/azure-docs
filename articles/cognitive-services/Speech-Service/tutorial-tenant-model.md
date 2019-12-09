@@ -1,6 +1,6 @@
 ---
 title: Create a Tenant Model (Preview) - Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Automatically generate a Tenant Model (Custom Speech with Office 365 data) that leverages your Office 365 data to deliver optimal speech recognition for organization-specific terms that is both secure and compliant.
 services: cognitive-services
 author: erhopf
@@ -219,8 +219,8 @@ namespace PrincetonSROnly.FrontEnd.Samples
 
             if (!arguments.ContainsKey(SubscriptionKeyArgName))
             {
-                Exception exp = new Exception("Subscription Key missing! Please pass in a Cognitive services subscription Key using --SubscriptionKey=\"your_subscription_key\"" +
-                    "Find more information on creating a Cognitive services resource and accessing your Subscription key here: https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account?tabs=multiservice%2Cwindows");
+                Exception exp = new Exception("Subscription Key missing! Please pass in a Cognitive Research Technologies subscription Key using --SubscriptionKey=\"your_subscription_key\"" +
+                    "Find more information on creating a Cognitive Research Technologies resource and accessing your Subscription key here: https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account?tabs=multiservice%2Cwindows");
                 throw exp;
             }
 

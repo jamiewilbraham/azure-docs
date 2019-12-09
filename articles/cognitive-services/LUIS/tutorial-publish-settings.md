@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Publish settings - LUIS"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this tutorial, change the publish settings to gain improve predictions.
 services: cognitive-services
 author: diberry

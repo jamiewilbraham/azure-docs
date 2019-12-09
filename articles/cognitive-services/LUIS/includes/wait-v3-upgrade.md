@@ -1,6 +1,6 @@
 ---
 title: LUIS portal user interface upgrade
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 services: cognitive-services
 author: diberry
 manager: nitinme

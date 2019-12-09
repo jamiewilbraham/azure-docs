@@ -1,6 +1,6 @@
 ---
 title: Model versioning
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Specify model versions in the V3 endpoints
 services: cognitive-services
 author: aahill

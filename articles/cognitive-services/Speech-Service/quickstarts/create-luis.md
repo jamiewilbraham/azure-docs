@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Create a LUIS key"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this quickstart, you'll learn how to create a LUIS application and get a key.
 services: cognitive-services
 author: wolfma61

@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Get image insights using the SDK for Node.js - Bing Visual Search"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to begin getting image insights from the Bing Visual Search service, using the Node.js SDK.
 services: cognitive-services
 author: aahill

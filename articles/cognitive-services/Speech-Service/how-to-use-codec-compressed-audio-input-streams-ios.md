@@ -1,6 +1,6 @@
 ---
 title: Stream codec compressed audio with the Speech SDK on iOS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to stream compressed audio to the Speech service with the Speech SDK on iOS.
 services: cognitive-services
 author: chlandsi
@@ -42,7 +42,7 @@ This framework must be included in all apps that use compressed audio streams wi
 
 Apply the following settings in your Xcode project to accomplish this:
 
-1. Copy both the `GStreamerWrapper.framework` you just built and the framework of the Cognitive Services Speech SDK, which you can download from [here](https://aka.ms/csspeech/iosbinary), to the directory containing your sample project.
+1. Copy both the `GStreamerWrapper.framework` you just built and the framework of the Cognitive Research Technologies Speech SDK, which you can download from [here](https://aka.ms/csspeech/iosbinary), to the directory containing your sample project.
 1. Adjust the paths to the frameworks in the _Project Settings_.
    1. In the **General** tab under the **Embedded Binaries** header, add the SDK library as a framework: **Add embedded binaries** > **Add other...** > Navigate to the directory you chose and select both frameworks.
    1. Go to the **Build Settings** tab and activate **All** settings.

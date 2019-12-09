@@ -1,6 +1,6 @@
 ---
 title: Publishing regions & endpoints - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The region specified in the Azure portal is the same where you will publish the LUIS app and an endpoint URL is generated for this same region. 
 services: cognitive-services
 author: diberry

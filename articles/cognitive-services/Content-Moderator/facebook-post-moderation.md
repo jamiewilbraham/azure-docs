@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Moderate Facebook content - Content Moderator"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this tutorial, you will learn how to use machine-learning-based Content Moderator to help moderate Facebook posts and comments.
 services: cognitive-services
 author: PatrickFarley
@@ -36,7 +36,7 @@ This diagram illustrates each component of this scenario:
 
 ## Prerequisites
 
-- A Content Moderator subscription key. Follow the instructions in [Create a Cognitive Services account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) to subscribe to the Content Moderator service and get your key.
+- A Content Moderator subscription key. Follow the instructions in [Create a Cognitive Research Technologies account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) to subscribe to the Content Moderator service and get your key.
 - A [Facebook account](https://www.facebook.com/).
 
 ## Create a review team

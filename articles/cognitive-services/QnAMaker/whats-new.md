@@ -1,6 +1,6 @@
 ---
 title: What's new in QnA Maker service?
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This article contains news about QnA Maker.
 services: cognitive-services
 author: diberry
@@ -53,4 +53,4 @@ Learn what's new with QnA Maker.
 
 ## Cognitive Service updates
 
-[Azure update announcements for Cognitive Services](https://azure.microsoft.com/updates/?product=cognitive-services)
+[Azure update announcements for Cognitive Research Technologies](https://azure.microsoft.com/updates/?product=cognitive-services)

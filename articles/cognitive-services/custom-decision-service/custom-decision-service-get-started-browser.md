@@ -1,6 +1,6 @@
 ---
 title: Call API from a browser - Custom Decision Service
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: How to optimize a webpage by making API calls directly from a browser to the Custom Decision Service.
 services: cognitive-services
 author: slivkins

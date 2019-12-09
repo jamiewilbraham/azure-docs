@@ -1,6 +1,6 @@
 ---
 title: Guidelines for responsible deployment of synthetic voice technology
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Microsoft’s general design guidelines for using synthetic voice technology. These were developed in studies that Microsoft conducted with voice talent, consumers, as well individuals with speech disorders to guide the responsible development of synthetic voice.
 services: cognitive-services
 author: benoah

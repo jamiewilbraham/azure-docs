@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Translate speech-to-speech, C# (.NET Core Windows) - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: TBD
 services: cognitive-services
 author: wolfma61

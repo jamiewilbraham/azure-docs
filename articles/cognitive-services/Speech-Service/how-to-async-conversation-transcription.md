@@ -1,6 +1,6 @@
 ---
 title: Asynchronous Conversation Transcription (Preview) - Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to use asynchronous Conversation Transcription using the Speech service. Available for Java only.
 services: cognitive-services
 author: markamos
@@ -121,7 +121,7 @@ You can obtain **remote-conversation** by editing your pom.xml file as follows.
    <repositories>
      <repository>
        <id>maven-cognitiveservices-speech</id>
-       <name>Microsoft Cognitive Services Speech Maven Repository</name>
+       <name>Microsoft Cognitive Research Technologies Speech Maven Repository</name>
        <url>https://csspeechstorage.blob.core.windows.net/maven/</url>
      </repository>
    </repositories>

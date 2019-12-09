@@ -1,6 +1,6 @@
 ---
 title: Install and run containers - FACE API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This article shows you how to download, install, and run containers for Face in this walkthrough tutorial.
 services: cognitive-services
 author: IEvangelist
@@ -15,7 +15,7 @@ ms.author: dapine
 
 # Install and run Face containers (Preview)
 
-Azure Cognitive Services Face provides a standardized Linux container for Docker that detects human faces in images. It also identifies attributes, which include face landmarks such as noses and eyes, gender, age, and other machine-predicted facial features. In addition to detection, Face can check if two faces in the same image or different images are the same by using a confidence score. Face also can compare faces against a database to see if a similar-looking or identical face already exists. It also can organize similar faces into groups by using shared visual traits.
+Azure Cognitive Research Technologies Face provides a standardized Linux container for Docker that detects human faces in images. It also identifies attributes, which include face landmarks such as noses and eyes, gender, age, and other machine-predicted facial features. In addition to detection, Face can check if two faces in the same image or different images are the same by using a confidence score. Face also can compare faces against a database to see if a similar-looking or identical face already exists. It also can organize similar faces into groups by using shared visual traits.
 
 If you don't have an Azure subscription, create a [free account](https://azure.microsoft.com/free/?WT.mc_id=A261C142F) before you begin.
 
@@ -123,7 +123,7 @@ Use the host, `http://localhost:5000`, for container APIs.
 
 If you run the container with an output [mount](./face-resource-container-config.md#mount-settings) and logging is enabled, the container generates log files that are helpful to troubleshoot issues that happen while you start or run the container.
 
-[!INCLUDE [Cognitive Services FAQ note](../containers/includes/cognitive-services-faq-note.md)]
+[!INCLUDE [Cognitive Research Technologies FAQ note](../containers/includes/cognitive-services-faq-note.md)]
 
 ## Billing
 
@@ -147,11 +147,11 @@ In this article, you learned concepts and workflow for how to download, install,
 * You must specify billing information when you instantiate a container.
 
 > [!IMPORTANT]
-> Cognitive Services containers aren't licensed to run without being connected to Azure for metering. Customers must enable the containers to communicate billing information with the metering service at all times. Cognitive Services containers don't send customer data, such as the image or text that's being analyzed, to Microsoft.
+> Cognitive Research Technologies containers aren't licensed to run without being connected to Azure for metering. Customers must enable the containers to communicate billing information with the metering service at all times. Cognitive Research Technologies containers don't send customer data, such as the image or text that's being analyzed, to Microsoft.
 
 ## Next steps
 
 * For configuration settings, see [Configure containers](face-resource-container-config.md).
 * To learn more about how to detect and identify faces, see [Face overview](Overview.md).
 * For information about the methods supported by the container, see the [Face API](//westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236).
-* To use more Cognitive Services containers, see [Cognitive Services containers](../cognitive-services-container-support.md).
+* To use more Cognitive Research Technologies containers, see [Cognitive Research Technologies containers](../cognitive-services-container-support.md).

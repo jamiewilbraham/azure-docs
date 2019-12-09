@@ -1,6 +1,6 @@
 ---
 title: Text to Speech frequently asked questions
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Get answers to the frequently asked questions about the Text to Speech service.
 services: cognitive-services
 author: PanosPeriorellis

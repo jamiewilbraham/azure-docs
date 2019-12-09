@@ -1,7 +1,7 @@
 ---
 title: What's New - Language Understanding (LUIS)
-titleSuffix: Azure Cognitive Services
-description: This article is regularly updated with news about the Azure Cognitive Services Language Understanding API.
+titleSuffix: Azure Cognitive Research Technologies
+description: This article is regularly updated with news about the Azure Cognitive Research Technologies Language Understanding API.
 author: diberry
 manager: nitinme
 ms.custom: experiment-luis-0519
@@ -85,4 +85,4 @@ The following features were released at the Build 2019 Conference:
 
 ## Service updates
 
-[Azure update announcements for Cognitive Services](https://azure.microsoft.com/updates/?product=cognitive-services)
+[Azure update announcements for Cognitive Research Technologies](https://azure.microsoft.com/updates/?product=cognitive-services)

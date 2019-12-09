@@ -1,6 +1,6 @@
 ---
 title: Frequently asked questions (FAQ) - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This article contains answers to frequently asked questions about Language Understanding (LUIS).
 author: diberry
 manager: nitinme

@@ -1,6 +1,6 @@
 ---
 title: Features - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Add features to a language model to provide hints about how to recognize input that you want to label or classify.
 services: cognitive-services
 author: diberry

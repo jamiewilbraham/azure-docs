@@ -1,7 +1,7 @@
 ---
 title: "Quickstart: C# SDK query prediction endpoint - LUIS"
-titleSuffix: Azure Cognitive Services 
-description: This article will show you how to use the C# SDK to send a user utterance to the Azure Cognitive Services LUIS application and receive a prediction. 
+titleSuffix: Azure Cognitive Research Technologies 
+description: This article will show you how to use the C# SDK to send a user utterance to the Azure Cognitive Research Technologies LUIS application and receive a prediction. 
 author: diberry
 manager: nitinme
 ms.service: cognitive-services
@@ -32,9 +32,9 @@ Looking for more documentation?
  * [SDK reference documentation](https://docs.microsoft.com/dotnet/api/overview/azure/cognitiveservices/client/languageunderstanding?view=azure-dotnet)
 
 
-## Get Cognitive Services or Language Understanding key
+## Get Cognitive Research Technologies or Language Understanding key
 
-In order to use the public app for home automation, you need a valid key for endpoint predictions. You can use either a Cognitive Services key (created below with the Azure CLI), which is valid for many cognitive services, or a `Language Understanding` key. 
+In order to use the public app for home automation, you need a valid key for endpoint predictions. You can use either a Cognitive Research Technologies key (created below with the Azure CLI), which is valid for many Cognitive Research Technologies, or a `Language Understanding` key. 
 
 Use the following [Azure CLI command to create a Cognitive Service key](https://docs.microsoft.com/cli/azure/cognitiveservices/account?view=azure-cli-latest#az-cognitiveservices-account-create):
 
@@ -86,7 +86,7 @@ Add the following code to the `GetPrediction` method to create the client creden
 Replace `<REPLACE-WITH-YOUR-KEY>` with your Cognitive Service key's region. The key is in the [Azure portal](https://portal.azure.com) on the Keys page for that resource.
 
 ```csharp
-// Use Language Understanding or Cognitive Services key
+// Use Language Understanding or Cognitive Research Technologies key
 // to create authentication credentials
 var endpointPredictionkey = "<REPLACE-WITH-YOUR-KEY>";
 var credentials = new ApiKeyServiceClientCredentials(endpointPredictionkey);

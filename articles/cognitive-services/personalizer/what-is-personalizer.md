@@ -1,6 +1,6 @@
 ---
 title: What is Personalizer?
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Personalizer is a cloud-based API service that allows you to choose the best experience to show to your users, learning from their real-time behavior. 
 services: cognitive-services
 author: diberry

@@ -1,6 +1,6 @@
 ﻿---
 title: Speech to Text frequently asked questions
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Get answers to frequently asked questions about the Speech to Text service.
 services: cognitive-services
 author: PanosPeriorellis
@@ -109,7 +109,7 @@ or
 
 - the Resource ID for your subscription:
   - Go to the [Azure portal](https://portal.azure.com),
-  - select `Cognitive Services` in the search box,
+  - select `Cognitive Research Technologies` in the search box,
   - from the displayed services pick the speech service you want the concurrency increased for,
   - display the `Properties` for this service,
   - copy the complete `Resource ID`.

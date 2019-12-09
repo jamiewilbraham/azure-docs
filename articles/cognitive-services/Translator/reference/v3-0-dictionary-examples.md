@@ -1,6 +1,6 @@
 ---
 title: Translator Text API Dictionary Examples Method
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The Translator Text API Dictionary Examples method provides examples that show how terms in the dictionary are used in context.
 services: cognitive-services
 author: swmachan

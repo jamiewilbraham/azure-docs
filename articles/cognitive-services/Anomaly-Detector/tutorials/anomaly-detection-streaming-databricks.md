@@ -1,8 +1,8 @@
 ---
 title: "Tutorial: Anomaly detection on streaming data using Azure Databricks"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use the Anomaly Detector API and Azure Databricks to monitor anomalies in your data.
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 services: cognitive-services
 author: aahill
 manager: nitinme
@@ -15,11 +15,11 @@ ms.author: aahi
 
 # Tutorial: Anomaly detection on streaming data using Azure Databricks
 
-[Azure Databricks](https://azure.microsoft.com/services/databricks/) is a fast, easy, and collaborative Apache Spark–based analytics service. The Anomaly Detector API, part of Azure Cognitive Services, provides a way of monitoring your time series data. Use this tutorial to run anomaly detection on a stream of data in near real-time using Azure Databricks. You'll ingest twitter data using Azure Event Hubs, and import them into Azure Databricks using the Spark Event Hubs connector. Afterwards, you'll use the API to detect anomalies on the streamed data. 
+[Azure Databricks](https://azure.microsoft.com/services/databricks/) is a fast, easy, and collaborative Apache Spark–based analytics service. The Anomaly Detector API, part of Azure Cognitive Research Technologies, provides a way of monitoring your time series data. Use this tutorial to run anomaly detection on a stream of data in near real-time using Azure Databricks. You'll ingest twitter data using Azure Event Hubs, and import them into Azure Databricks using the Spark Event Hubs connector. Afterwards, you'll use the API to detect anomalies on the streamed data. 
 
 The following illustration shows the application flow:
 
-![Azure Databricks with Event Hubs and Cognitive Services](../media/tutorials/databricks-cognitive-services-tutorial.png "Azure Databricks with Event Hubs and Cognitive Services")
+![Azure Databricks with Event Hubs and Cognitive Research Technologies](../media/tutorials/databricks-cognitive-services-tutorial.png "Azure Databricks with Event Hubs and Cognitive Research Technologies")
 
 This tutorial covers the following tasks:
 
@@ -145,15 +145,15 @@ On the library page, select the cluster where you want to use the library, and t
 
 6. Repeat these steps for the Twitter package, `twitter4j-core:4.0.7`.
 
-## Get a Cognitive Services access key
+## Get a Cognitive Research Technologies access key
 
-In this tutorial, you use the [Azure Cognitive Services Anomaly Detector APIs](../overview.md) to run anomaly detection on a stream of tweets in near real time. Before you use the APIs, you must create an Anomaly Detector resource on Azure and retrieve an access key to use the Anomaly Detector APIs.
+In this tutorial, you use the [Azure Cognitive Research Technologies Anomaly Detector APIs](../overview.md) to run anomaly detection on a stream of tweets in near real time. Before you use the APIs, you must create an Anomaly Detector resource on Azure and retrieve an access key to use the Anomaly Detector APIs.
 
 1. Sign in to the [Azure portal](https://portal.azure.com/).
 
 2. Select **+ Create a resource**.
 
-3. Under Azure Marketplace, Select **AI + Machine Learning** > **See all** > **Cognitive Services - More** > **Anomaly Detector**. Or you could use [this link](https://ms.portal.azure.com/#create/Microsoft.CognitiveServicesAnomalyDetector) to go to the **Create** dialog box directly.
+3. Under Azure Marketplace, Select **AI + Machine Learning** > **See all** > **Cognitive Research Technologies - More** > **Anomaly Detector**. Or you could use [this link](https://ms.portal.azure.com/#create/Microsoft.CognitiveServicesAnomalyDetector) to go to the **Create** dialog box directly.
 
     ![Create Anomaly Detector resource](../media/tutorials/databricks-cognitive-services-anomaly-detector.png "Create Anomaly Detector resource")
 
@@ -342,7 +342,7 @@ case class AnomalyBatchResponse(var expectedValues: Array[Double], var upperMarg
 
 object AnomalyDetector extends Serializable {
 
-  // Cognitive Services API connection settings
+  // Cognitive Research Technologies API connection settings
   val subscriptionKey = "[Placeholder: Your Anomaly Detector resource access key]"
   val endpoint = "[Placeholder: Your Anomaly Detector resource endpoint]"
   val latestPointDetectionPath = "/anomalydetector/v1.0/timeseries/last/detect"
@@ -360,7 +360,7 @@ object AnomalyDetector extends Serializable {
     return connection
   }
 
-  // Handles the call to Cognitive Services API.
+  // Handles the call to Cognitive Research Technologies API.
   def processUsingApi(request: String, path: URL): String = {
     println(request)
     val encoded_text = request.getBytes("UTF-8")

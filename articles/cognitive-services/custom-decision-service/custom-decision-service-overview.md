@@ -1,6 +1,6 @@
 ---
 title: What is Custom Decision Service?
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: This article provides an overview of the Custom Decision Service.
 services: cognitive-services
 author: alekh
@@ -19,7 +19,7 @@ In a typical web or mobile application, a front page links to several articles o
 
 Custom Decision Service is easy to use, as it requires only an RSS feed for your content and a few lines of JavaScript to be added into your application.
 
-Custom Decision Service converts your content into features for machine learning. The system uses these features to understand your content in terms of its text, images, videos, and overall sentiment. It uses several other [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services), like
+Custom Decision Service converts your content into features for machine learning. The system uses these features to understand your content in terms of its text, images, videos, and overall sentiment. It uses several other [Microsoft Cognitive Research Technologies](https://www.microsoft.com/cognitive-services), like
 [Entity Linking](../entitylinking/home.md),
 [Text Analytics](../text-analytics/overview.md),
 [Emotion](../emotion/home.md), and

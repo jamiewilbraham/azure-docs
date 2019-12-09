@@ -1,6 +1,6 @@
 ---
 title: Project Acoustics Bake Resolution
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: This conceptual overview describes the difference between coarse and fine resolutions while baking acoustics.
 services: cognitive-services
 author: NoelCross

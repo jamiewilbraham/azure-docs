@@ -1,6 +1,6 @@
 ---
 title: Release Notes - Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: See a running log of feature releases, improvements, bug fixes, and known issues for the Speech service.
 services: cognitive-services
 author: BrianMouncer
@@ -325,7 +325,7 @@ Reliability improvements and bug fixes:
 
 In our [sample repository](https://aka.ms/csspeech/samples), a new sample for JavaScript was added.
 
-## Cognitive Services Speech SDK 1.0.0: 2018-September release
+## Cognitive Research Technologies Speech SDK 1.0.0: 2018-September release
 
 **New features**
 
@@ -337,7 +337,7 @@ In our [sample repository](https://aka.ms/csspeech/samples), a new sample for Ja
 - With this release, a number of breaking changes are introduced.
   Check [this page](https://aka.ms/csspeech/breakingchanges_1_0_0) for details.
 
-## Cognitive Services Speech SDK 0.6.0: 2018-August release
+## Cognitive Research Technologies Speech SDK 0.6.0: 2018-August release
 
 **New features**
 
@@ -363,7 +363,7 @@ In our [sample repository](https://aka.ms/csspeech/samples), a new sample for Ja
 - Fixed a problem, where a long-running recognition could terminate in the middle of the transmission.
 - Fixed a race condition in recognizer shutdown.
 
-## Cognitive Services Speech SDK 0.5.0: 2018-July release
+## Cognitive Research Technologies Speech SDK 0.5.0: 2018-July release
 
 **New features**
 
@@ -400,7 +400,7 @@ In our [sample repository](https://aka.ms/csspeech/samples), a new sample for Ja
 
 - The Speech SDK for Android doesn't report speech synthesis results for translation. This issue will be fixed in the next release.
 
-## Cognitive Services Speech SDK 0.4.0: 2018-June release
+## Cognitive Research Technologies Speech SDK 0.4.0: 2018-June release
 
 **Functional changes**
 
@@ -436,6 +436,6 @@ In our [sample repository](https://aka.ms/csspeech/samples), a new sample for Ja
 
 More samples have been added and are constantly being updated. For the latest set of samples, see the [Speech SDK samples GitHub repository](https://aka.ms/csspeech/samples).
 
-## Cognitive Services Speech SDK 0.2.12733: 2018-May release
+## Cognitive Research Technologies Speech SDK 0.2.12733: 2018-May release
 
-This release is the first public preview release of the Cognitive Services Speech SDK.
+This release is the first public preview release of the Cognitive Research Technologies Speech SDK.

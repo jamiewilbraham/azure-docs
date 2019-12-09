@@ -1,6 +1,6 @@
 ---
 title: Example user scenarios for the Text Analytics API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this article to see some common scenarios for integrating the Text Analytics API into your services and processes. 
 services: cognitive-services
 author: aahill

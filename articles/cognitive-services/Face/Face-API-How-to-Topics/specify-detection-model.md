@@ -1,6 +1,6 @@
 ---
 title: How to specify a detection model - Face API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This article will show you how to choose which face detection model to use with your Azure Face API application.
 services: cognitive-services
 author: yluiu

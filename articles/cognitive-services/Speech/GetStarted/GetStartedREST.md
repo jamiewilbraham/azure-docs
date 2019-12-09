@@ -1,7 +1,7 @@
 ---
 title: Get started with the Bing Speech Recognition API by using REST | Microsoft Docs
-titlesuffix: Azure Cognitive Services
-description: Use REST to access the Speech Recognition API in Microsoft Cognitive Services to convert spoken audio to text.
+titlesuffix: Azure Cognitive Research Technologies
+description: Use REST to access the Speech Recognition API in Microsoft Cognitive Research Technologies to convert spoken audio to text.
 services: cognitive-services
 author: nitinme
 manager: nitinme
@@ -23,7 +23,7 @@ With the cloud-based Bing Speech Service, you can develop applications by using 
 
 ### Subscribe to the Speech API, and get a free trial subscription key
 
-The Speech API is part of Cognitive Services (previously Project Oxford). You can get free trial subscription keys from the [Cognitive Services subscription](https://azure.microsoft.com/try/cognitive-services/) page. After you select the Speech API, select **Get API Key** to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you can use either key.
+The Speech API is part of Cognitive Research Technologies (previously Project Oxford). You can get free trial subscription keys from the [Cognitive Research Technologies subscription](https://azure.microsoft.com/try/cognitive-services/) page. After you select the Speech API, select **Get API Key** to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you can use either key.
 
 > [!IMPORTANT]
 >* Get a subscription key. Before you can access the REST API, you must have a [subscription key](https://azure.microsoft.com/try/cognitive-services/).
@@ -253,4 +253,4 @@ To remove these limitations, use Speech [client libraries](GetStartedClientLibra
 
 ### License
 
-All Cognitive Services SDKs and samples are licensed with the MIT License. For more information, see [License](https://github.com/Microsoft/Cognitive-Speech-STT-JavaScript/blob/master/LICENSE.md).
+All Cognitive Research Technologies SDKs and samples are licensed with the MIT License. For more information, see [License](https://github.com/Microsoft/Cognitive-Speech-STT-JavaScript/blob/master/LICENSE.md).

@@ -1,7 +1,7 @@
 ---
 title: Call the Computer Vision API
-titleSuffix: Azure Cognitive Services
-description: Learn how to call the Computer Vision API by using the REST API in Azure Cognitive Services.
+titleSuffix: Azure Cognitive Research Technologies
+description: Learn how to call the Computer Vision API by using the REST API in Azure Cognitive Research Technologies.
 services: cognitive-services
 author: KellyDF
 manager: nitinme
@@ -44,8 +44,8 @@ The features offer the following options:
 Every call to the Computer Vision API requires a subscription key. This key must be either passed through a query string parameter or specified in the request header.
 
 To get a free trial key, do either of the following:
-* Go to the [Try Cognitive Services](https://azure.microsoft.com/try/cognitive-services/?api=computer-vision) page. 
-* Go to the [Create a Cognitive Services account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) page to subscribe to Computer Vision.
+* Go to the [Try Cognitive Research Technologies](https://azure.microsoft.com/try/cognitive-services/?api=computer-vision) page. 
+* Go to the [Create a Cognitive Research Technologies account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) page to subscribe to Computer Vision.
 
 You can pass the subscription key by doing any of the following:
 

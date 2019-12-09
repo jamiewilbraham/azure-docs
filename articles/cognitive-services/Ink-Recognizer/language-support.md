@@ -1,6 +1,6 @@
 ---
 title: Language and region support for the Ink Recognizer API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: A list of natural languages supported by the Ink Recognizer API.
 services: cognitive-services
 author: aahill

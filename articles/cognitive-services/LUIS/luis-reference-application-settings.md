@@ -1,7 +1,7 @@
 ---
 title: Application settings - LUIS
-titleSuffix: Azure Cognitive Services
-description: Applications settings for Azure Cognitive Services language understanding apps are stored in the app and portal. 
+titleSuffix: Azure Cognitive Research Technologies
+description: Applications settings for Azure Cognitive Research Technologies language understanding apps are stored in the app and portal. 
 services: cognitive-services
 author: diberry
 manager: nitinme

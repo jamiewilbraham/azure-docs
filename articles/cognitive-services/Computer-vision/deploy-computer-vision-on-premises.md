@@ -1,6 +1,6 @@
 ---
 title: Use Computer Vision container with Kubernetes and Helm
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Deploy the Computer Vision container to an Azure Container Instance, and test it in a web browser.
 services: cognitive-services
 author: IEvangelist
@@ -231,7 +231,7 @@ replicaset.apps/read-57cb76bcf7   1         1         1       17s
 For more details on installing applications with Helm in Azure Kubernetes Service (AKS), [visit here][installing-helm-apps-in-aks].
 
 > [!div class="nextstepaction"]
-> [Cognitive Services Containers][cog-svcs-containers]
+> [Cognitive Research Technologies Containers][cog-svcs-containers]
 
 <!-- LINKS - external -->
 [free-azure-account]: https://azure.microsoft.com/free

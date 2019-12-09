@@ -1,6 +1,6 @@
 ---
 title: Data sources supported - QnA Maker
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: QnA Maker automatically extracts question-answer pairs stored as web pages, PDF files, or MS Word doc files or structured QnA content files.
 services: cognitive-services
 author: diberry

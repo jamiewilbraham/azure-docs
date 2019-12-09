@@ -1,7 +1,7 @@
 ---
-title: Create a Cognitive Services resource using the Azure CLI
-titleSuffix: Azure Cognitive Services
-description: Get started with Azure Cognitive Services by creating and subscribing to a resource using the Azure command line interface.
+title: Create a Cognitive Research Technologies resource using the Azure CLI
+titleSuffix: Azure Cognitive Research Technologies
+description: Get started with Azure Cognitive Research Technologies by creating and subscribing to a resource using the Azure command line interface.
 services: cognitive-services
 author: aahill
 manager: nitinme
@@ -11,12 +11,12 @@ ms.date: 10/04/2019
 ms.author: aahi
 ---
 
-# Create a Cognitive Services resource using the Azure Command-Line Interface(CLI)
+# Create a Cognitive Research Technologies resource using the Azure Command-Line Interface(CLI)
 
-Use this quickstart to get started with Azure Cognitive Services using the [Azure Command Line Interface(CLI)](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest). Cognitive Services are represented by Azure [resources](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal) that you create in your Azure subscription. After creating the resource, Use the keys and endpoint generated for you to authenticate your applications. 
+Use this quickstart to get started with Azure Cognitive Research Technologies using the [Azure Command Line Interface(CLI)](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest). Cognitive Research Technologies are represented by Azure [resources](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal) that you create in your Azure subscription. After creating the resource, Use the keys and endpoint generated for you to authenticate your applications. 
 
 
-In this quickstart, you'll learn how to sign up for Azure Cognitive Services and create an account that has a single-service or multi-service subscription, Using the [Azure Command Line Interface(CLI)](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest). These services are represented by Azure [resources](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal), which enable you to connect to one or more of the Azure Cognitive Services APIs.
+In this quickstart, you'll learn how to sign up for Azure Cognitive Research Technologies and create an account that has a single-service or multi-service subscription, Using the [Azure Command Line Interface(CLI)](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest). These services are represented by Azure [resources](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal), which enable you to connect to one or more of the Azure Cognitive Research Technologies APIs.
 
 [!INCLUDE [cognitive-services-subscription-types](../../includes/cognitive-services-subscription-types.md)]
 
@@ -35,17 +35,17 @@ az login
 
 You can also use the green **Try It** button to run these commands in your browser.
  
-## Create a new Azure Cognitive Services resource group
+## Create a new Azure Cognitive Research Technologies resource group
 
-Before creating a Cognitive Services resource, you must have an Azure resource group to contain the resource. When you create a new resource, you have the option to either create a new resource group, or use an existing one. This article shows how to create a new resource group.
+Before creating a Cognitive Research Technologies resource, you must have an Azure resource group to contain the resource. When you create a new resource, you have the option to either create a new resource group, or use an existing one. This article shows how to create a new resource group.
 
 ### Choose your resource group location
 
-To create a resource, you'll need one of the Azure locations available for your subscription. You can retrieve a list of available locations with the [az account list-locations](/cli/azure/account#az-account-list-locations) command. Most Cognitive Services can be accessed from several locations. Choose the one closest to you, or see which locations are available for the service.
+To create a resource, you'll need one of the Azure locations available for your subscription. You can retrieve a list of available locations with the [az account list-locations](/cli/azure/account#az-account-list-locations) command. Most Cognitive Research Technologies can be accessed from several locations. Choose the one closest to you, or see which locations are available for the service.
 
 > [!IMPORTANT]
-> * Remember your Azure location, as you will need it when calling the Azure Cognitive Services.
-> * The availability of some Cognitive Services can vary by region. For more information, see [Azure products by region](https://azure.microsoft.com/global-infrastructure/services/?products=cognitive-services).  
+> * Remember your Azure location, as you will need it when calling the Azure Cognitive Research Technologies.
+> * The availability of some Cognitive Research Technologies can vary by region. For more information, see [Azure products by region](https://azure.microsoft.com/global-infrastructure/services/?products=cognitive-services).  
 
 ```azurecli-interactive
 az account list-locations \
@@ -63,7 +63,7 @@ az group create \
     --location westus2
 ```
 
-## Create a Cognitive Services resource
+## Create a Cognitive Research Technologies resource
 
 ### Choose a cognitive service and pricing tier
 
@@ -77,7 +77,7 @@ When creating a new resource, you will need to know the "kind" of service you wa
 
 
 > [!NOTE]
-> Many of the Cognitive Services below have a free tier you can use to try the service. To use the free tier, use `F0` as the sku for your resource.
+> Many of the Cognitive Research Technologies below have a free tier you can use to try the service. To use the free tier, use `F0` as the sku for your resource.
 
 ### Vision
 
@@ -133,7 +133,7 @@ az cognitiveservices account list-kinds
 
 ### Add a new resource to your resource group
 
-To create and subscribe to a new Cognitive Services resource, use the [az cognitiveservices account create](https://docs.microsoft.com/cli/azure/cognitiveservices/account?view=azure-cli-latest#az-cognitiveservices-account-create) command. This command adds a new billable resource to the resource group created earlier. When creating your new resource, you will need to know the "kind" of service you want to use, along with its pricing tier (or sku) and an Azure location:
+To create and subscribe to a new Cognitive Research Technologies resource, use the [az cognitiveservices account create](https://docs.microsoft.com/cli/azure/cognitiveservices/account?view=azure-cli-latest#az-cognitiveservices-account-create) command. This command adds a new billable resource to the resource group created earlier. When creating your new resource, you will need to know the "kind" of service you want to use, along with its pricing tier (or sku) and an Azure location:
 
 You can create an F0 (free) resource for Anomaly Detector, named `anomaly-detector-resource` with the command below.
 
@@ -185,7 +185,7 @@ az cognitiveservices account list-usage \
 
 ## Clean up resources
 
-If you want to clean up and remove a Cognitive Services resource, you can delete it or the resource group. Deleting the resource group also deletes any other resources contained in the group.
+If you want to clean up and remove a Cognitive Research Technologies resource, you can delete it or the resource group. Deleting the resource group also deletes any other resources contained in the group.
 
 To remove the resource group and its associated resources, use the az group delete command.
 
@@ -195,7 +195,7 @@ az group delete --name storage-resource-group
 
 ## See also
 
-* [Authenticate requests to Azure Cognitive Services](authentication.md)
-* [What is Azure Cognitive Services?](Welcome.md)
+* [Authenticate requests to Azure Cognitive Research Technologies](authentication.md)
+* [What is Azure Cognitive Research Technologies?](Welcome.md)
 * [Natural language support](language-support.md)
 * [Docker container support](cognitive-services-container-support.md)

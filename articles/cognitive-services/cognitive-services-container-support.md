@@ -1,7 +1,7 @@
 ---
 title: Container support
-titleSuffix: Azure Cognitive Services
-description: Learn how Docker containers can get Cognitive Services closer to your data.
+titleSuffix: Azure Cognitive Research Technologies
+description: Learn how Docker containers can get Cognitive Research Technologies closer to your data.
 services: cognitive-services
 author: IEvangelist
 manager: nitinme
@@ -10,12 +10,12 @@ ms.service: cognitive-services
 ms.topic: article
 ms.date: 11/11/2019
 ms.author: dapine
-#As a potential customer, I want to know more about how Cognitive Services provides and supports Docker containers for each service.
+#As a potential customer, I want to know more about how Cognitive Research Technologies provides and supports Docker containers for each service.
 ---
 
-# Container support in Azure Cognitive Services
+# Container support in Azure Cognitive Research Technologies
 
-Container support in Azure Cognitive Services allows developers to use the same rich APIs that are available in Azure, and enables flexibility in where to deploy and host the services that come with [Docker containers](https://www.docker.com/what-container). Container support is currently available for a subset of Azure Cognitive Services, including parts of:
+Container support in Azure Cognitive Research Technologies allows developers to use the same rich APIs that are available in Azure, and enables flexibility in where to deploy and host the services that come with [Docker containers](https://www.docker.com/what-container). Container support is currently available for a subset of Azure Cognitive Research Technologies, including parts of:
 
 > [!div class="checklist"]
 > * [Anomaly Detector][ad-containers]
@@ -30,20 +30,20 @@ Container support in Azure Cognitive Services allows developers to use the same 
 
 Containerization is an approach to software distribution in which an application or service, including its dependencies & configuration, is packaged together as a container image. With little or no modification, a container image can be deployed on a container host. Containers are isolated from each other and the underlying operating system, with a smaller footprint than a virtual machine. Containers can be instantiated from container images for short-term tasks, and removed when no longer needed.
 
-Cognitive Services resources are available on [Microsoft Azure](https://azure.microsoft.com). Sign into the [Azure portal](https://portal.azure.com/) to create and explore Azure resources for these services.
+Cognitive Research Technologies resources are available on [Microsoft Azure](https://azure.microsoft.com). Sign into the [Azure portal](https://portal.azure.com/) to create and explore Azure resources for these services.
 
 ## Features and benefits
 
 - **Immutable infrastructure**: Enable DevOps teams' to leverage a consistent and reliable set of known system parameters, while being able to adapt to change. Containers provide the flexibility to pivot within a predictable ecosystem and avoid configuration drift.
-- **Control over data**: Allow customers to choose where these Cognitive Services process their data. This is essential for customers that cannot send data to the cloud but need access to Cognitive Services technology. Support consistency in hybrid environments – across data, management, identity, and security.
+- **Control over data**: Allow customers to choose where these Cognitive Research Technologies process their data. This is essential for customers that cannot send data to the cloud but need access to Cognitive Research Technologies technology. Support consistency in hybrid environments – across data, management, identity, and security.
 - **Control over model updates**: Provide customers flexibility in versioning and updating of models deployed in their solutions.
 - **Portable architecture**: Enable the creation of a portable application architecture that can be deployed on Azure, on-premises and the edge. Containers can be deployed directly to [Azure Kubernetes Service](../aks/index.yml), [Azure Container Instances](../container-instances/index.yml), or to a [Kubernetes](https://kubernetes.io/) cluster deployed to [Azure Stack](/azure-stack/operator). For more information, see [Deploy Kubernetes to Azure Stack](/azure-stack/user/azure-stack-solution-template-kubernetes-deploy).
-- **High throughput / low latency**: Provide customers the ability to scale for high throughput and low latency requirements by enabling Cognitive Services to run physically close to their application logic and data. Containers do not cap transactions per second (TPS) and can be made to scale both up and out to handle demand if you provide the necessary hardware resources.
+- **High throughput / low latency**: Provide customers the ability to scale for high throughput and low latency requirements by enabling Cognitive Research Technologies to run physically close to their application logic and data. Containers do not cap transactions per second (TPS) and can be made to scale both up and out to handle demand if you provide the necessary hardware resources.
 - **Scalability**: With the ever growing popularity of containerization and container orchestration software, such as Kubernetes; scalability is at the forefront of technological advancements. Building on a scalable cluster foundation, application development caters to high availability.
 
-## Containers in Azure Cognitive Services
+## Containers in Azure Cognitive Research Technologies
 
-Azure Cognitive Services containers provide the following set of Docker containers, each of which contains a subset of functionality from services in Azure Cognitive Services:
+Azure Cognitive Research Technologies containers provide the following set of Docker containers, each of which contains a subset of functionality from services in Azure Cognitive Research Technologies:
 
 | Service | Supported Pricing Tier | Container | Description |
 |---------|----------|----------|-------------|
@@ -64,16 +64,16 @@ Azure Cognitive Services containers provide the following set of Docker containe
 |[Personalizer](https://go.microsoft.com/fwlink/?linkid=2083923&clcid=0x409) |F0, S0|**Personalizer** ([image](https://go.microsoft.com/fwlink/?linkid=2083928&clcid=0x409))|Azure Personalizer is a cloud-based API service that allows you to choose the best experience to show to your users, learning from their real-time behavior.|
 -->
 
-In addition, some containers are supported in Cognitive Services [**All-In-One offering**](https://ms.portal.azure.com/#create/Microsoft.CognitiveServicesAllInOne) resource keys. You can create one single Cognitive Services All-In-One resource and use the same billing key across supported services for the following services:
+In addition, some containers are supported in Cognitive Research Technologies [**All-In-One offering**](https://ms.portal.azure.com/#create/Microsoft.CognitiveServicesAllInOne) resource keys. You can create one single Cognitive Research Technologies All-In-One resource and use the same billing key across supported services for the following services:
 
 * Computer Vision
 * Face
 * LUIS
 * Text Analytics
 
-## Container availability in Azure Cognitive Services
+## Container availability in Azure Cognitive Research Technologies
 
-Azure Cognitive Services containers are publicly available through your Azure subscription, and Docker container images can be pulled from either the Microsoft Container Registry or Docker Hub. You can use the [docker pull](https://docs.docker.com/engine/reference/commandline/pull/) command to download a container image from the appropriate registry.
+Azure Cognitive Research Technologies containers are publicly available through your Azure subscription, and Docker container images can be pulled from either the Microsoft Container Registry or Docker Hub. You can use the [docker pull](https://docs.docker.com/engine/reference/commandline/pull/) command to download a container image from the appropriate registry.
 
 > [!IMPORTANT]
 > Currently, you must complete a sign-up process to access the following containers, in which you fill out and submit a questionnaire with questions about you, your company, and the use case for which you want to implement the containers. Once you're granted access and provided credentials, you can then pull the container images from a private container registry hosted by Azure Container Registry.
@@ -87,7 +87,7 @@ Azure Cognitive Services containers are publicly available through your Azure su
 
 ## Prerequisites
 
-You must satisfy the following prerequisites before using Azure Cognitive Services containers:
+You must satisfy the following prerequisites before using Azure Cognitive Research Technologies containers:
 
 **Docker Engine**: You must have Docker Engine installed locally. Docker provides packages that configure the Docker environment on [macOS](https://docs.docker.com/docker-for-mac/), [Linux](https://docs.docker.com/engine/installation/#supported-platforms), and [Windows](https://docs.docker.com/docker-for-windows/). On Windows, Docker must be configured to support Linux containers. Docker containers can also be deployed directly to [Azure Kubernetes Service](../aks/index.yml) or [Azure Container Instances](../container-instances/index.yml).
 
@@ -99,15 +99,15 @@ For a primer on Docker and container basics, see the [Docker overview](https://d
 
 Individual containers can have their own requirements, as well, including server and memory allocation requirements.
 
-[!INCLUDE [Cognitive Services container security](containers/includes/cognitive-services-container-security.md)]
+[!INCLUDE [Cognitive Research Technologies container security](containers/includes/cognitive-services-container-security.md)]
 
 [!INCLUDE [Discoverability of more container information](../../includes/cognitive-services-containers-discoverability.md)]
 
 ## Next steps
 
-Learn about [container recipes](containers/container-reuse-recipe.md) you can use with the Cognitive Services.
+Learn about [container recipes](containers/container-reuse-recipe.md) you can use with the Cognitive Research Technologies.
 
-Install and explore the functionality provided by containers in Azure Cognitive Services:
+Install and explore the functionality provided by containers in Azure Cognitive Research Technologies:
 
 * [Anomaly Detector containers][ad-containers]
 * [Computer Vision containers][cv-containers]

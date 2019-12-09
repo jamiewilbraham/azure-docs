@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions - Personality Chat
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: FAQs on Personality Chat
 services: cognitive-services
 author: noellelacharite

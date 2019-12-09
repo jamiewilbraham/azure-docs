@@ -1,6 +1,6 @@
 ---
 title: Review user utterances - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Review utterances captured by active learning to select intent and mark entities for read-world utterances; accept changes, train and publish.
 services: cognitive-services
 author: diberry

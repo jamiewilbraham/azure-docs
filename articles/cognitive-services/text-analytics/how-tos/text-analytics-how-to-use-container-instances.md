@@ -1,6 +1,6 @@
 ---
 title: Run Azure Container Instances - Text Analytics
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Deploy the text analytics containers to the Azure Container Instance, and test it in a web browser.
 services: cognitive-services
 author: IEvangelist
@@ -14,13 +14,13 @@ ms.author: dapine
 
 # Deploy a Text Analytics container to Azure Container Instances
 
-Learn how to deploy the Cognitive Services [Text Analytics][install-and-run-containers] container to Azure [Container Instances][container-instances]. This procedure exemplifies the creation of a Text Analytics resource, the creation of an associated Sentiment Analysis image and the ability to exercise this orchestration of the two from a browser. Using containers can shift the developers' attention away from managing infrastructure to instead focusing on application development.
+Learn how to deploy the Cognitive Research Technologies [Text Analytics][install-and-run-containers] container to Azure [Container Instances][container-instances]. This procedure exemplifies the creation of a Text Analytics resource, the creation of an associated Sentiment Analysis image and the ability to exercise this orchestration of the two from a browser. Using containers can shift the developers' attention away from managing infrastructure to instead focusing on application development.
 
 ## Prerequisites
 
 * Use an Azure subscription. If you don't have an Azure subscription, create a [free account](https://azure.microsoft.com/free/) before you begin.
 
-[!INCLUDE [Create a Cognitive Services Text Analytics resource](../includes/create-text-analytics-resource.md)]
+[!INCLUDE [Create a Cognitive Research Technologies Text Analytics resource](../includes/create-text-analytics-resource.md)]
 
 [!INCLUDE [Create a Text Analytics Containers on Azure Container Instances](../../containers/includes/create-container-instances-resource.md)]
 
@@ -40,7 +40,7 @@ Learn how to deploy the Cognitive Services [Text Analytics][install-and-run-cont
 
 ## Next steps 
 
-* Use more [Cognitive Services Containers](../../cognitive-services-container-support.md)
+* Use more [Cognitive Research Technologies Containers](../../cognitive-services-container-support.md)
 * Use the [Text Analytics Connected Service](../vs-text-connected-service.md)
 
 [install-and-run-containers]: ./text-analytics-how-to-install-containers.md

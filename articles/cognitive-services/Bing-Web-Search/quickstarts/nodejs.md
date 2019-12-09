@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Perform a web search with Node.js - Bing Web Search REST API"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to send requests to the Bing Web Search REST API using Node.js, and receive a JSON response
 services: cognitive-services
 author: aahill
@@ -83,10 +83,10 @@ function bingWebSearch(query) {
 
 ## Get the query
 
-Let's look at the program's arguments to find the query. The first argument is the path to node, the second is our filename, and the third is your query. If the query is absent, a default query of "Microsoft Cognitive Services" is used.
+Let's look at the program's arguments to find the query. The first argument is the path to node, the second is our filename, and the third is your query. If the query is absent, a default query of "Microsoft Cognitive Research Technologies" is used.
 
 ```javascript
-const query = process.argv[2] || 'Microsoft Cognitive Services'
+const query = process.argv[2] || 'Microsoft Cognitive Research Technologies'
 ```
 
 ## Make a request and print the response
@@ -132,7 +132,7 @@ function bingWebSearch(query) {
     })
   })
 }
-const query = process.argv[2] || 'Microsoft Cognitive Services'
+const query = process.argv[2] || 'Microsoft Cognitive Research Technologies'
 bingWebSearch(query)
 ```
 
@@ -144,7 +144,7 @@ Responses from the Bing Web Search API are returned as JSON. This sample respons
 {
   "_type": "SearchResponse",
   "queryContext": {
-    "originalQuery": "Microsoft Cognitive Services"
+    "originalQuery": "Microsoft Cognitive Research Technologies"
   },
   "webPages": {
     "webSearchUrl": "https://www.bing.com/search?q=Microsoft+cognitive+services",
@@ -152,7 +152,7 @@ Responses from the Bing Web Search API are returned as JSON. This sample respons
     "value": [
       {
         "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
-        "name": "Microsoft Cognitive Services",
+        "name": "Microsoft Cognitive Research Technologies",
         "url": "https://www.microsoft.com/cognitive-services",
         "displayUrl": "https://www.microsoft.com/cognitive-services",
         "snippet": "Knock down barriers between you and your ideas. Enable natural and contextual interaction with tools that augment users' experiences via the power of machine-based AI. Plug them in and bring your ideas to life.",
@@ -160,12 +160,12 @@ Responses from the Bing Web Search API are returned as JSON. This sample respons
           {
             "name": "Face API",
             "url": "https://azure.microsoft.com/services/cognitive-services/face/",
-            "snippet": "Add facial recognition to your applications to detect, identify, and verify faces using a Face API from Microsoft Azure. ... Cognitive Services; Face API;"
+            "snippet": "Add facial recognition to your applications to detect, identify, and verify faces using a Face API from Microsoft Azure. ... Cognitive Research Technologies; Face API;"
           },
           {
             "name": "Text Analytics",
             "url": "https://azure.microsoft.com/services/cognitive-services/text-analytics/",
-            "snippet": "Cognitive Services; Text Analytics API; Text Analytics API . Detect sentiment, ... you agree that Microsoft may store it and use it to improve Microsoft services, ..."
+            "snippet": "Cognitive Research Technologies; Text Analytics API; Text Analytics API . Detect sentiment, ... you agree that Microsoft may store it and use it to improve Microsoft services, ..."
           },
           {
             "name": "Computer Vision API",
@@ -175,17 +175,17 @@ Responses from the Bing Web Search API are returned as JSON. This sample respons
           {
             "name": "Emotion",
             "url": "https://www.microsoft.com/cognitive-services/emotion-api",
-            "snippet": "Cognitive Services Emotion API - microsoft.com"
+            "snippet": "Cognitive Research Technologies Emotion API - microsoft.com"
           },
           {
             "name": "Bing Speech API",
             "url": "https://azure.microsoft.com/services/cognitive-services/speech/",
-            "snippet": "Add speech recognition to your applications, including text to speech, with a speech API from Microsoft Azure. ... Cognitive Services; Bing Speech API;"
+            "snippet": "Add speech recognition to your applications, including text to speech, with a speech API from Microsoft Azure. ... Cognitive Research Technologies; Bing Speech API;"
           },
           {
             "name": "Get Started for Free",
             "url": "https://azure.microsoft.com/services/cognitive-services/",
-            "snippet": "Add vision, speech, language, and knowledge capabilities to your applications using intelligence APIs and SDKs from Cognitive Services."
+            "snippet": "Add vision, speech, language, and knowledge capabilities to your applications using intelligence APIs and SDKs from Cognitive Research Technologies."
           }
         ]
       }
@@ -200,18 +200,18 @@ Responses from the Bing Web Search API are returned as JSON. This sample respons
         "webSearchUrl": "https://www.bing.com/search?q=microsoft+bot+framework"
       },
       {
-        "text": "microsoft cognitive services youtube",
-        "displayText": "microsoft cognitive services youtube",
+        "text": "microsoft Cognitive Research Technologies youtube",
+        "displayText": "microsoft Cognitive Research Technologies youtube",
         "webSearchUrl": "https://www.bing.com/search?q=microsoft+cognitive+services+youtube"
       },
       {
-        "text": "microsoft cognitive services search api",
-        "displayText": "microsoft cognitive services search api",
+        "text": "microsoft Cognitive Research Technologies search api",
+        "displayText": "microsoft Cognitive Research Technologies search api",
         "webSearchUrl": "https://www.bing.com/search?q=microsoft+cognitive+services+search+api"
       },
       {
-        "text": "microsoft cognitive services news",
-        "displayText": "microsoft cognitive services news",
+        "text": "microsoft Cognitive Research Technologies news",
+        "displayText": "microsoft Cognitive Research Technologies news",
         "webSearchUrl": "https://www.bing.com/search?q=microsoft+cognitive+services+news"
       },
       {
@@ -220,18 +220,18 @@ Responses from the Bing Web Search API are returned as JSON. This sample respons
         "webSearchUrl": "https://www.bing.com/search?q=ms+cognitive+service"
       },
       {
-        "text": "microsoft cognitive services text analytics",
-        "displayText": "microsoft cognitive services text analytics",
+        "text": "microsoft Cognitive Research Technologies text analytics",
+        "displayText": "microsoft Cognitive Research Technologies text analytics",
         "webSearchUrl": "https://www.bing.com/search?q=microsoft+cognitive+services+text+analytics"
       },
       {
-        "text": "microsoft cognitive services toolkit",
-        "displayText": "microsoft cognitive services toolkit",
+        "text": "microsoft Cognitive Research Technologies toolkit",
+        "displayText": "microsoft Cognitive Research Technologies toolkit",
         "webSearchUrl": "https://www.bing.com/search?q=microsoft+cognitive+services+toolkit"
       },
       {
-        "text": "microsoft cognitive services api",
-        "displayText": "microsoft cognitive services api",
+        "text": "microsoft Cognitive Research Technologies api",
+        "displayText": "microsoft Cognitive Research Technologies api",
         "webSearchUrl": "https://www.bing.com/search?q=microsoft+cognitive+services+api"
       }
     ]

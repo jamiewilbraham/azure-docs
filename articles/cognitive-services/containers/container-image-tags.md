@@ -1,6 +1,6 @@
 ---
-title: Cognitive Services container image tags
-titleSuffix: Azure Cognitive Services
+title: Cognitive Research Technologies container image tags
+titleSuffix: Azure Cognitive Research Technologies
 description: A comprehensive listing of all the Cognitive Service container image tags.
 services: cognitive-services
 author: IEvangelist
@@ -11,9 +11,9 @@ ms.date: 11/18/2019
 ms.author: dapine
 ---
 
-# Azure Cognitive Services container image tags
+# Azure Cognitive Research Technologies container image tags
 
-Azure Cognitive Services offers many container images. The container registries and corresponding repositories vary between container images. Each container image name offers multiple tags. A container image tag is a mechanism of versioning the container image. This article is intended to be used as a comprehensive reference for listing all the Cognitive Services container images and their available tags.
+Azure Cognitive Research Technologies offers many container images. The container registries and corresponding repositories vary between container images. Each container image name offers multiple tags. A container image tag is a mechanism of versioning the container image. This article is intended to be used as a comprehensive reference for listing all the Cognitive Research Technologies container images and their available tags.
 
 > [!TIP]
 > When using [`docker pull`](https://docs.docker.com/engine/reference/commandline/pull/), pay close attention to the casing of the container registry, repository, container image name and corresponding tag - as they are **case sensitive**.

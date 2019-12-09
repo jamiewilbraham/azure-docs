@@ -1,6 +1,6 @@
 ---
 title: Project Acoustics Unity Design Tutorial
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: This tutorial describes the design workflow for Project Acoustics in Unity.
 services: cognitive-services
 author: NoelCross

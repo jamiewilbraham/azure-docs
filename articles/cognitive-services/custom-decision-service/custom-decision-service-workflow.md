@@ -1,6 +1,6 @@
 ---
 title: Custom Decision Service workflow
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: This article provides the recommended workflow for the Azure Custom Decision Service.
 services: cognitive-services
 author: noellelacharite

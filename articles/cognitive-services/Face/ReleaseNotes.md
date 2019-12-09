@@ -1,6 +1,6 @@
 ---
 title: Release notes - Face API Service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Release notes for the Face API Service include a history of release changes for various versions.
 services: cognitive-services
 author: yluiu

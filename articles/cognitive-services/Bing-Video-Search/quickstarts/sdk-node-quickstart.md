@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Search for videos using the SDK for Node.js - Bing Video Search"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to send video search requests using the Bing Video Search SDK for Node.js
 services: cognitive-services
 author: aahill
@@ -63,4 +63,4 @@ To set up a console application using the Bing Video Search SDK:
 ## See also 
 
 * [What is the Bing Video Search API?](../overview.md)
-* [Cognitive services .NET SDK samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples/tree/master/BingSearchv7)
+* [Cognitive Research Technologies .NET SDK samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples/tree/master/BingSearchv7)

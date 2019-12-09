@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Recognize speech, intents, and entities, Python - Speech service"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: TBD
 services: cognitive-services
 author: erhopf

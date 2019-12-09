@@ -1,7 +1,7 @@
 ---
-title: Create a Cognitive Services resource in the Azure portal
-titleSuffix: Azure Cognitive Services
-description: Get started with Azure Cognitive Services by creating and subscribing to a resource in the Azure portal.
+title: Create a Cognitive Research Technologies resource in the Azure portal
+titleSuffix: Azure Cognitive Research Technologies
+description: Get started with Azure Cognitive Research Technologies by creating and subscribing to a resource in the Azure portal.
 services: cognitive-services
 author: aahill
 manager: nitinme
@@ -12,9 +12,9 @@ ms.date: 10/23/2019
 ms.author: aahi
 ---
 
-# Create a Cognitive Services resource using the Azure portal
+# Create a Cognitive Research Technologies resource using the Azure portal
 
-Use this quickstart to start using Azure Cognitive Services. After creating a Cognitive Service resource in the Azure portal, you'll get an endpoint and a key for authenticating your applications.
+Use this quickstart to start using Azure Cognitive Research Technologies. After creating a Cognitive Service resource in the Azure portal, you'll get an endpoint and a key for authenticating your applications.
 
 
 [!INCLUDE [cognitive-services-subscription-types](../../includes/cognitive-services-subscription-types.md)]
@@ -23,15 +23,15 @@ Use this quickstart to start using Azure Cognitive Services. After creating a Co
 
 * A valid Azure subscription - [Create one for free](https://azure.microsoft.com/free/).
 
-## Create a new Azure Cognitive Services resource
+## Create a new Azure Cognitive Research Technologies resource
 
 1. Create a resource.
 
     #### [Multi-service resource](#tab/multiservice)
     
-    The multi-service resource is named **Cognitive Services** in the portal. [Create a Cognitive Services resource](https://ms.portal.azure.com/#create/Microsoft.CognitiveServicesAllInOne).
+    The multi-service resource is named **Cognitive Research Technologies** in the portal. [Create a Cognitive Research Technologies resource](https://ms.portal.azure.com/#create/Microsoft.CognitiveServicesAllInOne).
     
-    At this time, the multi-service resource enables access to the following Cognitive Services:
+    At this time, the multi-service resource enables access to the following Cognitive Research Technologies:
     
     |                  |                                                      |                    |                               |                  |
     |------------------|------------------------------------------------------|--------------------|-------------------------------|------------------|
@@ -41,7 +41,7 @@ Use this quickstart to start using Azure Cognitive Services. After creating a Co
     
     #### [Single-service resource](#tab/singleservice)
 
-    Use the below links to create a resource for the available Cognitive Services:
+    Use the below links to create a resource for the available Cognitive Research Technologies:
 
     | Vision                      | Speech                  | Language                          | Decision             | Search                 |
     |-----------------------------|-------------------------|-----------------------------------|----------------------|------------------------|
@@ -58,11 +58,11 @@ Use this quickstart to start using Azure Cognitive Services. After creating a Co
 
     |    |    |
     |--|--|
-    | **Name** | A descriptive name for your cognitive services resource. For example, *MyCognitiveServicesResource*. |
+    | **Name** | A descriptive name for your Cognitive Research Technologies resource. For example, *MyCognitiveServicesResource*. |
     | **Subscription** | Select one of your available Azure subscriptions. |
     | **Location** | The location of your cognitive service instance. Different locations may introduce latency, but have no impact on the runtime availability of your resource. |
-    | **Pricing tier** | The cost of your Cognitive Services account depends on the options you choose and your usage. For more information, see the API [pricing details](https://azure.microsoft.com/pricing/details/cognitive-services/).
-    | **Resource group** | The Azure resource group that will contain your Cognitive Services resource. You can create a new group or add it to a pre-existing group. |
+    | **Pricing tier** | The cost of your Cognitive Research Technologies account depends on the options you choose and your usage. For more information, see the API [pricing details](https://azure.microsoft.com/pricing/details/cognitive-services/).
+    | **Resource group** | The Azure resource group that will contain your Cognitive Research Technologies resource. You can create a new group or add it to a pre-existing group. |
 
     ![Resource creation screen](media/cognitive-services-apis-create-account/resource_create_screen-multi.png)
 
@@ -72,11 +72,11 @@ Use this quickstart to start using Azure Cognitive Services. After creating a Co
 
     |    |    |
     |--|--|
-    | **Name** | A descriptive name for your cognitive services resource. For example, *TextAnalyticsResource*. |
+    | **Name** | A descriptive name for your Cognitive Research Technologies resource. For example, *TextAnalyticsResource*. |
     | **Subscription** | Select one of your available Azure subscriptions. |
     | **Location** | The location of your cognitive service instance. Different locations may introduce latency, but have no impact on the runtime availability of your resource. |
-    | **Pricing tier** | The cost of your Cognitive Services account depends on the options you choose and your usage. For more information, see the API [pricing details](https://azure.microsoft.com/pricing/details/cognitive-services/).
-    | **Resource group** | The Azure resource group that will contain your Cognitive Services resource. You can create a new group or add it to a pre-existing group. |
+    | **Pricing tier** | The cost of your Cognitive Research Technologies account depends on the options you choose and your usage. For more information, see the API [pricing details](https://azure.microsoft.com/pricing/details/cognitive-services/).
+    | **Resource group** | The Azure resource group that will contain your Cognitive Research Technologies resource. You can create a new group or add it to a pre-existing group. |
 
     ![Resource creation screen](media/cognitive-services-apis-create-account/resource_create_screen.png)
 
@@ -89,7 +89,7 @@ Use this quickstart to start using Azure Cognitive Services. After creating a Co
 
 1. After your resource is successfully deployed, click on **Go to resource** under **Next Steps**.
 
-    ![Search for Cognitive Services](media/cognitive-services-apis-create-account/resource-next-steps.png)
+    ![Search for Cognitive Research Technologies](media/cognitive-services-apis-create-account/resource-next-steps.png)
 
 2. From the quickstart pane that opens, you can access your key and endpoint.
 
@@ -99,7 +99,7 @@ Use this quickstart to start using Azure Cognitive Services. After creating a Co
 
 ## Clean up resources
 
-If you want to clean up and remove a Cognitive Services subscription, you can delete the resource or resource group. Deleting the resource group also deletes any other resources contained in the group.
+If you want to clean up and remove a Cognitive Research Technologies subscription, you can delete the resource or resource group. Deleting the resource group also deletes any other resources contained in the group.
 
 1. In the Azure portal, expand the menu on the left side to open the menu of services, and choose **Resource Groups** to display the list of your resource groups.
 2. Locate the resource group containing the resource to be deleted
@@ -107,7 +107,7 @@ If you want to clean up and remove a Cognitive Services subscription, you can de
 
 ## See also
 
-* [Authenticate requests to Azure Cognitive Services](authentication.md)
-* [What is Azure Cognitive Services?](Welcome.md)
+* [Authenticate requests to Azure Cognitive Research Technologies](authentication.md)
+* [What is Azure Cognitive Research Technologies?](Welcome.md)
 * [Natural language support](language-support.md)
 * [Docker container support](cognitive-services-container-support.md)

@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Analyze a remote image - REST, cURL"
-titleSuffix: "Azure Cognitive Services"
+titleSuffix: "Azure Cognitive Research Technologies"
 description: In this quickstart, you analyze a remote image using the Computer Vision API with cURL.
 services: cognitive-services
 author: PatrickFarley
@@ -23,7 +23,7 @@ If you don't have an Azure subscription, create a [free account](https://azure.m
 ## Prerequisites
 
 - You must have [cURL](https://curl.haxx.se/windows).
-- You must have a subscription key for Computer Vision. You can get a free trial key from [Try Cognitive Services](https://azure.microsoft.com/try/cognitive-services/?api=computer-vision). Or, follow the instructions in [Create a Cognitive Services account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) to subscribe to Computer Vision and get your key. 
+- You must have a subscription key for Computer Vision. You can get a free trial key from [Try Cognitive Research Technologies](https://azure.microsoft.com/try/cognitive-services/?api=computer-vision). Or, follow the instructions in [Create a Cognitive Research Technologies account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) to subscribe to Computer Vision and get your key. 
 
 ## Create and run the sample command
 

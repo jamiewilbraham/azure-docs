@@ -1,6 +1,6 @@
 ---
 title: Bing Speech Support | Microsoft Docs
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Support for Bing Speech.
 services: cognitive-services
 author: nitinme
@@ -23,4 +23,4 @@ If you have questions, feedback, or suggestions about Bing Speech, you can reach
  - [C# service library-related questions](https://github.com/Azure-Samples/Cognitive-Speech-STT-ServiceLibrary/issues)
  - [Java library on Android-related questions](https://github.com/Azure-Samples/Cognitive-Speech-STT-Android/issues)
  - [Objective-C library on iOS](https://github.com/Azure-Samples/Cognitive-Speech-STT-iOS/issues)
- - General questions: [Cognitive Services UserVoice forum](https://cognitive.uservoice.com/)
+ - General questions: [Cognitive Research Technologies UserVoice forum](https://cognitive.uservoice.com/)

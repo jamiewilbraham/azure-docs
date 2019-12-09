@@ -1,6 +1,6 @@
 ---
 title: Glossary - Custom Translator
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The Custom Translator Glossary will help you understand the terms used in the articles while you learn how to use the service.
 author: swmachan
 manager: nitinme

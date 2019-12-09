@@ -1,6 +1,6 @@
 ---
 title: Migrate from Custom Speech Service to Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The Custom Speech Service is now part of the Speech service. Switch to the Speech service to benefit from the latest quality and feature updates.
 services: cognitive-services
 author: PanosPeriorellis

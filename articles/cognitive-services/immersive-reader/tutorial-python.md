@@ -1,6 +1,6 @@
 ﻿---
 title: "Tutorial: Launch the Immersive Reader using Python"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this tutorial, you'll create a Python application that launches the Immersive Reader.
 services: cognitive-services
 author: dylankil

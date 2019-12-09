@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Create a new app in the LUIS portal" 
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this quickstart, you create the basic parts of an app, intents, and entities as well as test with sample utterance in the LUIS portal. 
 services: cognitive-services
 author: diberry

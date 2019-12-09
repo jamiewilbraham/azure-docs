@@ -1,6 +1,6 @@
 ---
 title: "Check images against custom lists in C# - Content Moderator"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: How to moderate images with custom image lists using the Content Moderator SDK for C#.
 services: cognitive-services
 author: PatrickFarley

@@ -1,7 +1,7 @@
 ---
 title: Use Docker Compose to deploy multiple containers
-titleSuffix: Azure Cognitive Services
-description: Learn how to deploy multiple Cognitive Services containers. This article shows you how to orchestrate multiple Docker container images by using Docker Compose.
+titleSuffix: Azure Cognitive Research Technologies
+description: Learn how to deploy multiple Cognitive Research Technologies containers. This article shows you how to orchestrate multiple Docker container images by using Docker Compose.
 services: cognitive-services
 author: IEvangelist
 manager: nitinme
@@ -17,7 +17,7 @@ ms.author: dapine
 
 # Use Docker Compose to deploy multiple containers
 
-This article shows you how to deploy multiple Azure Cognitive Services containers. Specifically, you'll learn how to use Docker Compose to orchestrate multiple Docker container images.
+This article shows you how to deploy multiple Azure Cognitive Research Technologies containers. Specifically, you'll learn how to use Docker Compose to orchestrate multiple Docker container images.
 
 > [Docker Compose](https://docs.docker.com/compose/) is a tool for defining and running multi-container Docker applications. In Compose, you use a YAML file to configure your application’s services. Then, you create and start all the services from your configuration by running a single command.
 
@@ -32,11 +32,11 @@ This procedure requires several tools that must be installed and run locally:
 * An Azure resource with the correct pricing tier. Only the following pricing tiers work with this container:
   * **Computer Vision** resource with F0 or Standard pricing tier only.
   * **Form Recognizer** resource with F0 or Standard pricing tier only.
-  * **Cognitive Services** resource with the S0 pricing tier.
+  * **Cognitive Research Technologies** resource with the S0 pricing tier.
 
 ## Request access to the container registry
 
-Complete and submit the [Cognitive Services Speech Containers Request form](https://aka.ms/speechcontainerspreview/). 
+Complete and submit the [Cognitive Research Technologies Speech Containers Request form](https://aka.ms/speechcontainerspreview/). 
 
 [!INCLUDE [Request access to the container registry](../../../includes/cognitive-services-containers-request-access-only.md)]
 
@@ -183,4 +183,4 @@ Open a browser on the host machine and go to **localhost** by using the specifie
 ## Next steps
 
 > [!div class="nextstepaction"]
-> [Cognitive Services containers](../cognitive-services-container-support.md)
+> [Cognitive Research Technologies containers](../cognitive-services-container-support.md)

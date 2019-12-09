@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Perform a news search with C# - Bing News Search REST API"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to send a request to the Bing News Search REST API using C#, and receive a JSON response.
 services: cognitive-services
 author: aahill
@@ -27,7 +27,7 @@ While this application is written in C#, the API is a RESTful Web service compat
 
 [!INCLUDE [cognitive-services-bing-news-search-signup-requirements](../../../includes/cognitive-services-bing-news-search-signup-requirements.md)]
 
-See also [Cognitive Services Pricing - Bing Search API](https://azure.microsoft.com/pricing/details/cognitive-services/search-api/).
+See also [Cognitive Research Technologies Pricing - Bing Search API](https://azure.microsoft.com/pricing/details/cognitive-services/search-api/).
 
 ## Create and initialize a project
 

@@ -1,7 +1,7 @@
 ---
 title: Translator Text API Translate Method
-titleSuffix: Azure Cognitive Services
-description: Understand the parameters, headers and body messages for the Azure Cognitive Services Translator Text API Translate method to translate text.
+titleSuffix: Azure Cognitive Research Technologies
+description: Understand the parameters, headers and body messages for the Azure Cognitive Research Technologies Translator Text API Translate method to translate text.
 services: cognitive-services
 author: swmachan
 manager: nitinme

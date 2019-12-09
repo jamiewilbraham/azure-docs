@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Synthesize speech, Objective-C - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to synthesize speech in Objective-C on macOS using the Speech SDK
 services: cognitive-services
 author: yulin-li
@@ -14,7 +14,7 @@ ms.author: yulili
 
 # Quickstart: Synthesize speech in Objective-C on macOS using the Speech SDK
 
-In this article, you learn how to create a macOS app in Objective-C using the Cognitive Services Speech SDK to synthesize speech from text and play it with the default audio output.
+In this article, you learn how to create a macOS app in Objective-C using the Cognitive Research Technologies Speech SDK to synthesize speech from text and play it with the default audio output.
 
 ## Prerequisites
 
@@ -29,7 +29,7 @@ Before you get started, here's a list of prerequisites:
 
 Note that this tutorial will not work with version of the SDK earlier than 1.7.0.
 
-The Cognitive Services Speech SDK for Mac is distributed as a framework bundle.
+The Cognitive Research Technologies Speech SDK for Mac is distributed as a framework bundle.
 It can be used in Xcode projects as a [CocoaPod](https://cocoapods.org/), or downloaded from https://aka.ms/csspeech/macosbinary and linked manually. This guide uses a CocoaPod.
 
 ## Create an Xcode project

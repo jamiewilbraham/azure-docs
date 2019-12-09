@@ -1,7 +1,7 @@
 ---
 title: Get started with the Bing Speech Recognition API by using client libraries | Microsoft Docs
-titlesuffix: Azure Cognitive Services
-description: Use the Bing Speech client libraries in Microsoft Cognitive Services to develop applications that convert spoken audio to text.
+titlesuffix: Azure Cognitive Research Technologies
+description: Use the Bing Speech client libraries in Microsoft Cognitive Research Technologies to develop applications that convert spoken audio to text.
 services: cognitive-services
 author: nitinme
 manager: nitinme
@@ -37,4 +37,4 @@ Currently, the following Bing Speech client libraries are available:
 
 ## License
 
-All Cognitive Services SDKs and samples are licensed with the MIT License. For more information, see [License](https://github.com/Microsoft/Cognitive-Speech-STT-JavaScript/blob/master/LICENSE.md).
+All Cognitive Research Technologies SDKs and samples are licensed with the MIT License. For more information, see [License](https://github.com/Microsoft/Cognitive-Speech-STT-JavaScript/blob/master/LICENSE.md).

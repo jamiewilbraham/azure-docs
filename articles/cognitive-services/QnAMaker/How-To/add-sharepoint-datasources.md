@@ -1,6 +1,6 @@
 ---
 title: SharePoint files - QnA Maker
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Add secured SharePoint data sources to your knowledge base to enrich the knowledge base with questions and answers that may be secured with Active Directory.
 services: cognitive-services
 author: diberry

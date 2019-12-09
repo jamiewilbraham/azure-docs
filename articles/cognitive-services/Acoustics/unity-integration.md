@@ -1,6 +1,6 @@
 ---
 title: Project Acoustics Unity integration and deployment
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: This article describes how to integrate the Project Acoustics Unity plug-in into your Unity project.
 services: cognitive-services
 author: NoelCross

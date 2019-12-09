@@ -1,6 +1,6 @@
 ---
 title: Speech SDK audio input stream concepts
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: An overview of the capabilities of the Speech SDK's audio input stream API.
 services: cognitive-services
 author: fmegen

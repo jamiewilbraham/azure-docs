@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting - Personalizer
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This article contains answers to frequently asked troubleshooting questions about Personalizer.
 author: diberry
 manager: nitinme

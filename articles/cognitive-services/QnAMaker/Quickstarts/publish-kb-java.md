@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Publish knowledge base, REST, Java - QnA Maker"
-titleSuffix: Azure Cognitive Services 
+titleSuffix: Azure Cognitive Research Technologies 
 description: This Java REST-based quickstart publishes your knowledge base and creates an endpoint that can be called in your application or chat bot.
 services: cognitive-services
 author: diberry

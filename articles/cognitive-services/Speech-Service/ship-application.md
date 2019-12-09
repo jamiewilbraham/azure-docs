@@ -1,6 +1,6 @@
 ---
 title: Develop apps with the Speech SDK - Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to deploy an application that uses the Speech SDK on supported platforms.
 services: cognitive-services
 author: jhakulin
@@ -16,15 +16,15 @@ ms.custom: seodec18
 
 # Ship an application
 
-Observe the [Speech SDK license](https://aka.ms/csspeech/license201809), as well as the [third-party software notices](https://csspeechstorage.blob.core.windows.net/drop/1.0.0/ThirdPartyNotices.html) when you distribute the Azure Cognitive Services Speech SDK. Also, review the [Microsoft Privacy Statement](https://aka.ms/csspeech/privacy).
+Observe the [Speech SDK license](https://aka.ms/csspeech/license201809), as well as the [third-party software notices](https://csspeechstorage.blob.core.windows.net/drop/1.0.0/ThirdPartyNotices.html) when you distribute the Azure Cognitive Research Technologies Speech SDK. Also, review the [Microsoft Privacy Statement](https://aka.ms/csspeech/privacy).
 
 Depending on the platform, different dependencies exist to execute your application.
 
 ## Windows
 
-The Cognitive Services Speech SDK is tested on Windows 10 and on Windows Server 2016.
+The Cognitive Research Technologies Speech SDK is tested on Windows 10 and on Windows Server 2016.
 
-The Cognitive Services Speech SDK requires the [Microsoft Visual C++ Redistributable for Visual Studio 2019](https://support.microsoft.com/help/2977003/the-latest-supported-visual-c-downloads) on the system. You can download installers for the latest version of the `Microsoft Visual C++ Redistributable for Visual Studio 2019` here:
+The Cognitive Research Technologies Speech SDK requires the [Microsoft Visual C++ Redistributable for Visual Studio 2019](https://support.microsoft.com/help/2977003/the-latest-supported-visual-c-downloads) on the system. You can download installers for the latest version of the `Microsoft Visual C++ Redistributable for Visual Studio 2019` here:
 
 - [Win32](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 - [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)

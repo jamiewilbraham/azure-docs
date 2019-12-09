@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Create an image classification project with the Custom Vision SDK for Node.js"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Create a project, add tags, upload images, train your project, and make a prediction using the Node.js SDK.
 services: cognitive-services
 author: areddish
@@ -82,7 +82,7 @@ const cherryTag = await trainer.createTag(sampleProject.id, "Japanese Cherry");
 To add the sample images to the project, insert the following code after the tag creation. This code uploads each image with its corresponding tag. You can upload up to 64 images in a single batch.
 
 > [!NOTE]
-> You'll need to change *sampleDataRoot* to the path to the images based on where you downloaded the Cognitive Services Node.js SDK Samples project earlier.
+> You'll need to change *sampleDataRoot* to the path to the images based on where you downloaded the Cognitive Research Technologies Node.js SDK Samples project earlier.
 
 ```javascript
 console.log("Adding images...");

@@ -1,6 +1,6 @@
 ---
 title: The Analyzers method - Lingistic Analysis API
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: The analyzers REST API provides a list of analyzers that are currently supported by the Linguistic Analysis API.
 services: cognitive-services
 author: RichardSunMS

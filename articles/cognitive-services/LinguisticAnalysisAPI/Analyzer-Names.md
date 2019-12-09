@@ -1,6 +1,6 @@
 ---
 title: Analyzer naming structure - Linguistic Analysis API
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Learn how the Linguistic Analysis API Analyzer naming structure allows for both flexibility and precision.
 services: cognitive-services
 author: RichardSunMS

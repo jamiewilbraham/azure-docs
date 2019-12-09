@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Speech SDK for C# .NET Core platform setup - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this guide to set up your platform for C# under .NET Core on Windows or macOS with the Speech service SDK.
 services: cognitive-services
 author: markamos

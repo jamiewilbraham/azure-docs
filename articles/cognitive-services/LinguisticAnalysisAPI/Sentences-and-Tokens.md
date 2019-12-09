@@ -1,6 +1,6 @@
 ---
 title: Sentences and tokens - Linguistic Analysis API
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Learn about sentence separation and tokenization in the Linguistic Analysis API.
 services: cognitive-services
 author: DavidLiCIG

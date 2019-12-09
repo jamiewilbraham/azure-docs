@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Article personalization - Custom Decision Service"
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: A tutorial for article personalization for contextual decision-making.
 services: cognitive-services
 author: slivkins

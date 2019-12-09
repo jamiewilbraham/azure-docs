@@ -1,6 +1,6 @@
 ---
 title: What is the Immersive Reader API?
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: The Immersive Reader API is a tool that can be used to accommodate people with learning differences or help new readers and language learners.
 services: cognitive-services
 author: metanMSFT
@@ -11,7 +11,7 @@ ms.subservice: immersive-reader
 ms.topic: overview
 ms.date: 06/20/2019
 ms.author: metan
-#Customer intent: As a developer, I want to learn more about the Immersive Reader, which is a new offering in Cognitive Services, so that I can embed this package of content into a document to accommodate users with reading differences.
+#Customer intent: As a developer, I want to learn more about the Immersive Reader, which is a new offering in Cognitive Research Technologies, so that I can embed this package of content into a document to accommodate users with reading differences.
 ---
 
 # What is Immersive Reader?

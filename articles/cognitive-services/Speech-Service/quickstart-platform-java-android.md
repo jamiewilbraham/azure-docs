@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Speech SDK for Java (Android) platform setup - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this guide to set up your platform for using Java (Android) with the Speech service SDK.
 services: cognitive-services
 author: markamos

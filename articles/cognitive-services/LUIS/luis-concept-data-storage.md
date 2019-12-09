@@ -1,6 +1,6 @@
 ---
 title: Data storage - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: LUIS stores data encrypted in an Azure data store corresponding to the region specified by the key. 
 services: cognitive-services
 author: diberry
@@ -13,7 +13,7 @@ ms.date: 07/29/2019
 ms.author: diberry
 ---
 
-# Data storage and removal in Language Understanding (LUIS) Cognitive Services
+# Data storage and removal in Language Understanding (LUIS) Cognitive Research Technologies
 LUIS stores data encrypted in an Azure data store corresponding to the region specified by the key. This data is stored for 30 days. 
 
 ## Export and delete app

@@ -1,6 +1,6 @@
 ---
 title: Authenticate to Bing Speech | Microsoft Docs
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Request authentication to use the Bing Speech API
 services: cognitive-services
 author: nitinme
@@ -23,7 +23,7 @@ Bing Speech supports authentication by using:
 
 ## Use a subscription key
 
-To use Speech Service, you must first subscribe to the Speech API that's part of Cognitive Services (previously Project Oxford). You can get free trial subscription keys from the [Cognitive Services subscription](https://azure.microsoft.com/try/cognitive-services/) page. After you select the Speech API, select **Get API Key** to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you can use either key.
+To use Speech Service, you must first subscribe to the Speech API that's part of Cognitive Research Technologies (previously Project Oxford). You can get free trial subscription keys from the [Cognitive Research Technologies subscription](https://azure.microsoft.com/try/cognitive-services/) page. After you select the Speech API, select **Get API Key** to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you can use either key.
 
 For long-term use or an increased quota, sign up for an [Azure account](https://azure.microsoft.com/free/).
 
@@ -54,7 +54,7 @@ Alternatively, you can use an authorization token for authentication as proof of
 
 ### Get an authorization token
 
-After you have a valid subscription key, send a POST request to the token service of Cognitive Services. In the response, you receive the authorization token as a JSON Web Token (JWT).
+After you have a valid subscription key, send a POST request to the token service of Cognitive Research Technologies. In the response, you receive the authorization token as a JSON Web Token (JWT).
 
 > [!NOTE]
 > The token has an expiration of 10 minutes. To renew the token, see the following section.
@@ -143,7 +143,7 @@ Content-Length: 0
 Connection: Keep-Alive
 ```
 
-If you cannot get an authorization token from the token service, check whether your subscription key is still valid. If you are using a free trial key, go to the [Cognitive Services subscription](https://azure.microsoft.com/try/cognitive-services/) page, click on "Log in" to login using the account that you used for applying the free trial key, and check whether the subscription key is expired or exceeds the quota.
+If you cannot get an authorization token from the token service, check whether your subscription key is still valid. If you are using a free trial key, go to the [Cognitive Research Technologies subscription](https://azure.microsoft.com/try/cognitive-services/) page, click on "Log in" to login using the account that you used for applying the free trial key, and check whether the subscription key is expired or exceeds the quota.
 
 ### Use an authorization token in a request
 

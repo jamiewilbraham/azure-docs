@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Get news using Bing News Search REST API and Go"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This quickstart uses the Go language to call the Bing News Search API. The results include names and URLs of news sources identified by the query string.
 services: cognitive-services
 author: aahill
@@ -90,7 +90,7 @@ func main() {
     // Verify the endpoint URI and replace the token string with a valid subscription key.  
     const endpoint = "https://api.cognitive.microsoft.com/bing/v7.0/news/search"
     token := "YOUR-ACCESS-KEY"
-    searchTerm := "Microsoft Cognitive Services"
+    searchTerm := "Microsoft Cognitive Research Technologies"
 
     // Declare a new GET request.
     req, err := http.NewRequest("GET", endpoint, nil)
@@ -180,7 +180,7 @@ spew.Dump(result.Name, result.URL)
 The results contain name and URL of each result.
 
 ```
-(string) (len=91) "Cognitive Services Market: Global Industry Analysis and Opportunity Assessment, 2019 - 2025"
+(string) (len=91) "Cognitive Research Technologies Market: Global Industry Analysis and Opportunity Assessment, 2019 - 2025"
 (string) (len=142) "https://www.marketwatch.com/press-release/cognitive-services-market-global-industry-analysis-and-opportunity-assessment-2019---2025-2019-02-21"
 (string) (len=104) "Microsoft calls for greater collaboration to harness the power of AI to empower people with disabilities"
 (string) (len=115) "https://indiaeducationdiary.in/microsoft-calls-greater-collaboration-harness-power-ai-empower-people-disabilities-2/"

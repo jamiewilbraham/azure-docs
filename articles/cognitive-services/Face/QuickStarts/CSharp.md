@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Detect faces in an image with the Azure REST API and C#"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this quickstart, you will use the Azure Face REST API with C# to detect faces in an image.
 services: cognitive-services
 author: PatrickFarley
@@ -22,7 +22,7 @@ If you don't have an Azure subscription, create a [free account](https://azure.m
 
 ## Prerequisites
 
-- A Face API subscription key. You can get a free trial subscription key from [Try Cognitive Services](https://azure.microsoft.com/try/cognitive-services/?api=face-api). Or, follow the instructions in [Create a Cognitive Services account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) to subscribe to the Face API service and get your key.
+- A Face API subscription key. You can get a free trial subscription key from [Try Cognitive Research Technologies](https://azure.microsoft.com/try/cognitive-services/?api=face-api). Or, follow the instructions in [Create a Cognitive Research Technologies account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) to subscribe to the Face API service and get your key.
 - Any edition of [Visual Studio 2015 or 2017](https://www.visualstudio.com/downloads/).
 
 ## Create the Visual Studio project

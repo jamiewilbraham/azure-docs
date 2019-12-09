@@ -1,6 +1,6 @@
 ---
 title: Train a model for Custom Speech - Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Training a speech-to-text model can improve recognition accuracy for Microsoft's baseline model or a custom model. A model is trained using human-labeled transcriptions and related text.
 services: cognitive-services
 author: erhopf

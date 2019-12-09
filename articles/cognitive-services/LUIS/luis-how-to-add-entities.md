@@ -1,6 +1,6 @@
 ---
 title: Add entities - LUIS
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Create entities to extract key data from user utterances in Language Understanding (LUIS) apps. Extracted entity data is used by the client application to fullfil customer requests. 
 services: cognitive-services
 author: diberry

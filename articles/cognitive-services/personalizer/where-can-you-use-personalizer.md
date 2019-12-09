@@ -1,6 +1,6 @@
 ---
 title: Scenario assessment - Personalizer
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Personalizer can be applied in any situation where your application can select the right item, action, or product to display - in order to make the experience better, achieve better business results, or improve productivity.
 services: cognitive-services
 author: diberry

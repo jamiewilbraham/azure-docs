@@ -1,6 +1,6 @@
 ---
 title: Get started with the Microsoft Speech Recognition API by using the C# service library | Microsoft Docs
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Use the Bing Speech recognition service library to convert spoken language to text.
 services: cognitive-services
 author: nitinme
@@ -34,7 +34,7 @@ Clone the sample from the [Speech C# service library sample](https://github.com/
 
 ### Subscribe to the Speech Recognition API, and get a free trial subscription key
 
-The Speech API is part of Cognitive Services (previously Project Oxford). You can get free trial subscription keys from the [Cognitive Services subscription](https://azure.microsoft.com/try/cognitive-services/) page. After you select the Speech API, select **Get API Key** to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you can use either key.
+The Speech API is part of Cognitive Research Technologies (previously Project Oxford). You can get free trial subscription keys from the [Cognitive Research Technologies subscription](https://azure.microsoft.com/try/cognitive-services/) page. After you select the Speech API, select **Get API Key** to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you can use either key.
 
 > [!IMPORTANT]
 > * Get a subscription key. Before you can use the Speech client libraries, you must have a [subscription key](https://azure.microsoft.com/try/cognitive-services/).
@@ -85,7 +85,7 @@ To create a SpeechClient, you need to first create a Preferences object. The Pre
 
 * `SpeechLanguage`: The locale of the audio sent to the speech service.
 * `ServiceUri`: The endpoint used to call the speech service.
-* `AuthorizationProvider`: An IAuthorizationProvider implementation used to fetch tokens in order to access the speech service. Although the sample provides a Cognitive Services authorization provider, we highly recommend that you create your own implementation to handle token caching.
+* `AuthorizationProvider`: An IAuthorizationProvider implementation used to fetch tokens in order to access the speech service. Although the sample provides a Cognitive Research Technologies authorization provider, we highly recommend that you create your own implementation to handle token caching.
 * `EnableAudioBuffering`: An advanced option. See [Connection management](#connection-management).
 
 ### Speech input

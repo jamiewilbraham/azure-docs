@@ -1,6 +1,6 @@
 ---
 title: Real time Conversation Transcription (Preview) - Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to use real-time Conversation Transcription with the Speech SDK. Available for C++, C#, and Java.
 services: cognitive-services
 author: markamos

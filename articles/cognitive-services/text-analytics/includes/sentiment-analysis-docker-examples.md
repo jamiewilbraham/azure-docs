@@ -1,6 +1,6 @@
 ---
 title: Sentiment Analysis container docker examples
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Sentiment Analysis container docker examples
 services: cognitive-services
 author: IEvangelist

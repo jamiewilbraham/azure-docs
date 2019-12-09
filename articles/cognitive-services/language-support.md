@@ -1,7 +1,7 @@
 ---
 title: Language support
-titleSuffix: Azure Cognitive Services
-description: Azure Cognitive Services enables you to build applications that see, hear, speak with, and understand your users. Between these services, more than three dozen languages are supported, allowing users to communicate with your application in natural ways.
+titleSuffix: Azure Cognitive Research Technologies
+description: Azure Cognitive Research Technologies enables you to build applications that see, hear, speak with, and understand your users. Between these services, more than three dozen languages are supported, allowing users to communicate with your application in natural ways.
 services: cognitive-services
 author: erhopf
 manager: nitinme
@@ -12,15 +12,15 @@ ms.author: erhopf
 ms.custom: seodec18
 ---
 
-# Natural language support for Azure Cognitive Services
+# Natural language support for Azure Cognitive Research Technologies
 
-Azure Cognitive Services enables you to build applications that see, hear, speak with, and understand your users. Between these services, more than three dozen languages are supported, allowing users to communicate with your application in natural ways.
+Azure Cognitive Research Technologies enables you to build applications that see, hear, speak with, and understand your users. Between these services, more than three dozen languages are supported, allowing users to communicate with your application in natural ways.
 
-This article is broken into two sections. The first lists core languages commonly supported across Azure Cognitive Services. The second section focuses on additional language support for each of the services. Language availability may vary by country/region and market.
+This article is broken into two sections. The first lists core languages commonly supported across Azure Cognitive Research Technologies. The second section focuses on additional language support for each of the services. Language availability may vary by country/region and market.
 
 ## Core languages
 
-These core languages are supported across Azure Cognitive Services:
+These core languages are supported across Azure Cognitive Research Technologies:
 
 * Chinese
 * English
@@ -83,7 +83,7 @@ These tables highlight language availability by service category; core languages
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | [Content Moderator: Text Filtering](https://docs.microsoft.com/azure/cognitive-services/content-moderator/text-moderation-api-languages) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
-The following Cognitive Services are language agnostic and don't have limitations based on language.
+The following Cognitive Research Technologies are language agnostic and don't have limitations based on language.
 
 * [Personalizer](https://docs.microsoft.com/azure/cognitive-services/personalizer/)
 * [Anomaly Detector (Preview)](https://docs.microsoft.com/azure/cognitive-services/anomaly-detector/overview)
@@ -91,5 +91,5 @@ The following Cognitive Services are language agnostic and don't have limitation
 
 ## See also
 
-* [What is Cognitive Services?](welcome.md)
+* [What is Cognitive Research Technologies?](welcome.md)
 * [Create an account](cognitive-services-apis-create-account.md)

@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Synthesize speech, C++ (Windows) - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to synthesize speech in C++ on Windows Desktop by using the Speech SDK
 services: cognitive-services
 author: yinhew

@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Search for videos using the SDK for Python - Bing Video Search"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to send video search requests using the Bing Video Search SDK for Python
 services: cognitive-services
 author: aahill
@@ -90,4 +90,4 @@ client = VideoSearchAPI(CognitiveServicesCredentials(subscription_key))
 ## See also 
 
 - [What is the Bing Video Search API?](../overview.md)
-- [Cognitive services .NET SDK samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples/tree/master/BingSearchv7)
+- [Cognitive Research Technologies .NET SDK samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples/tree/master/BingSearchv7)

@@ -1,7 +1,7 @@
 ---
 title: External & community content for Text Analytics API
-titleSuffix: Azure Cognitive Services
-description: Partner blogs, YouTube videos, training for Azure Cognitive Services Text Analytics API.
+titleSuffix: Azure Cognitive Research Technologies
+description: Partner blogs, YouTube videos, training for Azure Cognitive Research Technologies Text Analytics API.
 services: cognitive-services
 author: aahill
 manager: nitinme
@@ -20,9 +20,9 @@ ms.author: aahi
 
 + [Text Analytics API original announcement (Azure blog)](https://blogs.technet.microsoft.com/machinelearning/2015/04/08/introducing-text-analytics-in-the-azure-ml-marketplace/)
 
-+ [Using Text Analytics Key Phrase Cognitive Services API from PowerShell (AutomationNext blog)](https://automationnext.wordpress.com/tag/text-analytics/)
++ [Using Text Analytics Key Phrase Cognitive Research Technologies API from PowerShell (AutomationNext blog)](https://automationnext.wordpress.com/tag/text-analytics/)
 
-+ [R Quick tip: Microsoft Cognitive Services’ Text Analytics API (R Bloggers)](https://www.r-bloggers.com/r-quick-tip-microsoft-cognitive-services-text-analytics-api/)
++ [R Quick tip: Microsoft Cognitive Research Technologies’ Text Analytics API (R Bloggers)](https://www.r-bloggers.com/r-quick-tip-microsoft-cognitive-services-text-analytics-api/)
 
 + [Sentiment analysis in Logic App using SQL Server data (TechNet blog)](https://social.technet.microsoft.com/wiki/contents/articles/36074.logic-apps-with-azure-cognitive-service.aspx)
 
@@ -34,9 +34,9 @@ ms.author: aahi
 
 + [Logic App to detect sentiment and extract key phrases from your text](https://www.youtube.com/watch?v=jVN9NObAzgk)
 
-+ [Sentiment Analysis using Power BI and Microsoft Cognitive Services](https://www.youtube.com/watch?v=gJ1j3N7Y75k)
++ [Sentiment Analysis using Power BI and Microsoft Cognitive Research Technologies](https://www.youtube.com/watch?v=gJ1j3N7Y75k)
 
-+ [Text analytics extract key phrases using Power BI and Microsoft Cognitive Services](https://www.youtube.com/watch?v=R_-1TB2BF14)
++ [Text analytics extract key phrases using Power BI and Microsoft Cognitive Research Technologies](https://www.youtube.com/watch?v=R_-1TB2BF14)
 
 ## Next steps
 
@@ -45,4 +45,4 @@ Are you looking for information about a feature or use-case that we don't cover?
 ## See also
 
  [StackOverflow: Azure Text Analytics API](https://stackoverflow.com/questions/tagged/text-analytics-api)   
- [StackOverflow: Azure Cognitive Services](https://stackoverflow.com/questions/tagged/microsoft-cognitive)
+ [StackOverflow: Azure Cognitive Research Technologies](https://stackoverflow.com/questions/tagged/microsoft-cognitive)

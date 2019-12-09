@@ -1,6 +1,6 @@
 ---
 title: Brand detection - Computer Vision
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This article discusses a specialized mode of object detection; brand and/or logo detection using the Computer Vision API.
 services: cognitive-services
 author: PatrickFarley

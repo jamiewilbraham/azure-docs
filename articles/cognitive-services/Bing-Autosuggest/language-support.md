@@ -1,6 +1,6 @@
 ---
 title: Language support - Bing Autosuggest API
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: A list of supported languages and regions for the Bing Autosuggest API.
 services: cognitive-services
 author: swhite-msft
@@ -62,5 +62,5 @@ The following lists the languages supported by Bing Autosuggest API.
 
 ## See also
 
-- [Azure Cognitive Services Documentation page](https://docs.microsoft.com/azure/cognitive-services/)
-- [Azure Cognitive Services Product page](https://azure.microsoft.com/services/cognitive-services/)
+- [Azure Cognitive Research Technologies Documentation page](https://docs.microsoft.com/azure/cognitive-services/)
+- [Azure Cognitive Research Technologies Product page](https://azure.microsoft.com/services/cognitive-services/)

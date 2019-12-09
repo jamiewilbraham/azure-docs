@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Recognize speech from an audio file, C++ (Windows) - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to recognize speech in C++ on Windows Desktop by using the Speech SDK
 services: cognitive-services
 author: wolfma61

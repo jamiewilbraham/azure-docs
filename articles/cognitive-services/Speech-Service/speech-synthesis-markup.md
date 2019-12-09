@@ -1,6 +1,6 @@
 ---
 title: Speech Synthesis Markup Language (SSML) - Speech service
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Using the Speech Synthesis Markup Language to control pronunciation and prosody in text-to-speech.
 services: cognitive-services
 author: erhopf
@@ -195,7 +195,7 @@ Use the `break` element to insert pauses (or breaks) between words, or prevent p
 ```xml
 <speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="en-US">
     <voice  name="en-US-Jessa24kRUS">
-        Welcome to Microsoft Cognitive Services <break time="100ms" /> Text-to-Speech API.
+        Welcome to Microsoft Cognitive Research Technologies <break time="100ms" /> Text-to-Speech API.
     </voice>
 </speak>
 ```
@@ -302,7 +302,7 @@ Speaking rate can be applied to standard voices at the word or sentence-level. W
 <speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="en-US">
     <voice  name="en-US-Guy24kRUS">
         <prosody rate="+30.00%">
-            Welcome to Microsoft Cognitive Services Text-to-Speech API.
+            Welcome to Microsoft Cognitive Research Technologies Text-to-Speech API.
         </prosody>
     </voice>
 </speak>
@@ -318,7 +318,7 @@ Volume changes can be applied to standard voices at the word or sentence-level. 
 <speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="en-US">
     <voice  name="en-US-Jessa24kRUS">
         <prosody volume="+20.00%">
-            Welcome to Microsoft Cognitive Services Text-to-Speech API.
+            Welcome to Microsoft Cognitive Research Technologies Text-to-Speech API.
         </prosody>
     </voice>
 </speak>
@@ -333,7 +333,7 @@ Pitch changes can be applied to standard voices at the word or sentence-level. W
 ```xml
 <speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="en-US">
     <voice  name="en-US-Guy24kRUS">
-        Welcome to <prosody pitch="high">Microsoft Cognitive Services Text-to-Speech API.</prosody>
+        Welcome to <prosody pitch="high">Microsoft Cognitive Research Technologies Text-to-Speech API.</prosody>
     </voice>
 </speak>
 ```

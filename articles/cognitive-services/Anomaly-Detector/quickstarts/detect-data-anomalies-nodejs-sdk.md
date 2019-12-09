@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Detect data anomalies using the Anomaly Detector client library for Python"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use the Anomaly Detector API to detect abnormalities in your data series either as a batch or on streaming data.
 services: cognitive-services
 author: aahill

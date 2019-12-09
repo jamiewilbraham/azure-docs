@@ -1,6 +1,6 @@
 ---
 title: What's new - Personalizer
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This article contains news about Personalizer.
 author: diberry
 manager: nitinme
@@ -32,11 +32,11 @@ The following preview features were released at the Build 2019 Conference:
 
 ### 2019 Build videos
 
-* [Deliver the Right Experiences & Content like Xbox with Cognitive Services Personalizer](https://mybuild.techcommunity.microsoft.com/sessions/76970?source=sessions#top-anchor)
+* [Deliver the Right Experiences & Content like Xbox with Cognitive Research Technologies Personalizer](https://mybuild.techcommunity.microsoft.com/sessions/76970?source=sessions#top-anchor)
 
 ## Service updates
 
-[Azure update announcements for Cognitive Services](https://azure.microsoft.com/updates/?product=cognitive-services)
+[Azure update announcements for Cognitive Research Technologies](https://azure.microsoft.com/updates/?product=cognitive-services)
 
 ## Next steps
 

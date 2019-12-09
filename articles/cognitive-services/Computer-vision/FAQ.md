@@ -1,7 +1,7 @@
 ---
 title: Frequently asked questions - Computer Vision
-titleSuffix: Azure Cognitive Services
-description: Get answers to frequently asked questions about the Computer Vision API in Azure Cognitive Services.
+titleSuffix: Azure Cognitive Research Technologies
+description: Get answers to frequently asked questions about the Computer Vision API in Azure Cognitive Research Technologies.
 services: cognitive-services
 author: KellyDF
 manager: nitinme

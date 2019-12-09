@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Create a Custom Command (Preview) - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: In this article, you create and test a hosted Custom Commands application.
 services: cognitive-services
 author: donkim

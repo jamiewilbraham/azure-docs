@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Synthesize speech - Speech service'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to synthesize speech using the Speech SDK
 services: cognitive-services
 author: yulin-li

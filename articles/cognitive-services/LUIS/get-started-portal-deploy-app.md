@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Deploy an app with the LUIS portal" 
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This quickstart shows how to deploy an app by creating a prediction endpoint resource, assigning the resource, training, and publishing the app. 
 services: cognitive-services
 author: diberry

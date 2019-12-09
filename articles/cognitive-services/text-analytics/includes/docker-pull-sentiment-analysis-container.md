@@ -1,6 +1,6 @@
 ---
 title: Docker pull for the Sentiment Analysis container
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Docker pull command for Sentiment Analysis container
 services: cognitive-services
 author: IEvangelist

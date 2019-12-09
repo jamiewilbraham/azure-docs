@@ -1,6 +1,6 @@
 ---
 title: Diagnostic logging
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This guide provides step-by-step instructions to enable diagnostic logging for an Azure Cognitive Service. These logs provide rich, frequent data about the operation of a resource that are used for issue identification and debugging.
 services: cognitive-services
 author: erhopf
@@ -11,7 +11,7 @@ ms.date: 06/14/2019
 ms.author: erhopf
 ---
 
-# Enable diagnostic logging for Azure Cognitive Services
+# Enable diagnostic logging for Azure Cognitive Research Technologies
 
 This guide provides step-by-step instructions to enable diagnostic logging for an Azure Cognitive Service. These logs provide rich, frequent data about the operation of a resource that are used for issue identification and debugging. Before you continue, you must have an Azure account with a subscription to at least one Cognitive Service, such as [Bing Web Search](https://docs.microsoft.com/azure/cognitive-services/bing-web-search/overview), [Speech Services](https://docs.microsoft.com/azure/cognitive-services/speech-service/overview), or [LUIS](https://docs.microsoft.com/azure/cognitive-services/luis/what-is-luis).
 
@@ -32,7 +32,7 @@ Let's start by enabling diagnostic logging using the Azure portal.
 > [!NOTE]
 > To enable this feature using PowerShell or the Azure CLI, use the instructions provided in [Collect and consume log data from your Azure resources](https://docs.microsoft.com/azure/azure-monitor/platform/diagnostic-logs-overview).
 
-1. Navigate to the Azure portal. Then locate and select a Cognitive Services resource. For example, your subscription to Bing Web Search.   
+1. Navigate to the Azure portal. Then locate and select a Cognitive Research Technologies resource. For example, your subscription to Bing Web Search.   
 2. Next, from the left-hand navigation menu, locate **Monitoring** and select **Diagnostic settings**. This screen contains all previously created diagnostic settings for this resource.
 3. If there is a previously created resource that you'd like to use, you can select it now. Otherwise, select **+ Add diagnostic setting**.
 4. Enter a name for the setting. Then select **Archive to a storage account** and **Send to log Analytics**.
@@ -65,7 +65,7 @@ Follow these instructions to explore log analytics data for your resource.
 
 Here are a few basic Kusto queries you can use to explore your log data.
 
-Run this query for all diagnostic logs from Azure Cognitive Services for a specified time period:
+Run this query for all diagnostic logs from Azure Cognitive Research Technologies for a specified time period:
 
 ```kusto
 AzureDiagnostics

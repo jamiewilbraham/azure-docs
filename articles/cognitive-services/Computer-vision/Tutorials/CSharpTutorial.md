@@ -1,7 +1,7 @@
 ---
 title: "Sample: Explore an image processing app in C#"
-titleSuffix: Azure Cognitive Services
-description: Explore a basic Windows app that uses the Computer Vision API in Azure Cognitive Services. Perform OCR, create thumbnails, and work with visual features in an image.
+titleSuffix: Azure Cognitive Research Technologies
+description: Explore a basic Windows app that uses the Computer Vision API in Azure Cognitive Research Technologies. Perform OCR, create thumbnails, and work with visual features in an image.
 services: cognitive-services
 author: PatrickFarley
 manager: nolachar
@@ -28,7 +28,7 @@ Explore a basic Windows application that uses Computer Vision to perform optical
 Before exploring the sample app, ensure that you've met the following prerequisites:
 
 * You must have [Visual Studio 2015](https://visualstudio.microsoft.com/downloads/) or later.
-* You must have a subscription key for Computer Vision. You can get a free trial key from [Try Cognitive Services](https://azure.microsoft.com/try/cognitive-services/?api=computer-vision). Or, follow the instructions in [Create a Cognitive Services account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) to subscribe to Computer Vision and get your key. Take note of the service endpoint URL as well.
+* You must have a subscription key for Computer Vision. You can get a free trial key from [Try Cognitive Research Technologies](https://azure.microsoft.com/try/cognitive-services/?api=computer-vision). Or, follow the instructions in [Create a Cognitive Research Technologies account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) to subscribe to Computer Vision and get your key. Take note of the service endpoint URL as well.
 
 ## Get the sample app
 
@@ -103,7 +103,7 @@ You can run the sample app, to see how it interacts with you and with the Comput
 The Visual Studio solution for the Computer Vision sample app contains two projects:
 
 * SampleUserControlLibrary  
-  The SampleUserControlLibrary project provides functionality shared by multiple Cognitive Services samples. The project contains the following:
+  The SampleUserControlLibrary project provides functionality shared by multiple Cognitive Research Technologies samples. The project contains the following:
   * SampleScenarios  
     A UserControl that provides a standardized presentation, such as the title bar, navigation pane, and content pane, for samples. The Computer Vision sample app uses this control in the MainWindow.xaml window to display scenario pages and access information shared across scenarios, such as the subscription key and endpoint URL.
   * SubscriptionKeyPage  
@@ -147,7 +147,7 @@ private async Task<ImageAnalysis> UploadAndAnalyzeImageAsync(string imageFilePat
     // -----------------------------------------------------------------------
 
     //
-    // Create Cognitive Services Vision API Service client.
+    // Create Cognitive Research Technologies Vision API Service client.
     //
     using (var client = new ComputerVisionClient(Credentials) { Endpoint = Endpoint })
     {
@@ -174,7 +174,7 @@ private async Task<ImageAnalysis> UploadAndAnalyzeImageAsync(string imageFilePat
 
 ### Explore the client library
 
-This sample app uses the Computer Vision API client library, a thin C# client wrapper for the Computer Vision API in Azure Cognitive Services. The client library is available from NuGet in the [Microsoft.Azure.CognitiveServices.Vision.ComputerVision](https://www.nuget.org/packages/Microsoft.Azure.CognitiveServices.Vision.ComputerVision/) package. When you built the Visual Studio application, you retrieved the client library from its corresponding NuGet package. You can also view the source code for the client library in the `/ClientLibrary` folder of the `Microsoft/Cognitive-Vision-Windows` repository.
+This sample app uses the Computer Vision API client library, a thin C# client wrapper for the Computer Vision API in Azure Cognitive Research Technologies. The client library is available from NuGet in the [Microsoft.Azure.CognitiveServices.Vision.ComputerVision](https://www.nuget.org/packages/Microsoft.Azure.CognitiveServices.Vision.ComputerVision/) package. When you built the Visual Studio application, you retrieved the client library from its corresponding NuGet package. You can also view the source code for the client library in the `/ClientLibrary` folder of the `Microsoft/Cognitive-Vision-Windows` repository.
 
 The client library's functionality centers around the `ComputerVisionClient` class, in the `Microsoft.Azure.CognitiveServices.Vision.ComputerVision` namespace, while the models used by the `ComputerVisionClient` class when interacting with Computer Vision are found in the `Microsoft.Azure.CognitiveServices.Vision.ComputerVision.Models` namespace. In the various XAML scenario pages included with the sample app, you'll find the following `using` directives for those namespaces:
 

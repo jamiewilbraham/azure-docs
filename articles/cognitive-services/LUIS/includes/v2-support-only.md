@@ -1,6 +1,6 @@
 ---
 title: Features supported in V2 prediction endpoint but not supported in V3 prediction endpoint
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 services: cognitive-services
 author: diberry
 manager: nitinme

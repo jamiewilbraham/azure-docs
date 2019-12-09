@@ -1,6 +1,6 @@
 ---
 title: Reinforcement Learning - Personalizer
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Personalizer uses information about actions and current context to make better ranking suggestions. The information about these actions and context are attributes or properties that are referred to as features.
 services: cognitive-services
 author: diberry

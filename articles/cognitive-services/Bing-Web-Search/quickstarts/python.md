@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Perform a search with Python - Bing Web Search API"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Use this quickstart to send requests to the Bing Web Search REST API using Python, and receive a JSON response
 services: cognitive-services
 author: aahill
@@ -46,7 +46,7 @@ search_url = "https://api.cognitive.microsoft.com/bing/v7.0/search"
 Feel free to customize the search query by replacing the value for `search_term`.
 
 ```python
-search_term = "Azure Cognitive Services"
+search_term = "Azure Cognitive Research Technologies"
 ```
 
 ## Make a request

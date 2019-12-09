@@ -1,6 +1,6 @@
 ---
 title: Get started with the Bing Speech Recognition API in Objective-C on iOS | Microsoft Docs
-titlesuffix: Azure Cognitive Services
+titlesuffix: Azure Cognitive Research Technologies
 description: Use the Bing Speech Recognition API to develop iOS applications that convert spoken audio to text.
 services: cognitive-services
 author: nitinme
@@ -32,7 +32,7 @@ The Speech client library and examples for iOS are available on the [Speech clie
 
 ### Subscribe to the Speech Recognition API, and get a free trial subscription key
 
-The Speech API is part of Cognitive Services (previously Project Oxford). You can get free trial subscription keys from the [Cognitive Services subscription](https://azure.microsoft.com/try/cognitive-services/) page. After you select the Speech API, select **Get API Key** to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you can use either key.
+The Speech API is part of Cognitive Research Technologies (previously Project Oxford). You can get free trial subscription keys from the [Cognitive Research Technologies subscription](https://azure.microsoft.com/try/cognitive-services/) page. After you select the Speech API, select **Get API Key** to get the key. It returns a primary and secondary key. Both keys are tied to the same quota, so you can use either key.
 
 If you want to use *recognition with intent*, you also need to sign up for the [Language Understanding Intelligent Service (LUIS)](https://azure.microsoft.com/services/cognitive-services/language-understanding-intelligent-service/).
 

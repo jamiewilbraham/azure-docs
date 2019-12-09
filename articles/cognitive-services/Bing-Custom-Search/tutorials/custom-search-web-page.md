@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Create a custom search web page - Bing Custom Search"
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: Learn how to configure a custom Bing search instance and integrate it into a web page.
 services: cognitive-services
 author: aahill
@@ -30,7 +30,7 @@ The tasks covered are:
 
 ## Prerequisites
 
-- To follow along with the tutorial, you need a subscription key for the Bing Custom Search API.  To get a key, see [Try Cognitive Services](https://azure.microsoft.com/try/cognitive-services/?api=bing-custom-search).
+- To follow along with the tutorial, you need a subscription key for the Bing Custom Search API.  To get a key, see [Try Cognitive Research Technologies](https://azure.microsoft.com/try/cognitive-services/?api=bing-custom-search).
 - If you don’t already have Visual Studio 2017 or later installed, you can download and use the **free** [Visual Studio 2019 Community Edition](https://www.visualstudio.com/downloads/).
 
 ## Create a custom search instance
@@ -112,7 +112,7 @@ Custom Search provides a hosted UI to render the JSON response of your custom se
 
    ![Screenshot of the Hosted UI advanced configurations step](./media/custom-search-hosted-ui-advanced-configurations.png)  
   
-5. Select your subscription keys from the dropdown lists. Or, you can enter the subscription key manually. For information about getting keys, see [Try Cognitive Services](https://azure.microsoft.com/try/cognitive-services/?api=bing-custom-search-api).  
+5. Select your subscription keys from the dropdown lists. Or, you can enter the subscription key manually. For information about getting keys, see [Try Cognitive Research Technologies](https://azure.microsoft.com/try/cognitive-services/?api=bing-custom-search-api).  
   
    ![Screenshot of the Hosted UI additional configurations step](./media/custom-search-hosted-ui-subscription-key.png)
 

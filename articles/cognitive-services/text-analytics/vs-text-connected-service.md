@@ -1,6 +1,6 @@
 ---
 title: 'Tutorial: Connect to the Text Analytics service with Connected Services in Visual Studio'
-titleSuffix: Azure Cognitive Services
+titleSuffix: Azure Cognitive Research Technologies
 description: This article and its companion articles provide details for using the Visual Studio Connected Service feature for the Text Analytics Service.
 services: cognitive-services
 author: aahill
@@ -16,7 +16,7 @@ ms.author: aahi
 
 By using the Text Analytics Service, you can extract rich information to categorize and process visual data, and perform machine-assisted moderation of images to help curate your services.
 
-This article and its companion articles provide details for using the Visual Studio Connected Service feature for the Text Analytics Service. The capability is available in both Visual Studio 2019 or later, with the Cognitive Services extension installed.
+This article and its companion articles provide details for using the Visual Studio Connected Service feature for the Text Analytics Service. The capability is available in both Visual Studio 2019 or later, with the Cognitive Research Technologies extension installed.
 
 ## Prerequisites
 

@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Face API C#"
-titleSuffix: Azure Cognitive Services
-description: Create a Windows app that uses the Cognitive Services Face API to detect features of faces in an image.
+titleSuffix: Azure Cognitive Research Technologies
+description: Create a Windows app that uses the Cognitive Research Technologies Face API to detect features of faces in an image.
 services: cognitive-services
 author: ghogen
 manager: nitinme
@@ -12,11 +12,11 @@ ms.topic: tutorial
 ms.date: 07/03/2019
 ms.author: ghogen
 ---
-# Connecting to Cognitive Services Face API by using Connected Services in Visual Studio
+# Connecting to Cognitive Research Technologies Face API by using Connected Services in Visual Studio
 
-By using the Cognitive Services Face API, you can detect, analyze, organize, and tag faces in photos.
+By using the Cognitive Research Technologies Face API, you can detect, analyze, organize, and tag faces in photos.
 
-This article and its companion articles provide details for using the Visual Studio Connected Service feature for Cognitive Services Face API. The capability is available in both Visual Studio 2017 15.7 or later, with the Cognitive Services extension installed.
+This article and its companion articles provide details for using the Visual Studio Connected Service feature for Cognitive Research Technologies Face API. The capability is available in both Visual Studio 2017 15.7 or later, with the Cognitive Research Technologies extension installed.
 
 ## Prerequisites
 
@@ -25,7 +25,7 @@ This article and its companion articles provide details for using the Visual Stu
 
 [!INCLUDE [vs-install-cognitive-services-vsix](../../../includes/vs-install-cognitive-services-vsix.md)]
 
-## Create a project and add support for Cognitive Services Face API
+## Create a project and add support for Cognitive Research Technologies Face API
 
 1. Create a new ASP.NET Core web project. Use the Empty project template. 
 
@@ -34,7 +34,7 @@ This article and its companion articles provide details for using the Visual Stu
 
    ![Add Connected Service menu item](./media/vs-face-connected-service/Connected-Service-Menu.PNG)
 
-1. In the menu of available services, choose **Cognitive Services Face API**.
+1. In the menu of available services, choose **Cognitive Research Technologies Face API**.
 
    ![Choose the service to connect to](./media/vs-face-connected-service/Cog-Face-Connected-Service-0.PNG)
 
