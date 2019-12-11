@@ -436,7 +436,7 @@ Response content type: application/xml
 ### Implementation notes
 
 > [!IMPORTANT]
-> **Deprecation note:** After January 31, 2018, this method won't accept new sentence submissions. You'll get an error message. Please see the announcement about changes to the Collaborative Translation Framework (CTF).
+> **Deprecation note:** As of January 31, 2018, this method doesn't accept new sentence submissions. You'll get an error message. Please see the announcement about changes to the Collaborative Translation Framework (CTF).
 
 Adds a translation to the translation memory.
 

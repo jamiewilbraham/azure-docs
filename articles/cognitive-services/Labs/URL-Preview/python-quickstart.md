@@ -19,7 +19,7 @@ The following Python example creates a Url Preview for the SwiftKey Web site: ht
 
 ## Prerequisites
 
-Get an access key for the free trial [Cognitive Services Labs](https://labs.cognitive.microsoft.com/en-us/project-answer-search)
+Get an access key for the free trial [Cognitive Services Labs](https://msr-apis.portal.azure-api.net)
 
 This example uses Python 3.6.
 
