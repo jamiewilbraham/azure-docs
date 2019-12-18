@@ -1,6 +1,6 @@
 ---
 title: Similarity method - Academic Knowledge API
-titlesuffix: Azure Cognitive Research Technologies
+titlesuffix: Cognitive Research Technologies
 description: Use the Similarity method to calculate the academic similarity of two strings.
 services: cognitive-services
 author: alch-msft

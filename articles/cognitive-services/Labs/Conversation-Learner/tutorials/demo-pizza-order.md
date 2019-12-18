@@ -1,5 +1,5 @@
 ---
-title: Demo Conversation Learner model, pizza order - Microsoft Cognitive Research Technologies | Microsoft Docs
+title: Demo Conversation Learner model, pizza order - Cognitive Research Technologies | Microsoft Docs
 titleSuffix: Azure
 description: Learn how to create a demo Conversation Learner model.
 services: cognitive-services

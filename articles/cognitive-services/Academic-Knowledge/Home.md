@@ -1,6 +1,6 @@
 ---
 title: What is Academic Knowledge API?
-titlesuffix: Azure Cognitive Research Technologies
+titlesuffix: Cognitive Research Technologies
 description: Use the Academic Knowledge API to interpret user queries and retrieve rich information from the Academic Graph.
 services: cognitive-services
 author: darrine

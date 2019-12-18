@@ -1,5 +1,5 @@
 ---
-title: What is Conversation Learner? - Microsoft Cognitive Research Technologies | Microsoft Docs
+title: What is Conversation Learner? - Cognitive Research Technologies | Microsoft Docs
 titleSuffix: Azure
 description: Learn about Conversation Learner and how it works.
 services: cognitive-services

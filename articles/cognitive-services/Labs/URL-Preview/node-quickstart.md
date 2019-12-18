@@ -1,7 +1,7 @@
 ---
 title: "Quickstart: Project URL Preview, Node.js"
-titlesuffix: Azure Cognitive Research Technologies
-description: Get started using the URL Preview in Microsoft Cognitive Research Technologies on Azure.
+titlesuffix: Cognitive Research Technologies
+description: Get started using the URL Preview in Cognitive Research Technologies on Azure.
 services: cognitive-services
 author: mikedodaro
 manager: nitinme

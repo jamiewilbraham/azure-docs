@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Project URL Preview, Java"
-titlesuffix: Azure Cognitive Research Technologies
+titlesuffix: Cognitive Research Technologies
 description: Script sample to get started using the Project URL Preview with Java.
 services: cognitive-services
 author: mikedodaro

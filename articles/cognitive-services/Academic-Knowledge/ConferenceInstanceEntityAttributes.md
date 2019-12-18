@@ -1,6 +1,6 @@
 ---
 title: Conference Instance entity attributes - Academic Knowledge API
-titlesuffix: Azure Cognitive Research Technologies
+titlesuffix: Cognitive Research Technologies
 description: Learn the attributes you can use with the Conference Instance entity in the Academic Knowledge API.
 services: cognitive-services
 author: darrine

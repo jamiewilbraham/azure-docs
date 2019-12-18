@@ -1,6 +1,6 @@
 ---
 title: Command-line interface - Knowledge Exploration Service API
-titlesuffix: Azure Cognitive Research Technologies
+titlesuffix: Cognitive Research Technologies
 description: Use the command-line interface to build index and grammar files from structured data, and then deploy them as web services.
 services: cognitive-services
 author: bojunehsu

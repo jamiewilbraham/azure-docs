@@ -1,6 +1,6 @@
 ---
 title: What is Knowledge Exploration Service?
-titlesuffix: Azure Cognitive Research Technologies
+titlesuffix: Cognitive Research Technologies
 description: Add interactive search and refinement to your app with Knowledge Exploration Service (KES).
 services: cognitive-services
 author: bojunehsu

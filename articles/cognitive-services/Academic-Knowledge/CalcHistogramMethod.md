@@ -1,6 +1,6 @@
 ---
 title: CalcHistogram method - Academic Knowledge API
-titlesuffix: Azure Cognitive Research Technologies
+titlesuffix: Cognitive Research Technologies
 description: Use the CalcHistogram method to calculate the distribution of attribute values for a set of paper entities.
 services: cognitive-services
 author: alch-msft

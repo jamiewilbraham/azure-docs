@@ -1,5 +1,5 @@
 ---
-title: How to use entity detection callback with a Conversation Learner model - Microsoft Cognitive Research Technologies | Microsoft Docs
+title: How to use entity detection callback with a Conversation Learner model - Cognitive Research Technologies | Microsoft Docs
 titleSuffix: Azure
 description: Learn how to use entity detection callback with a Conversation Learner model.
 services: cognitive-services
